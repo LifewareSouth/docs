@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Lifeware',
+  tagline: 'Innovando en la inclusión social',
   url: 'https://LifewareSouth.github.io',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
@@ -10,10 +10,10 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Lifeware',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Logo Lifeware',
+        src: 'img/logoBoard.ico',
       },
       items: [
         {
@@ -22,12 +22,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        
       ],
     },
     footer: {
@@ -77,7 +72,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Lifeware SpA. Construido con Docusaurus.`,
     },
   },
   presets: [
