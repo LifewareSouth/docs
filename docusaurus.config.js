@@ -1,13 +1,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://ManuelRojasR.github.io',
-  baseUrl: '/docu/',
+  url: 'https://LifewareSouth.github.io',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'ManuelRojasR', // Usually your GitHub org/user name.
-  projectName: 'docu', // Usually your repo name.
+  organizationName: 'LifewareSouth', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
