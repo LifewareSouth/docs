@@ -1,11 +1,12 @@
 ---
 id: descargar-y-descomprimir-pictogramas
-title: Descargar y descomprimir pictogramas 
+title: Descargar y descomprimir pictogramas
+
 ---
 
 ### Prerrequisitos
 
-- Conxión a internet.
+- Conexión a internet.
 
 ## Paso a paso
 

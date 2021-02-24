@@ -74,6 +74,10 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Lifeware SpA. Construido con Docusaurus.`,
     },
+    hideableSidebar: true,
+    algolia:{
+      contextualSearch: true,
+    },
   },
   presets: [
     [
