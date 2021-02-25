@@ -32,16 +32,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'IntegraBoard',
               to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
             },
           ],
         },
-        {
+        /*{
           title: 'Community',
           items: [
             {
@@ -70,7 +66,7 @@ module.exports = {
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
-        },
+        },*/
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Lifeware SpA. Construido con Docusaurus.`,
     },
