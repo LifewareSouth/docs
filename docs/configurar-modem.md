@@ -60,8 +60,14 @@ Los datos ya se deben encontrar rellenados solo debe presionar en siguiente, en 
 ![Screenshot](./img/modem-huawei/configuracion-contraseña.png 'Configuración de contraseña')
 
 Finalmente presionar en finalizar.
-una vez que entra a la página debe ir a la sección ajustes de red y presionar el botón de 
-"+" para agregar un nuevo perfil, le aparecerá lo siguiente:
+
+Una vez que entra a la página debe ir a la sección ajustes de red.
+
+![Screenshot](./img/modem-huawei/ajustesRed.png 'Configuración del perfil')
+
+A continuación debe dejar desmarcada la opción "Seleccionar red automáticamente".
+
+Luego debe presionar el botón de "+" para agregar un nuevo perfil, le aparecerá lo siguiente:
 
 ![Screenshot](./img/modem-huawei/configPerfil.png 'Configuración del perfil')
 
