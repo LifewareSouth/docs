@@ -1,19 +1,19 @@
 module.exports = {
-  title: 'Lifeware',
+  title: 'OpenCluster Tech',
   tagline: 'Innovando en la inclusión social',
   url: 'https://LifewareSouth.github.io',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logoBoard.ico',
+  favicon: 'img/opencluster.ico',
   organizationName: 'LifewareSouth', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Lifeware',
+      title: 'OpenCluster Tech',
       logo: {
-        alt: 'Logo Lifeware',
-        src: 'img/logoBoard.ico',
+        alt: 'Logo OpenCluster Tech',
+        src: 'img/opencluster.ico',
       },
       items: [
         {
