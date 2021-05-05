@@ -1,11 +1,7 @@
 ---
 id: manual-lifeware-integra
-title: Manual LifewareIntegra
+title: Manual de Usuario LifewareIntegra V4®
 ---
-
-# Manual de Usuario:
-
-# LIFEWAREINTEGRA V 3 ®
 
 ## Contenido
 
