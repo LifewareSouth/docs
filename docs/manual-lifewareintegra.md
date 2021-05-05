@@ -9,30 +9,30 @@ title: Manual LifewareIntegra
 
 ## Contenido
 
-- [Requerimientos técnicos](#Requerimientos-técnicos)
-   - [Software](#Software):
-   - [Hardware](#Hardware):
-- [Modo de Uso](#Modo-de-Uso)
-- [Instalación del software](#Instalación-del-software)
-   - [Registro y Primer Uso](#Registro-y-Primer-Uso)
-- [Armado y posicionamiento del casco Insight](#Armado-y-posicionamiento-del-casco-Insight)
-- [Interfaz de Configuraciones](#Interfaz-de-Configuraciones)
-   - [ESTADO DE DISPOSITIVO](#ESTADO-DE-DISPOSITIVO)
-      - [Sensores](#Sensores)
-      - [Estado casco](#Estado-casco)
-      - [Conectividad Bluetooth](#Conectividad-Bluetooth)
-      - [Encendido](#Encendido)
-      - [Batería](#Batería)
-- [Menú de opciones](#Menú-de-opciones)
-   - [RECONECTAR](#RECONECTAR)
-   - [MÓDULO MOUSE](#MÓDULO-MOUSE)
-      - [Velocidad](#Velocidad)
-      - [Clic con tiempo](#Clic-con-tiempo)
-   - [MÓDULO EXPRESIONES](#MÓDULO-EXPRESIONES)
-   - [MÓDULO CONFIGURACIÓN](#MÓDULO-CONFIGURACIÓN)
-- [Uso del Software](#Uso-del-Software)
-   - [Menú lateral](#Menú-lateral)
-- [Comentarios](#Comentarios)
+- [Requerimientos técnicos](#requerimientos-técnicos)
+   - [Software](#software):
+   - [Hardware](#hardware):
+- [Modo de Uso](#modo-de-uso)
+- [Instalación del software](#instalación-del-software)
+   - [Registro y Primer Uso](#registro-y-primer-uso)
+- [Armado y posicionamiento del casco Insight](#armado-y-posicionamiento-del-casco-insight)
+- [Interfaz de Configuraciones](#interfaz-de-configuraciones)
+   - [ESTADO DE DISPOSITIVO](#estado-de-dispositivo)
+      - [Sensores](#sensores)
+      - [Estado casco](#estado-casco)
+      - [Conectividad Bluetooth](#conectividad-bluetooth)
+      - [Encendido](#encendido)
+      - [Batería](#batería)
+- [Menú de opciones](#menú-de-opciones)
+   - [RECONECTAR](#reconectar)
+   - [MÓDULO MOUSE](#módulo-mouse)
+      - [Velocidad](#velocidad)
+      - [Clic con tiempo](#clic-con-tiempo)
+   - [MÓDULO EXPRESIONES](#módulo-expresiones)
+   - [MÓDULO CONFIGURACIÓN](#módulo-configuración)
+- [Uso del Software](#uso-del-software)
+   - [Menú lateral](#menú-lateral)
+- [Comentarios](#comentarios)
 
 ## Requerimientos técnicos
 
@@ -71,206 +71,183 @@ El contenido dentro de la funda es el siguientes:
 
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/1.png)
   <h4 align="center"><i>Ilustración 1: Contenido de la funda.</i></h4>
 </div>
 
-</p>
 
 En la sección superior con cremallera del estuche, encontrará el paquete de sensores, el cable de carga USB y un pendrive USB universal. En la parte inferior, tienes el auricular y la diadema extraíble que se engancha como se muestra a continuación.
 
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/2.png)
   <h4 align="center"><i>Ilustración 2: Detalle del contenido.</i></h4>
 </div>
 
-</p>
 
 La configuración de INSIGHT es muy rápida y sencilla. Los sensores están hechos de un polímero semiseco. Si no se utilizan, deben guardarse en el porta sensor dentro de la bolsa con cierre. Para facilitar la configuración, se ha colocado los sensores y el brazo de referencia. Ambos se encuentran cubiertos con una lámina protectora. Porfavor, retire la lámina de plástico.
 
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/3.png)
   <h4 align="center"><i>Ilustración 3: Cara interior del auricular INSIGHT con lámina protectora.</i></h4>
 </div>
 
-</p>
 
 Por favor, localice el paquete de sensores como semuestra a continuación.
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/4.png)
   <h4 align="center"><i>Ilustración 4: Contenido del paquete de sensores INSIGHT</i></h4>
 </div>
 
-</p>
 
 El paquete de sensores tiene un sensor extra, para los usuarios con pelo grueso.
 
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/5.png)
   <h4 align="center"><i>Ilustración 5: Sensor de 3 puntas.</i></h4>
 </div>
 
-</p>
 
 Se recomienda utilizar el sensor de tres puntas. Este sensor está diseñado para tener una mejor penetración en el pelo y se recomienda su instalaciónen el brazo corto (parte superior del casco). Por favor, guarde los sensores de repuesto dentro del paquete de sensores para asegurar que no se sequen. Por favor, coloque los sensores en el auricular como se muestra a continuación.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/6.png)
   <h4 align="center"><i>Ilustración 6: armado de INSIGHT.</i></h4>
 </div>
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/7.png)
   <h4 align="center"><i>Ilustración 7: Unión de sensores.</i></h4>
 </div>
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/8.png)
   <h4 align="center"><i>Ilustración 8: INSIGHT con sensores.</i></h4>
 </div>
 
 Antes de cada uso, se recomienda cebar los sensores con una pequeña cantidad de líquido para que no estén secos.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/9.png)
   <h4 align="center"><i>Ilustración 9: Mojado sensores.</i></h4>
 </div>
 
 El casco se enciende pulsando el interruptor de encendido que se encuentra en la parte superior; véase la imagen siguiente.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/10.png)
   <h4 align="center"><i>Ilustración 10: Botón de encendido.</i></h4>
 </div>
 
 Cuando la unidad está encendida, se en ciende la luz indicadora blanca cuya ubicación se muestra a continuación.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/11.png)
   <h4 align="center"><i>Ilustración 11: Luz de encendido.</i></h4>
 </div>
 
-</p>
 El auricular puede ahora conectarse al pendrive través de Bluetooth Baja Energía y comenzará a transmitir datos.
 
 Antes de colocar los auriculares, añada el líquido de imprimación del paquete de sensores en cada uno de los cinco sensores y en ambas referencias. Encienda el casco, asegurándose de que el LED blanco de la parte delantera se ilumina y conéctelo a través de Bluetooth Baja Energía al pendrive USB antes de colocarlo en la cabeza.
 
 Deslice suavemente el auricular sobre la cabeza. Los sensores de referencia, que están en el brazo negro, deben hacer contacto con la piel detrás de la oreja. Si es necesario, doble suavemente el brazo del sensor de referencia para que los sensores entren en contacto con la piel. Los sensores frontales deben colocarse a unos tres dedos de distancia por encima de las cejas. A continuación se muestran algunas imágenes de la colocación. Con la goma de tres puntas deslicela hacia adelante y hacia atrás para que los sensores atraviesen el cabello y hagan contacto con el cuero cabelludo.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/12.png)
   <h4 align="center"><i>Ilustración 12: Cómo colocar el INSIGHT.</i></h4>
 </div>
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/13.png)
   <h4 align="center"><i>Ilustración 13: Ejemplo 1 usando INSIGHT.</i></h4>
 </div>
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/14.png)
   <h4 align="center"><i>Ilustración 14: Ejemplo 2 usando INSIGHT.</i></h4>
 </div>
 
-</p>
 ## Interfaz de Configuraciones
 
 La totalidad de las configuracion del software LifewareIntegra se llevan a cabo en la ventana principal o de configuración (ver ilustración 15). Esta consta de varias secciones y cada una se encarga de un aspecto del software en particular.
 
 La ventana principal o de configuración, tendrá bloqueada la acción de iniciar en caso de que el dispositivo Insight esté apagado, no esté emparejado con el sistema, esté descargado, muy alejado del receptor (2 metros o más de distancia entre el receptor USB y el dispositivo, o exista interferencia), o cuando el receptor USB no esté conectado al computador. Como se muestra en la Ilustración.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/15.png)
-  <h4 align="center"><i>Ilustración 15: Ventana principal o de configuración.</h4>
+  <h4 align="center"><i>Ilustración 15: Ventana principal o de configuración.</i></h4>
 </div>
 
-</p>
 
 Para acceder a todas las secciones es necesario encender y conectar el dispositivo. Allí se desplegará el cuadro de configuraciones como lo muestra la Ilustración 16.
 
-**NOTA:** el dispositivo puede demorarse entre 1 a 18 segundos en detectar que se encienda.
-
-</p>
+:::note
+El dispositivo puede demorarse entre 1 a 18 segundos en detectar que se encienda.
+:::
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/16.png)
   <h4 align="center"><i>Ilustración 16: Botón de iniciar operativo.</i></h4>
 </div>
 
-</p>
 
 ### ESTADO DE DISPOSITIVO
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/17.png)
 </div>
 
-</p>
 
 El dibujo representa el estado del casco y sus distintas características para el correcto funcionamiento del sistema.
 
 ### Sensores
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/18.png)
 </div>
 
-</p>
 
 Estos pueden presentar 4 colores:
 
-```
-● Negro: El sensor no detecta contacto con la piel del usuario.
-● Rojo: El sensor detecta levemente contacto con la piel del usuario, necesita ajustar un poco para la correcta detección.
-● Amarillo: El sensor detecta contacto con la piel del usuario, puede detectar con un 50% de eficiencia.
-● Verde: Correcto contacto con la piel del usuario, puede detectar las acciones y muecas del usuario sin problemas.
-```
+
+- Negro: El sensor no detecta contacto con la piel del usuario.
+- Rojo: El sensor detecta levemente contacto con la piel del usuario, necesita ajustar un poco para la correcta detección.
+- Amarillo: El sensor detecta contacto con la piel del usuario, puede detectar con un 50% de eficiencia.
+- Verde: Correcto contacto con la piel del usuario, puede detectar las acciones y muecas del usuario sin problemas.
+
 
 Lo ideal es que estén todos los sensores en verde, pudiendo haber algunos en amarillo.
 
@@ -278,70 +255,62 @@ Estos pueden verse afectados por interferencia entre el sensor y la piel, como e
 
 ### Estado casco
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/19.png)
 </div>
 
-</p>
 
 Esta barra determina si el sistema puede ejecutarse, y de no poder hacerlo, identificar el problema.
 
 ### Conectividad Bluetooth
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/20.png)
 </div>
 
-</p>
 
 Este es el icono más importante: Determina si el conector Bluetooth está correctamente instalado. Solo aparecerá disponible cuando el dispositivo Insight aparece como conectado o emparejado.
 
 Si esta opción aparece deshabilitada, el sistema nunca podrá iniciar.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/21.png)
 </div>
 
-</p>
 
 ### Encendido
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/22.png)
 </div>
 
-</p>
 
 Este icono sólo podrá ser detectado si el casco está encendido con energía y conectado.
 
 ### Batería
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/23.png)
 </div>
 
-</p>
 
 Este icono solo se muestra si los 2 Iconos anteriores se encuentran encendidos.
 
 Muestra el nivel de batería que presenta el dispositivo.
 
-**NOTA:** Puede que el icono de batería aparece apagado y los demás iconos encendidos, sin dificultar el uso de la aplicación. Esto puede deberse a la detección interna del propio casco (lo cual no indica que presente fallos) Para solucionar esto uno debe presionar en reconectar o volver a iniciar la aplicación.
+:::note
+Puede que el icono de batería aparece apagado y los demás iconos encendidos, sin dificultar el uso de la aplicación. Esto puede deberse a la detección interna del propio casco (lo cual no indica que presente fallos) Para solucionar esto uno debe presionar en reconectar o volver a iniciar la aplicación.
+:::
 
 ## Menú de opciones
 
@@ -349,20 +318,20 @@ En el extremo superior izquierdo se encuentran las tres secciones para iniciar l
 
 ### RECONECTAR
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/24.png)
 </div>
 
-</p>
 
 Esta opción, sirve en caso de que pasados los 18 segundos, el casco no sea detectado.
 
 Esta opción tratara de reconocer el casco en caso de que esté encendido, habilitando su botón de inicio.
 
-**NOTA:** En caso de no detectar el casco, después de usar reconectar, cerrar la aplicación e intentar nuevamente. También considerar que el casco pueda presentar baja batería y necesite recargarse.
+:::note
+En caso de no detectar el casco, después de usar reconectar, cerrar la aplicación e intentar nuevamente. También considerar que el casco pueda presentar baja batería y necesite recargarse.
+:::
 
 
 ### MÓDULO MOUSE
@@ -371,27 +340,23 @@ Al iniciar el software, se encontrará directamente en el módulo MOUSE, en caso
 
 Este módulo permite realizar los ajustes necesarios, para tener un adecuado control del cursor.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/25.png)
 </div>
 
-</p>
 
 Este Módulo se encuentra dividido en tres subsecciones:
 
 #### Velocidad
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/26.png)
 </div>
 
-</p>
 
 El cursor se desplazará dependiendo del movimiento al que sea sometido el dispositivo. Esta opción permite realizar los ajustes para un adecuado control del movimiento del cursor.
 
@@ -404,14 +369,12 @@ En esta subsección, se permite modificar el tiempo de activación del Click aut
 
 La característica de usar Click con tiempo es opcional. Para utilizar debe activar/encender la opción haciendo click en el botón azul.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/27.png)
 </div>
 
-</p>
 
 Para el correcto funcionamiento se deben establecer los parámetros de“clic con tiempo”, que se refieren al tiempo que debe mantenerse el mouse inactivo para desencadenar la acción del clic. Para aumentar el tiempo, desplace la barra de control asociada hacia la derecha. Asimismo, desplace la barra de control hacia la izquierda para disminuir el tiempo de inactividad requerido.
 
@@ -421,14 +384,12 @@ Para modificar el Área de Activación, mueva hacia la izquierda o derecha la ba
 
 ### MÓDULO EXPRESIONES
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/28.png)
 </div>
 
-</p>
 
 En esta sección se evalúan las distintas expresiones disponibles para permitir el funcionamiento del software LifewareIntegra: Parpadeo, Guiño ojo izquierdo Guiño ojo derecho, Apretar los dientes, Fruncir el ceño, Sorpresa, Sonrisa.
 
@@ -454,51 +415,43 @@ En este módulo se puede crear/eliminar un perfil de usuario el cual guardará l
 
 En caso de no crear ningún usuario se cargará automáticamenteuno denominado “default”.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/29.png)
 </div>
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/30.png)
 </div>
 
-</p>
 
 Una vez completada la configuración, determinando la sensibilidad del cursor, el uso o no de expresiones faciales y la asignación de acciones. Además dede terminar el uso o no de clic por tiempo, se procede a dar inicio al funcionamiento del software, presionando el botón INICIAR FUNCIONAMIENTO.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/31.png)
 </div>
 
-</p>
 
 ## Uso del Software
 
 Al iniciar el funcionamiento, desaparecerá el menú de configuración brindando acceso a dirigir el cursor con el movimiento de la cabeza según las funcionalidades previamente asignadas. Podrá detener el funcionamiento del software presionando las teclas **CTRL+L** , retornando inmediatamente al menú de configuración.
 
-</p>
 
 ### Menú lateral
 
 Al dar inicio al funcionamiento del software LifewareIntegra,se ocultará el menú de configuración, a su vez se desplegará un menú en la parte derecha de la pantalla, con el cual se puede complementar el uso del mismo.
 
-</p>
 
 <div align="center">
- 
+
   ![screenshot](./img/manual-lifewareintegra/32.png)
 </div>
 
-</p>
 
 Este menú cuenta con las siguientes opciones :
 
@@ -532,22 +485,24 @@ Esta opción permite cambiar el tamaño del teclado en pantalla, podrá aumentar
 
 ## Comentarios
 
-```
+:::warning
 El software puede funcionar en computadores que cuenten con Windows 10 (Professional, Home Single Lenguaje) pero su soporte no es oficial para sistemas operativos anteriores,por lo que Lifeware S.P.A no asegura su correcto funcionamiento.
-```
-```
+:::
+
+:::caution
 “Lifeware”, “Lifewareintegra y su srespectivos logotipos son marcas comerciales registradas de Lifeware S.P.A en Chile y/o en otros países.
-```
-```
+:::
+
+:::caution
 “Windows”, “WindowsXP”, “WindowsVista”, “Windows7”, “Windows8”, “Windows10” son
 marcas comerciales de Microsoft Corporation en Estados Unidos y/o en otros países y no tienen relación alguna con Lifeware S.P.A.
-```
-```
+:::
+:::caution
 “Insight” y “Emotiv” son marcas comerciales de Emotiv Systems en Australia y/o en otros países y no tienen relación alguna con Lifeware S.P.A.
-```
-```
+:::
+:::caution
 Se prohíbe la copia total o parcial de forma digital, foto copia, off set o cualquier otro medio mecánico o digital de este documento así como de cualquier componente de software, material audio visual página web y cualquier otro material del que la empresa LifewareS.P.A. Posea derechos, sin la autorización por escrito deLifeware S.P.A.
-```
+:::
 
 
 
