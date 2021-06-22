@@ -407,6 +407,11 @@ Los gestos más sensibles y recomendados para el usuarioson:
 
 ### MÓDULO CONFIGURACIÓN
 
+<div align="center">
+
+  ![screenshot](./img/manual-lifewareintegra/28_1.png)
+</div>
+
 En este módulo se puede crear/eliminar un perfil de usuario el cual guardará la última configuración determinada. El perfil creado estará disponible la próxima vez que el usuario inicie sesión.
 
 En caso de no crear ningún usuario se cargará automáticamenteuno denominado “default”.
@@ -423,6 +428,28 @@ En caso de no crear ningún usuario se cargará automáticamenteuno denominado �
   ![screenshot](./img/manual-lifewareintegra/30.png)
 </div>
 
+Además, puede establecer el uso del sonido para las acciones del mouse. 
+
+<div align="center">
+
+  ![screenshot](./img/manual-lifewareintegra/30_1.png)
+</div>
+
+Como se muestra en la imagen anterior, se puede activar o desactivar la opción de sonido para las acciones del mouse. Es decir, cuando se ejecuta alguna acción del mouse y  se cuenta con la acción del sonido habilitada, se escuchará un pequeño sonido.
+
+### MÓDULO MANUAL DE USUARIO
+
+<div align="center">
+
+  ![screenshot](./img/manual-lifewareintegra/30_2.png)
+</div>
+
+Este módulo cuenta con una redirección hacia una página que contiene el manual de usuario para lifewareintegra.
+
+<div align="center">
+
+  ![screenshot](./img/manual-lifewareintegra/30_3.png)
+</div>
 
 Una vez completada la configuración, determinando la sensibilidad del cursor, el uso o no de expresiones faciales y la asignación de acciones. Además dede terminar el uso o no de clic por tiempo, se procede a dar inicio al funcionamiento del software, presionando el botón INICIAR FUNCIONAMIENTO.
 
