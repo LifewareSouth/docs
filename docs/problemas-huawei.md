@@ -57,7 +57,8 @@ Luego de reiniciar el modem, puede volver a intentar los pasos de la [guía] de 
 
 [guía]: ./configurar-modem.md
 
-:::caution Asegúrese de presionar el botón mientras el dispositivo se encuentra encendido, es decir mientras esta la batería conectada y la luz de encendido permanezca en su lugar.
+:::caution
+Asegúrese de presionar el botón mientras el dispositivo se encuentra encendido, es decir mientras esta la batería conectada y la luz de encendido permanezca en su lugar.
 :::
 
 :::warning
