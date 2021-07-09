@@ -7,7 +7,7 @@ title: Configuración módem Huawei
 
 1. [Inserción del chip en el módem](#1-inserción-del-chip-en-el-módem)
 2. [Configuración de la red WIFI](#2-configuración-de-la-red-wifi)
-
+3. [Problemas con conectividad](#3-problemas-con-conectividad)
 
 ## 1. Inserción del chip en el módem
 
@@ -158,4 +158,4 @@ Si cambia la contraseña, la nueva contraseña ingresada será la clave para ent
 
 Si cuenta con problemas de conectividad a internet, pruebe ingresando al siguiente [enlace].
 
-[enlace]: www.google.cl
+[enlace]: ./problemas-huawei.md
