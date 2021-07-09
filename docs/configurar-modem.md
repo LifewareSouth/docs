@@ -158,4 +158,4 @@ Si cambia la contraseña, la nueva contraseña ingresada será la clave para ent
 
 Si cuenta con problemas de conectividad a internet, pruebe ingresando al siguiente [enlace].
 
-[enlace]: https://github.com/LifewareSouth/docslifeware/blob/markdown-lifeware/docs/azure/entorno-lifeware-bridgestone.md
+[enlace]: www.google.cl
