@@ -22,7 +22,7 @@ Nombre del perfil: Movistar Internet
 
 APN: m2m.movistar.cl
 
-:::caution Asegúrese de que no exista ningún espacio en el campo **APN**, ya que algunas formas de escritura suelen incorporar un espacio luego de un punto. :::
+:::caution Asegúrese de que no exista ningún espacio en el campo **APN**, ya que algunas formas de escritura suelen incorporar un espacio luego de un punto.:::
 
 Luego de ingresar los datos, debe guardar y salir, con este cambio en unos minutos tendrá acceso a internet.
 
@@ -54,5 +54,6 @@ Luego de reiniciar el modem, puede volver a intentar los pasos de la [guía] de 
 
 [guía]: ./manual-lifewareintegra.md
 
-:::caution Asegúrese de presionar el botón mientras el dispositivo se encuentra encendido, es decir mientras esta la batería conectada y la luz de encendido permanezca en su lugar. :::
-:::warning Tenga presente que, se puede salir la batería mientras intenta presionar el botón de reinicio a su estado de fábrica. :::
+:::caution Asegúrese de presionar el botón mientras el dispositivo se encuentra encendido, es decir mientras esta la batería conectada y la luz de encendido permanezca en su lugar.:::
+
+:::warning Tenga presente que, se puede salir la batería mientras intenta presionar el botón de reinicio a su estado de fábrica.:::
