@@ -6,6 +6,7 @@ title: Configuración del teclado lifeware integra
 1. [Ajustes](#1-ajustes)
 2. [Posición](#2-posición)
 3. [Acercamiento](#3-acercamiento)
+3. [Ventana flotante](#4-Ventana-flotante)
 
 ## 1. Ajustes
 
@@ -63,3 +64,29 @@ Puede acercar para obtener una vista de primer plano de su teclado, o alejar par
 - **Fijar el tamaño de la ventana:** Puede evitar que el teclado cambie de tamaño.
 
 - **Pellizque o estire para hacer zoom cuando use una pantalla táctil:** Para acercar o alejar, toque el teclado en pantalla con dos dedos y luego mueva los dedos uno hacia el otro (pellizcar) o alejándolos (estirar).
+
+## 4. Ventana flotante
+
+Hay dos ventanas diferentes que puede usar para abrir el teclado en pantalla.
+
+1. La primera ventana ("Ventana Flotante para Teclado"), que se puede colocar en cualquier lugar de la pantalla, le permite mostrar u ocultar el teclado en pantalla.
+
+2. La segunda ventana ("Mostrar el icono flotante del teclado en pantalla junto al cursor de texto") se muestra como un icono ubicado junto al cursor de texto. Si no hay un cursor de texto en la pantalla, esta ventana no se mostrará.
+
+Puede cambiar el tamaño de cualquiera de estas ventanas, ajustar su transparencia o hacer que desaparezcan automáticamente cuando se muestra el teclado en la pantalla.
+
+![Screenshot](./img/teclado-lifewareintegra/6.png)
+
+- **Auto-escondite:** Puede ocultar estas ventanas cuando el teclado en pantalla está visible y mostrarlas cuando el teclado está oculto.
+
+
+- **Fondo transparente:** Mostrar solo el icono y la etiqueta.
+
+
+- **Mostrar el icono flotante del teclado en pantalla junto al cursor de texto:** Puede hacer que un icono flotante aparezca automáticamente cuando toca una ubicación de la pantalla donde desea insertar su texto. Para abrir el teclado en pantalla, toque el icono flotante.
+
+---
+**NOTA:**
+Algunas aplicaciones dibujan el cursor de texto a su manera y no proporcionan información sobre su posición. (Estos son Firefox, Google Chrome, OpenOffice, CorelDRAW, etc.) En este caso, el icono flotante no se mostrará.
+
+---
