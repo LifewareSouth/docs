@@ -12,9 +12,9 @@ title: Descargar y descomprimir pictogramas
 
 ### Descarga
 
-1. Los pictogramas se pueden descargar desde [AQUÍ](http://updates.lifeware.cl/Recursos/Pictogramas.zip) o el siguiente enlace:
+1. Los pictogramas se pueden descargar desde [AQUÍ](https://updates.lifeware.cl/Recursos/Pictogramas.zip) o el siguiente enlace:
 
-    <http://updates.lifeware.cl/Recursos/Pictogramas.zip>
+    <https://updates.lifeware.cl/Recursos/Pictogramas.zip>
 
 2. Aparecerá una ventana preguntando en donde se guardará la descarga (se recomienda guardar en el escritorio). Luego, presionar el botón "Guardar".
 
