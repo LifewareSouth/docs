@@ -677,7 +677,8 @@ las configuraciones de pictogramas).
    
    ![Screenshoot](./img/manual-integraboard/6.1.png 'Tablero Comunicación')
    *tablero de comunicación*
-   </div>
+   
+</div>
 
 - El tablero de enseñanza se utilizará para mostrar de manera gráfica diferentes categorías. También se usará para los pictogramas que tengan seleccionados algún sonido (para activar el sonido se debe presionar sobre el pictograma y el programa lo reproducirá).
 
@@ -685,7 +686,8 @@ las configuraciones de pictogramas).
    
    ![Screenshoot](./img/manual-integraboard/6.2.png 'Asignar Tablero')
    *tablero de enseñanza*
-   </div>
+
+</div>
 
 ## Importante
 
