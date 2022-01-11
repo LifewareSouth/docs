@@ -42,7 +42,7 @@ title: Descargar y descomprimir pictogramas
 
 </div>
 
-2. Con el puntero del mouse sobre el archivo descargado, y seleccione la opción "Extraer todo...".
+2. Con el puntero del mouse sobre el archivo descargado, hacer click derecho y seleccionar la opción "Extraer todo...".
 
 <div style={{textAlign: 'center'}}>
 

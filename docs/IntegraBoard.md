@@ -125,6 +125,13 @@ La primera vez que se ejecute el programa, será obligatorio estar conectado a i
 
 ## 2. IntegraBoard - Panel de navegación
 
+Desde este punto en adelante, ocuparemos palabras claves que es necesario que el usuario maneje, estas son:
+
+-Pictogramas: Representación figurativa de elementos o significados a través de una imagen con un texto.
+-Tablero: Conjunto de pictogramas o imagenes representativas. Símbolos gráficos para la comunicación.
+
+Haciendo click en el botón "Configurar tableros" dentro del menú principal se puede acceder al panel de navegación de la aplicación.
+
 ### 2.1 Tableros
 
 En esta sección se pueden crear y configurar los tableros con los que se trabajará,
@@ -140,11 +147,11 @@ pudiendo modificarlos como se necesite para cada caso.
 
 ##### 1. Listar tableros
 
-Lista los Tableros con su visualización en miniatura.
+Lista de tableros con su visualización en miniatura.
 
 ##### 2. Filtro de búsqueda por nombre.
 
-Permite buscar un grupo en específico mediante un buscador.
+Permite buscar un tablero de comunicación en específico.
 
 ##### 3. Limpiar filtro
 
@@ -152,13 +159,11 @@ Limpia el buscador y vuelve a mostrar todos los tableros.
 
 ##### 4. Crear nuevo tablero
 
-Nos deriva a la pestaña “Modificar tablero”, esta nos permitirá crear un tablero desde
-cero en la pestaña Modificación de tablero.
+Nos deriva a la pestaña “Modificar tablero” la cual nos permite crear un tablero desde el comienzo.
 
 ##### 5. Asignar tablero
 
-Asigna el tablero modificando su estado a “Asignado” para que aparezca en el
-IntegraBoard Player.
+Cambia el estado del tablero, pasando su estado de "No Asignado" a "Asignado", siempre y cuando seleccionemos uno de los tableros haciendo un click sobre él. Esto nos permitirá hacer uso del tablero en el IntegraBoard Player.
 
 ##### 6. Eliminar tablero
 
@@ -171,8 +176,7 @@ Permite guardar/cargar el tablero seleccionado en el computador/aplicación.
 ### 2.2. Modificar tablero
 
 En esta sección se puede crear o modificar un tablero, definiendo la cantidad de
-pictogramas que tendrá, el nombre, los pictogramas, el tipo del tablero y su imagen
-representativa.
+pictogramas que tendrá, el nombre, los pictogramas a utilizar, el tipo del tablero y su imagen representativa.
 
 <div style={{textAlign: 'center'}}>
 
@@ -203,9 +207,7 @@ ordenarlo.
 
 ##### 3. Crear pictograma
 
-Permite ingresar a la pestaña de "Crear/Modificar pictogramas", también se puede
-tomar un pictograma asignado y arrastrarlo a un espacio sin asignar en caso de
-necesitar ordenarlo.
+Permite ingresar a la pestaña de "Crear/Modificar" pictogramas donde se puede crear un pictograma nuevo, el cual quedará listo para ser agregado al tablero de comunicación.
 
 #### 2.2.2. Asignar
 
@@ -231,7 +233,7 @@ Restablece los filtros, para poder visualizar todos los pictogramas.
 
 ##### 4. Lista de pictogramas
 
-Lista los pictogramas existentes.
+Lista de los pictogramas existentes, aquí es posible seleccionar multiples pictogramas para agregar al tablero haciendo click en los pictogramas deseados.
 
 ##### 5. Usar selección
 
@@ -288,9 +290,7 @@ Permite seleccionar entre tablero de comunicación y tablero de enseñanza.
 ##### 3. Filas y columnas
 
 
-Permite agregarle filas horizontalmente al tablero, con un máximo de 7 y mínimo de 1
-y adicionalmente permite agregar columnas verticalmente al tablero, con un máximo
-de 4 y mínimo de 1.
+Permite agregarle filas horizontalmente al tablero, con un máximo de 4 y mínimo de 1 y adicionalmente permite agregar columnas verticalmente al tablero, con un máximo de 7 y mínimo de 1. Permitiendo así, un máximo de 28 pictogramas por tablero.
 
 ##### 4. Pictograma que representa al tablero
 
@@ -312,24 +312,23 @@ propias.
 
 </div>
 
-#### 2.3.1 Funcionalidades de Pictogramas
+#### 2.3.1 Funcionalidades de pictogramas
 
 ##### 1. Filtro de búsqueda por nombre
 
-Permite buscar un grupo en específico mediante un buscador.
+Filtra los pictogramas existentes por nombre.
 
 ##### 2. Filtro de búsqueda por categoría
 
-Permite buscar un grupo en específico mediante un buscador.
+Filtra los pictogramas existentes por categoría.
 
-##### 3. Listar pictogramas
+##### 3. Limpiar filtro
 
-Lista los Pictogramas con su visualización en miniatura nombre, texto y categoría.
+Restablece los filtros, para poder visualizar todos los pictogramas.
 
-##### 4. Seleccionar pictograma
+##### 4. Lista de pictogramas
 
-Nos deriva a la pestaña “Modificar Pictograma”, esta nos permitirá crear un tablero
-desde cero.
+Muestra los pictogramas con su imagen en miniatura, nombre, texto y categoría. Hacer doble click en un pictograma nos deriva a la pestaña “Modificar Pictograma”, esta nos permitirá crear un tablero desde cero.
 
 ##### 5. Crear nuevo pictograma
 
@@ -364,7 +363,7 @@ Muestra la sección en la que nos encontramos.
 
 ##### 2. Vista previa
 
-Permite visualizar el pictograma en edición.
+Permite visualizar el pictograma en edición luego de seleccionar la imagen a utilizar.
 
 ##### 3. Nombre pictograma
 
@@ -376,11 +375,11 @@ Corresponde al texto bajo la imagen.
 
 ##### 5. Sonido
 
-Permite asignarle un sonido al pictograma para que este se reproduzca.
+Permite asignarle un sonido al pictograma para que este se reproduzca (Opcional).
 
-##### 6. Visualización categoría
+##### 6. Categoría
 
-Se muestra el color de categoría para su mejor visualización.
+Permite categorizar el pictograma para una búsqueda más rápida.
 
 ##### 7. Filtro
 
@@ -388,13 +387,17 @@ Filtra las imágenes según el nombre que tenga asociado el archivo.
 
 ##### 8. Imágenes
 
-Tenemos dos secciones para las imágenes. La del lado derecho es una lista de todas las imágenes que quedan cargadas en el programa si es que fueron utilizadas en algún otro pictograma. La de la izquierda es para subir imágenes y se cargarán en la sección de la derecha.
+Esta lista permite seleccionar una de las imágenes que ya están cargadas para asignarla al pictograma.
 
-##### 9. Guardar
+##### 9. Agregar nuevas imágenes
+
+Permite cargar una nueva imágen para asignarla al pictograma
+
+##### 10. Guardar
 
 Guarda los cambios realizados.
 
-##### 10. Cancelar
+##### 11. Cancelar
 
 Vuelve a la pestaña de Pictogramas sin realizar cambios.
 
@@ -416,9 +419,7 @@ Permite listar los tableros disponibles que posee el usuario a configurar.
 
 ##### 2. Seleccionar Tableros
 
-
-Permite seleccionar el tablero que se quiere agregar como grupo aparte de los
-tableros propios del usuario
+Permite seleccionar el tablero a utilizar.
 
 ### 3.2 Tableros
 
@@ -498,58 +499,157 @@ comunicación o de enseñanza.
 
 ### 4.2. Crear Pictogramas
 
-- Ir a la sección Pictogramas.
-- Importar Carpeta (en caso de querer agregar pictogramas masivamente):
-   - Seleccionar carpeta con pictogramas.
-   - Presionar Aceptar.
+- En caso de querer importar varios pictogramas:
+
+   Paso 1: Ir a la sección Pictogramas.
+
+   Paso 2: Importar Carpeta (en caso de querer agregar pictogramas masivamente):
+   
+   Paso 3: Seleccionar carpeta con pictogramas.
+   
+   Paso 4: Presionar Aceptar.
+
+
 - En caso de querer agregar pictograma individualmente:
-   - Crear nuevo pictograma.
-   - Agregar imagen.
-   - Agregar título.
-   - Agregar texto.
-   - Agregar sonido.
-   - Agregar categoría.
-- Llenar datos en la pestaña crear pictograma:
-   - Dentro de la selección o creación de pictogramas llenar los datos del pictograma: Nombre, texto, Sonido, Categoría.
-   - Presionar guardar.
-- Reproducir sonido:
-   - Seleccionar sonido.
-   - Agregar audio (mp3).
-   - Reproducir audio (para probar que se escuche).
-   - Presionar guardar.
-- Asignar Imagen:
-   - Ir a la lista de imágenes o agregar una nueva.
-   - Seleccionar una imagen.
-   - Presionar guardar.
+   
+   Paso 1: Crear nuevo pictograma.
+   
+   Paso 2: Agregar nueva imagen o seleccionar la imagen a utilizar de las que ya están cargadas en el programa.
+   
+   Paso 3: Agregar título (esto nos permitirá buscar el pictograma en otra oportunidad).
+   
+   Paso 4: Agregar texto (este será el texto que aparecerá bajo la imagen).
+   
+   Paso 5: Agregar sonido (este ítem es opcional, los sonidos nuevos deben ser descargados por cada beneficiario).
+   
+   Paso 6: Agregar categoría (esta opción da la posibilidad de encasillar el pictograma en un grupo para buscarlo de manera reducida a futuro).
+   
+   Paso 7: Guardar (aparecerá un mensaje: "el picograma fue creado con éxito").
+
+<div style={{textAlign: 'center'}}>
+
+![Screenshoot](./img/manual-integraboard/4.2.1.png 'Crear Pictograma')
+
+</div>
+
+- Para guardar un sonido:
+
+   Paso 1: Seleccionar sobre la opción sonido..
+
+   Paso 2: Hacer click en agregar audio (mp3).
+
+   Paso 3: Seleccionar sonido desde nuestro dispositivo.
+
+   Paso 4: Hacer click en abrir.
+
+   Paso 5: Presionar sobre audio seleccionado.
+
+   Paso 6: Sobre audio seleccionado presionar guardar.
+
+<div style={{textAlign: 'center'}}>
+
+![Screenshoot](./img/manual-integraboard/4.2.2.png 'Guardar Sonido 1')
+![Screenshoot](./img/manual-integraboard/4.2.3.png 'Guardar Sonido 2')
+![Screenshoot](./img/manual-integraboard/4.2.4.png 'Guardar Sonido 3')
+
+</div>
+
+
 - Editar Pictograma:
-   - Ir a la sección Pictogramas.
-   - Hacer doble clic en pictograma.
-   - Realizar cambios y Guardar
-   - Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+   
+   Paso 1: Ir a la sección Pictogramas.
+   
+   Paso 2: Hacer doble clic en un pictograma.
+   
+   Paso 3: Realizar cambios y Guardar
+   
+   Paso 4: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+
 - Editar Pictograma de tablero:
-   - Ir a la Sección Tablero.
-   - Seleccionar Tablero.
-   - Seleccionar Pictograma y presionar Modificar Pictograma.
-   - Realizar Cambios y Guardar.
-   - Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+   
+   Paso 1: Ir a la Sección Tablero.
+   
+   Paso 2: Seleccionar Tablero.
+   
+   Paso 3: Seleccionar Pictograma y presionar Modificar Pictograma.
+   
+   Paso 4: Realizar Cambios y Guardar.
+   
+   Paso 5: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
 
 
 ### 4.3. Crear Tablero
 
+Paso 1: Ir a la sección Tableros.
 
-- Ir a la sección Tableros.
-- Presionar Crear nuevo tablero.
-- En la sección derecha configurar el tamaño y el nombre a asignar.
-- Presionar en los íconos que dicen Asignar y seleccionar los pictogramas a
-Agregar.
-- Guardar cambios.
-- Guardar Tablero con la Opción de la derecha Guardar Tablero.
+   <div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/4.3.1.png 'Crear Tablero')
+   
+   </div>
+   
+   Paso 2: Presionar Crear nuevo tablero.  
+   
+   <div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/4.3.2.png 'Crear Tablero 2')
+   
+   </div>
+
+   Paso 3: En la sección derecha configurar el tamaño y el nombre a asignar.
+   
+   Paso 4: Presionar en los íconos que dicen Asignar y seleccionar los pictogramas agregar.
+   
+   <div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/4.3.4.png 'Crear Tablero 3')
+   
+   </div>
+
+   Paso 5: Guardar cambios.
+
+   Paso 6: Guardar Tablero con la opción de la derecha "Guardar Tablero".
+
+   <div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/4.3.5.png 'Crear Tablero 4')
+   
+   </div>
+   
 
 ### 4.4. Seleccionar tableros disponibles
 
+ - Luego de iniciar tableros desde el menú principal, se podrán seleccionar los tableros en la parte izquierda donde estarán listados según la asignación que se les dio en la sección Tableros. Para hacer uso de los tableros de comunicación creados debemos:
 
-- Seleccionar tableros en la parte izquierda donde estarán listados según la
-asignación que se les dio en la sección Tableros.
+   Paso 1: Hacer click en el tablero a utilizar.
+ 
+   <div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/4.4.1.png 'Seleccionar Tablero')
+   
+   </div>
+
+   Paso 2: Presionar sobre el botón azul "Asignar tablero".
+
+   <div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/4.4.2.png 'Asignar Tablero')
+   
+   </div>
+
+   Paso 3: Seleccionar e ir a "Menú principal".
+
+   Paso 4: Presionar sobre "Iniciar Tableros".
+
+   Paso 5: Seleccionar tablero a utilizar.
+
+   <div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/4.4.3.png 'Tablero a usar')
+   
+   </div>
+
+   Paso 6: Utilizar tableros.
 
 ### 4.5. Usar Pictogramas
 
@@ -558,9 +658,34 @@ las configuraciones de pictogramas).
 
 ### 4.6. Usar Simulador de voz
 
+ - Con el tablero de tipo "Comunicación" ya asignado vamos a la opción "Iniciar Tableros" la cual se encuentra en el menú principal.
 
-- Presionar en la sección Decir Algo ubicada en la parte derecha.
-- Seleccionar los pictogramas que se quieren reproducir continuamente.
+   Paso 1: Seleccionar tablero a utilizar, los cuales se encontrarán al costado izquierdo.
+
+   Paso 2: Seleccionar los pictogramas que se quieren reproducir, estos irán apareciendo en la sección "Decir algo".
+
+   Paso 3: Presionar el pictograma de "Reproducir" ubicada en la parte derecha.
+
+   Paso 4: Para volver al menú principal presionar sobre el pictograma "Salir".
+
+
+## 5. Diferencia entre tablero de comunicación y enseñanza.
+
+- El tablero de comunicación se utilizareá para que el programa pueda reproducir cada una de las palabras puestas bajo el pictograma seleccionado.
+
+<div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/6.1.png 'Tablero Comunicación')
+   *tablero de comunicación*
+   </div>
+
+- El tablero de enseñanza se utilizará para mostrar de manera gráfica diferentes categorías. También se usará para los pictogramas que tengan seleccionados algún sonido (para activar el sonido se debe presionar sobre el pictograma y el programa lo reproducirá).
+
+<div style={{textAlign: 'center'}}>
+   
+   ![Screenshoot](./img/manual-integraboard/6.2.png 'Asignar Tablero')
+   *tablero de enseñanza*
+   </div>
 
 ## Importante
 

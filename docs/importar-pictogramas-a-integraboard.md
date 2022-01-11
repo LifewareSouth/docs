@@ -67,11 +67,19 @@ title: Importar pictogramas a IntegraBoard
 
 </div>
 
-8. Finalmente, vuelva a la sección "Pictogramas" e IntegraBoard mostrará todos los pictogramas ahora disponibles.
+8. Vuelva a la sección "Pictogramas" e IntegraBoard mostrará todos los pictogramas ahora disponibles.
 
 <div style={{textAlign: 'center'}}>
 
-![Screeshot](./img/importar-pictogramas/8.png)
+![Screenshot](./img/importar-pictogramas/8.png)
+
+</div>
+
+9. Una vez terminado el proceso, presione en "Menú Principal" para volver a la pantalla principal.
+
+<div style={{textAlign: 'center'}}>
+
+![Screenshot](./img/importar-pictogramas/9.png)
 
 </div>
 
