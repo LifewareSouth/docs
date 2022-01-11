@@ -677,7 +677,7 @@ Tablero de comunicación:
 
 <div style={{textAlign: 'center'}}>
    
-   ![Screenshoot](./img/manual-integraboard/6.1.png 'Tablero Comunicación')
+   ![Screenshoot](./img/manual-integraboard/6.1.png 'Tablero Comunicacion')
 
 </div>
 
@@ -687,7 +687,7 @@ Tablero de enseñanza:
 
 <div style={{textAlign: 'center'}}>
    
-   ![Screenshoot](./img/manual-integraboard/6.2.png 'Asignar Tablero')
+   ![Screenshoot](./img/manual-integraboard/6.2.png 'Tablero enseñanza')
 
 </div>
 
