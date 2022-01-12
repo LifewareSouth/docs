@@ -594,7 +594,7 @@ comunicación o de enseñanza.
 
    Paso 6: Guardar Tablero con la opción de la derecha "Guardar Tablero".
    
-   ![Screenshot](./img/manual-integraboard/4.3.5.PNG)
+   ![Screenshot](./img/manual-integraboard/4.3.5.png)
    
 
 ### 4.4. Seleccionar tableros disponibles
