@@ -583,7 +583,7 @@ comunicación o de enseñanza.
    
    <div style={{textAlign: 'center'}}>
    
-   ![Screenshot](./img/manual-integraboard/4.3.1.png)
+   ![Screenshot](./img/manual-integraboard/4.3.1.png 'Crear Tablero 1')
    
    </div>
 
