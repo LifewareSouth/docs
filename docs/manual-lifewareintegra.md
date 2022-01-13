@@ -63,7 +63,7 @@ La primera vez que se ejecuta LifewareIntegra, el programa se conectará al serv
 
 ## Armado y posicionamiento del casco Insight
 
-El contenido dentro de la funda es el siguientes:
+El contenido dentro de la funda es el siguiente:
 
 
 <div align="center">
@@ -93,7 +93,7 @@ La configuración de INSIGHT es muy rápida y sencilla. Los sensores están hech
 </div>
 
 
-Por favor, localice el paquete de sensores como semuestra a continuación.
+Por favor, localice el paquete de sensores como se muestra a continuación.
 
 <div align="center">
 
@@ -112,7 +112,7 @@ El paquete de sensores tiene un sensor extra, para los usuarios con pelo grueso.
 </div>
 
 
-Se recomienda utilizar el sensor de tres puntas. Este sensor está diseñado para tener una mejor penetración en el pelo y se recomienda su instalaciónen el brazo corto (parte superior del casco). Por favor, guarde los sensores de repuesto dentro del paquete de sensores para asegurar que no se sequen. Por favor, coloque los sensores en el auricular como se muestra a continuación.
+Se recomienda utilizar el sensor de tres puntas. Este sensor está diseñado para tener una mejor penetración en el pelo y se recomienda su instalación en el brazo corto (parte superior del casco). Por favor, guarde los sensores de repuesto dentro del paquete de sensores para asegurar que no se sequen. Por favor, coloque los sensores en el auricular como se muestra a continuación.
 
 
 <div align="center">
@@ -135,13 +135,13 @@ Se recomienda utilizar el sensor de tres puntas. Este sensor está diseñado par
   <h4 align="center"><i>Ilustración 8: INSIGHT con sensores.</i></h4>
 </div>
 
-Antes de cada uso, se recomienda cebar los sensores con una pequeña cantidad de líquido para que no estén secos.
+Antes de cada uso, se recomienda mojar los sensores con una pequeña cantidad de líquido para que no estén secos.
 
 
 <div align="center">
 
   ![screenshot](./img/manual-lifewareintegra/9.png)
-  <h4 align="center"><i>Ilustración 9: Mojado sensores.</i></h4>
+  <h4 align="center"><i>Ilustración 9: Mojando sensores.</i></h4>
 </div>
 
 El casco se enciende pulsando el interruptor de encendido que se encuentra en la parte superior; véase la imagen siguiente.
@@ -153,7 +153,7 @@ El casco se enciende pulsando el interruptor de encendido que se encuentra en la
   <h4 align="center"><i>Ilustración 10: Botón de encendido.</i></h4>
 </div>
 
-Cuando la unidad está encendida, se en ciende la luz indicadora blanca cuya ubicación se muestra a continuación.
+Cuando la unidad está encendida, se enciende la luz indicadora blanca cuya ubicación se muestra a continuación.
 
 
 <div align="center">
@@ -166,7 +166,7 @@ El auricular puede ahora conectarse al pendrive través de Bluetooth Baja Energ�
 
 Antes de colocar los auriculares, añada el líquido de imprimación del paquete de sensores en cada uno de los cinco sensores y en ambas referencias. Encienda el casco, asegurándose de que el LED blanco de la parte delantera se ilumina y conéctelo a través de Bluetooth Baja Energía al pendrive USB antes de colocarlo en la cabeza.
 
-Deslice suavemente el auricular sobre la cabeza. Los sensores de referencia, que están en el brazo negro, deben hacer contacto con la piel detrás de la oreja. Si es necesario, doble suavemente el brazo del sensor de referencia para que los sensores entren en contacto con la piel. Los sensores frontales deben colocarse a unos tres dedos de distancia por encima de las cejas. A continuación se muestran algunas imágenes de la colocación. Con la goma de tres puntas deslicela hacia adelante y hacia atrás para que los sensores atraviesen el cabello y hagan contacto con el cuero cabelludo.
+Deslice suavemente el auricular sobre la cabeza. Los sensores de referencia, que están en el brazo negro, deben hacer contacto con la piel detrás de la oreja. Si es necesario, doble suavemente el brazo del sensor de referencia para que los sensores entren en contacto con la piel. Los sensores frontales deben colocarse a unos tres dedos de distancia por encima de las cejas. A continuación se muestra una serie de imágenes para su correcta postura. Con la goma de tres puntas deslicela hacia adelante y hacia atrás para que los sensores atraviesen el cabello y hagan contacto con el cuero cabelludo.
 
 
 <div align="center">
@@ -191,9 +191,9 @@ Deslice suavemente el auricular sobre la cabeza. Los sensores de referencia, que
 
 ## Interfaz de Configuraciones
 
-La totalidad de las configuracion del software LifewareIntegra se llevan a cabo en la ventana principal o de configuración (ver ilustración 15). Esta consta de varias secciones y cada una se encarga de un aspecto del software en particular.
+La totalidad de las configuraciones del software LifewareIntegra se llevan a cabo en la ventana principal o de configuración (ver ilustración 15). Esta consta de varias secciones y cada una se encarga de un aspecto del software en particular.
 
-La ventana principal o de configuración, tendrá bloqueada la acción de iniciar en caso de que el dispositivo Insight esté apagado, no esté emparejado con el sistema, esté descargado, muy alejado del receptor (2 metros o más de distancia entre el receptor USB y el dispositivo, o exista interferencia), o cuando el receptor USB no esté conectado al computador. Como se muestra en la Ilustración.
+La ventana principal o de configuración, tendrá bloqueada la acción de iniciar en caso de que el dispositivo Insight esté apagado, no esté emparejado con el sistema, esté descargado, muy alejado del receptor (2 metros o más de distancia entre el receptor USB y el dispositivo, o exista interferencia), o cuando el receptor USB no esté conectado al computador (como se muestra en la ilustración).
 
 
 <div align="center">
@@ -258,7 +258,7 @@ Estos pueden verse afectados por interferencia entre el sensor y la piel, como e
 </div>
 
 
-Esta barra determina si el sistema puede ejecutarse, y de no poder hacerlo, identificar el problema.
+Esta barra determina si el sistema puede ejecutarse, y de no poder hacerlo, identificará el problema.
 
 ### Conectividad Bluetooth
 
@@ -269,7 +269,7 @@ Esta barra determina si el sistema puede ejecutarse, y de no poder hacerlo, iden
 </div>
 
 
-Este es el icono más importante: Determina si el conector Bluetooth está correctamente instalado. Solo aparecerá disponible cuando el dispositivo Insight aparece como conectado o emparejado.
+Este es el ícono más importante: Determina si el conector Bluetooth está correctamente instalado. Solo aparecerá disponible cuando el dispositivo Insight aparece como conectado o emparejado.
 
 Si esta opción aparece deshabilitada, el sistema nunca podrá iniciar.
 
@@ -305,7 +305,7 @@ Este icono solo se muestra si los 2 Iconos anteriores se encuentran encendidos.
 Muestra el nivel de batería que presenta el dispositivo.
 
 :::note
-Puede que el icono de batería aparece apagado y los demás iconos encendidos, sin dificultar el uso de la aplicación. Esto puede deberse a la detección interna del propio casco (lo cual no indica que presente fallos) Para solucionar esto uno debe presionar en reconectar o volver a iniciar la aplicación.
+Puede que el icono de batería aparezca apagado y los demás iconos encendidos, sin dificultar el uso de la aplicación. Esto puede deberse a la detección interna del propio casco (lo cual no indica que presente fallos), para solucionar esto debe presionar la opción reconectar o volver a iniciar la aplicación.
 :::
 
 ## Menú de opciones
@@ -323,7 +323,7 @@ En el extremo superior izquierdo se encuentran las tres secciones para iniciar l
 
 Esta opción, sirve en caso de que pasados los 18 segundos, el casco no sea detectado.
 
-Esta opción tratara de reconocer el casco en caso de que esté encendido, habilitando su botón de inicio.
+Esta opción tratará de reconocer el casco en caso de que esté encendido, habilitando su botón de inicio.
 
 :::note
 En caso de no detectar el casco, después de usar reconectar, cerrar la aplicación e intentar nuevamente. También considerar que el casco pueda presentar baja batería y necesite recargarse.
@@ -332,7 +332,7 @@ En caso de no detectar el casco, después de usar reconectar, cerrar la aplicaci
 
 ### MÓDULO MOUSE
 
-Al iniciar el software, se encontrará directamente en el módulo MOUSE, en caso de estar en cualquiera de los otros módulo, podrá ingresar haciendo clic nuevamente en la opción MOUSE.
+Al iniciar el software, se encontrará directamente en el módulo MOUSE. En caso de estar en cualquiera de los otros módulo, podrá ingresar haciendo clic nuevamente en la opción MOUSE.
 
 Este módulo permite realizar los ajustes necesarios, para tener un adecuado control del cursor.
 
@@ -361,9 +361,9 @@ Se puede realizar el ajuste de la velocidad del cursor, dependiendo del eje en q
 Esto, permitirá ajustar el desplazamiento del cursor, dependiendo de la movilidad que tenga el dispositivo; resultando que a mayor velocidad del cursor, se requerirá un menor movimiento del dispositivo para desplazar el mouse.
 
 #### Clic con tiempo
-En esta subsección, se permite modificar el tiempo de activación del Click automático. Cuando el cursor, permanezca lo suficientemente quieto, por el tiempo determinado por el usuario, se realizará la acción del clic.
+En esta subsección, se permite modificar el tiempo de activación del clic automático. Cuando el cursor, permanezca lo suficientemente quieto, por el tiempo determinado por el usuario, se realizará la acción del clic.
 
-La característica de usar Click con tiempo es opcional. Para utilizar debe activar/encender la opción haciendo click en el botón azul.
+La característica de usar clic con tiempo es opcional. Para utilizar debe activar/encender la opción haciendo clic en el botón azul.
 
 
 <div align="center">
@@ -374,9 +374,9 @@ La característica de usar Click con tiempo es opcional. Para utilizar debe acti
 
 Para el correcto funcionamiento se deben establecer los parámetros de“clic con tiempo”, que se refieren al tiempo que debe mantenerse el mouse inactivo para desencadenar la acción del clic. Para aumentar el tiempo, desplace la barra de control asociada hacia la derecha. Asimismo, desplace la barra de control hacia la izquierda para disminuir el tiempo de inactividad requerido.
 
-El “Área de Activación” corresponde al parámetro con el que se considerará inactivo el mouse y que simboliza el círculo celeste al rededor del cursor. Un área mayor de activación, significa que será más fácil permanecer en estado de inactividad. Un área menor de activación hace más difícil permanecer en estado de inactividad.
+El “Área de Activación” corresponde al parámetro con el que se considerará inactivo el mouse y que simboliza el círculo celeste alrededor del cursor. Un área mayor de activación, significa que será más fácil permanecer en estado de inactividad. Un área menor de activación hace más difícil permanecer en estado de inactividad.
 
-Para modificar el Área de Activación, mueva hacia la izquierda o derecha la barra de control asociada para disminuir o aumentar el nivel respectivamente. Un círculo celeste le permitirá visualizar el área de activación, lo que implica que una vez que, el usuario deje de mover el dispositivo Insight en un determinado punto, el sistema comprobará que si el cursor no escapa de un espacio imaginario durante el tiempo establecido se realizará la acción del click.
+Para modificar el Área de Activación, mueva hacia la izquierda o derecha la barra de control asociada para disminuir o aumentar el nivel respectivamente. Un círculo celeste le permitirá visualizar el área de activación, lo que implica que una vez que, el usuario deje de mover el dispositivo Insight en un determinado punto, el sistema comprobará que si el cursor no escapa de un espacio imaginario durante el tiempo establecido se realizará la acción del clic.
 
 ### MÓDULO EXPRESIONES
 
@@ -387,19 +387,19 @@ Para modificar el Área de Activación, mueva hacia la izquierda o derecha la ba
 </div>
 
 
-En esta sección se evalúan las distintas expresiones disponibles para permitir el funcionamiento del software LifewareIntegra: Parpadeo, Guiño ojo izquierdo Guiño ojo derecho, Apretar los dientes, Fruncir el ceño, Sorpresa, Sonrisa.
+En esta sección se evalúan las distintas expresiones disponibles para permitir el funcionamiento del software LifewareIntegra: Parpadeo, Guiño ojo izquierdo, Guiño ojo derecho, Apretar los dientes, Fruncir el ceño, Sorpresa, Sonrisa.
 
-Esta sección sirve para evaluar la detección de las expresiones. Para ello puede seleccionar una o varias expresiones en la lista de expresiones. Por ejemplo si está seleccionado “Parpadeo”, el medidor de sensibilidad, muestra la detección de la expresión y lo expresa en la barra horizontal. El círculoa zul o “visto bueno” se encenderá cuando detecte la acción correctamente (este puede presentar 1 segundo de retraso en la detección).
+Esta sección sirve para evaluar la detección de las expresiones. Para ello puede seleccionar una o varias expresiones en la lista de expresiones. Por ejemplo si está seleccionado “Parpadeo”, el medidor de sensibilidad, muestra la detección de la expresión y lo expresa en la barra horizontal. El círculo azul o “visto bueno” se encenderá cuando detecte la acción correctamente (este puede presentar 1 segundo de retraso en la detección).
 
-Puede modificar los parámetros para permitir o mejorar la detección de esta expresión. En caso de que no se detecte la expresión, es recomendable aumentar la sensibilidad moviendo el deslizador azul hacia la izquierda. En caso de que el programa detecte la expresión y el usuario no la esté haciendo (no se realiza la acción pero se enciende el círculo azulo “visto bueno”), se debe disminuir la sensibilidad moviendo el deslizador azul hacia la derecha.
+Puede modificar los parámetros para permitir o mejorar la detección de esta expresión. En caso de que no se detecte la expresión, es recomendable aumentar la sensibilidad moviendo el deslizador azul hacia la izquierda. En caso de que el programa detecte la expresión y el usuario no la esté haciendo (no se realiza la acción pero se enciende el círculo azul o “visto bueno”), se debe disminuir la sensibilidad moviendo el deslizador azul hacia la derecha.
 
 Una vez que sea posible controlar una determinada expresión facial, se le puede asignar una función. Para ello se debe seleccionar una acción del menú “ACCIÓN A REALIZAR”; allí se podrán seleccionar las siguientes acciones: Clic Izquierdo,Clic Derecho, Doble Clic, Arrastrar.
 
 Para tener una mejor detección de las expresiones faciales, se requiere que los sensores estén correctamente posicionados.
 
-NOTA: Algunas expresiones presentan mejor resultado de detección que otras, esto debido a como se acomode el casco a la cabeza del usuario, existen casos en que algunos gestos funcionen con algunos usuarios y con otros no.
+NOTA: Algunas expresiones presentan mejor resultado de detección que otras, esto debido a como se acomode el casco a la cabeza del usuario, existen casos en los cuales algunos gestos funcionan con algunos usuarios y con otros usuarios no.
 
-Los gestos más sensibles y recomendados para el usuarioson:
+Los gestos más sensibles y recomendados para el usuario son:
 
 1. Parpadeo
 2. Guiño izquierdo
@@ -414,7 +414,7 @@ Los gestos más sensibles y recomendados para el usuarioson:
 
 En este módulo se puede crear/eliminar un perfil de usuario el cual guardará la última configuración determinada. El perfil creado estará disponible la próxima vez que el usuario inicie sesión.
 
-En caso de no crear ningún usuario se cargará automáticamenteuno denominado “default”.
+En caso de no crear ningún usuario se cargará automáticamente uno denominado “default”.
 
 
 <div align="center">
@@ -451,7 +451,7 @@ Este módulo cuenta con una redirección hacia una página que contiene el manua
   ![screenshot](./img/manual-lifewareintegra/30_3.png)
 </div>
 
-Una vez completada la configuración, determinando la sensibilidad del cursor, el uso o no de expresiones faciales y la asignación de acciones. Además dede terminar el uso o no de clic por tiempo, se procede a dar inicio al funcionamiento del software, presionando el botón INICIAR FUNCIONAMIENTO.
+Una vez completada la configuración, entre ellas determinando la sensibilidad del cursor, el uso o no de expresiones faciales, la asignación de acciones, el uso o no de clic por tiempo, se procede a dar inicio al funcionamiento 
 
 
 <div align="center">
@@ -480,35 +480,35 @@ Este menú cuenta con las siguientes opciones :
 
 ● **Desactivar acción del Mouse :** ![screenshot](./img/manual-lifewareintegra/33.png)
 
-Esta función permite desactivar/activar la acción asignada al mouse. Por ejemplo, si se tiene configurado el click con tiempo, éste dejará de efectuar la acción de hacer el click. Se desactivará posicionando en esta opción nuevamente el cursor por un par de segundos (Esta opción facilita cuando el usuario visualiza vídeos, evitando acciones involuntarias)
+Esta función permite desactivar/activar la acción asignada al mouse. Por ejemplo, si se tiene configurado el clic con tiempo, éste dejará de efectuar la acción de hacer el clic. Se desactivará posicionando en esta opción nuevamente el cursor por un par de segundos (Esta opción facilita cuando el usuario visualiza vídeos, evitando acciones involuntarias)
 
-● **Clic Izquiedo :** ![screenshot](./img/manual-lifewareintegra/34.png)
+● **Clic Izquierdo :** ![screenshot](./img/manual-lifewareintegra/34.png)
 
-Esta función activa que la próxima acción que se realice con el mouse, correspondiverá a un Clic izquierdo.
+Esta función activa que la próxima acción que se realice con el mouse corresponda a un Clic izquierdo.
 
 ● **Clic Derecho :** ![screenshot](./img/manual-lifewareintegra/35.png)
 
-Esta función activa que la próxima acción que se realice con el mouse,corresponde a un Clic derecho.
+Esta función activa que la próxima acción que se realice con el mouse corresponda a un Clic derecho.
 
 ● **Doble Clic** ![screenshot](./img/manual-lifewareintegra/36.png)
 
-Esta función activa que la próxima acción que se realice con el mouse,corresponde a un doble Clic izquierdo.
+Esta función activa que la próxima acción que se realice con el mouse corresponda a un doble Clic izquierdo.
 
-● **Mover/Arrarar :** ![screenshot](./img/manual-lifewareintegra/37.png)
+● **Mover/Arrastrar :** ![screenshot](./img/manual-lifewareintegra/37.png)
 
-Esta función, activa que la próxima acción que se realice con el mouse, corresponderá a mantener Clic izquierdo presionado. Permitiendo mover o arrastrar algún ícono, o seleccionar uno o varios elementos de la pantalla. Esta función constade 2 pasos: el primer clic simulará a la mantención del clic izquierdo presionado, y el segundo clic que se realice simulara soltar el clic presionado.
+Esta función, activa que la próxima acción que se realice con el mouse corresponda a mantener Clic izquierdo presionado, permitiendo mover o arrastrar algún ícono, o seleccionar uno o varios elementos de la pantalla. Esta función consta de 2 pasos: el primer clic simulará la mantención del clic izquierdo presionado y el segundo clic que se realice simulara soltar el clic presionado.
 
-● **Mover el Telado en Pantalla :** ![screenshot](./img/manual-lifewareintegra/38.png)
+● **Mover el Teclado en Pantalla :** ![screenshot](./img/manual-lifewareintegra/38.png)
 
 Esta opción permite cambiar de posición el teclado virtual desplegado en la pantalla, lo traslada desde una posición inferior, lo posiciona en la parte superior de la pantalla y viceversa. En caso de que el teclado no esté desplegado, lo desplegará automáticamente.
 
-●**Cambio de Taaño del Teclado en Pantalla :** ![screenshot](./img/manual-lifewareintegra/39.png)
+●**Cambio de Tamaño del Teclado en Pantalla :** ![screenshot](./img/manual-lifewareintegra/39.png)
 
 Esta opción permite cambiar el tamaño del teclado en pantalla, podrá aumentar/reducir el tamaño dependiendo de la necesidad del usuario. En caso de que el teclado no esté desplegado, lo desplegará automáticamente.
 
 ## Comentarios
 
-:::warning
+:::important
 El software puede funcionar en computadores que cuenten con Windows 10 (Professional, Home Single Lenguaje) pero su soporte no es oficial para sistemas operativos anteriores,por lo que Lifeware S.P.A no asegura su correcto funcionamiento.
 :::
 

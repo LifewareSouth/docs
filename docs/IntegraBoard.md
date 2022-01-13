@@ -545,12 +545,15 @@ comunicación o de enseñanza.
 
    Paso 6: Sobre audio seleccionado presionar guardar.
 
+<div style={{textAlign: 'center'}}>
+
 ![Screenshoot](./img/manual-integraboard/4.2.2.png 'Guardar Sonido 1')
 
 ![Screenshoot](./img/manual-integraboard/4.2.3.png 'Guardar Sonido 2')
 
 ![Screenshoot](./img/manual-integraboard/4.2.4.png 'Guardar Sonido 3')
 
+</div>
 - Editar Pictograma:
    
    Paso 1: Ir a la sección Pictogramas.
@@ -578,24 +581,39 @@ comunicación o de enseñanza.
 
    Paso 1: Ir a la sección Tableros.
    
-   ![Screenshot](./img/manual-integraboard/4.3.1.PNG)
+   <div style={{textAlign: 'center'}}>
    
+   ![Screenshot](./img/manual-integraboard/4.3.1.PNG 'Crear Tablero 1')
+   
+   </div>
+
    Paso 2: Presionar Crear nuevo tablero.  
-       
-   ![Screenshot](./img/manual-integraboard/4.3.2.PNG)
+
+   <div style={{textAlign: 'center'}}>
+
+   ![Screenshot](./img/manual-integraboard/4.3.2.PNG 'Crear Tablero 2')
+   
+   </div>
    
    Paso 3: En la sección derecha configurar el tamaño y el nombre a asignar.
    
    Paso 4: Presionar en los íconos que dicen Asignar y seleccionar los pictogramas agregar.
-      
-   ![Screenshot](./img/manual-integraboard/4.3.4.PNG)
+
+   <div style={{textAlign: 'center'}}>
+
+   ![Screenshot](./img/manual-integraboard/4.3.4.PNG 'Crear Tablero 3')
+
+   </div>
 
    Paso 5: Guardar cambios.
 
    Paso 6: Guardar Tablero con la opción de la derecha "Guardar Tablero".
    
-   ![Screenshot](./img/manual-integraboard/4.3.5.png)
+   <div style={{textAlign: 'center'}}>
+
+   ![Screenshot](./img/manual-integraboard/4.3.5.png 'Crear Tablero 4')
    
+   </div>
 
 ### 4.4. Seleccionar tableros disponibles
 
@@ -657,16 +675,19 @@ Tablero de comunicación:
 
 <div style={{textAlign: 'center'}}>
    
-   ![Screenshot](./img/manual-integraboard/6.1.PNG)
+   ![Screenshot](./img/manual-integraboard/6.1.PNG 'Tablero de comunicacion')
 
 </div>
 
 - El tablero de enseñanza se utilizará para mostrar de manera gráfica diferentes categorías. También se usará para los pictogramas que tengan seleccionados algún sonido (para activar el sonido se debe presionar sobre el pictograma y el programa lo reproducirá).
 
 Tablero de enseñanza:
-   
-![Screenshot](./img/manual-integraboard/6.2.PNG)
 
+<div style={{textAlign: 'center'}}>
+
+![Screenshot](./img/manual-integraboard/6.2.PNG 'Tablero de enseñanza')
+
+</div>
 
 ## Importante
 
