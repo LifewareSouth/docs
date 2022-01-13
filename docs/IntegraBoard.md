@@ -583,7 +583,7 @@ comunicación o de enseñanza.
    
    <div style={{textAlign: 'center'}}>
    
-   ![Screenshot](./img/manual-integraboard/4.3.1.png 'Crear Tablero 1')
+   ![Screenshot](./img/manual-integraboard/4.3.1.png)
    
    </div>
 
@@ -669,7 +669,7 @@ Tablero de comunicación:
 
 <div style={{textAlign: 'center'}}>
    
-   ![Screenshot](./img/manual-integraboard/5.1.png 'Tablero de comunicacion')
+   ![Screenshot](./img/manual-integraboard/5.1.png)
 
 </div>
 
