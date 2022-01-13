@@ -581,11 +581,7 @@ comunicación o de enseñanza.
 
    Paso 1: Ir a la sección Tableros.
    
-   <div style={{textAlign: 'center'}}>
-   
    ![Screenshot](./img/manual-integraboard/4.3.1.png 'Crear Tablero 1')
-   
-   </div>
 
    Paso 2: Presionar Crear nuevo tablero.  
 
