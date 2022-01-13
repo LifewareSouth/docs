@@ -669,7 +669,7 @@ Tablero de comunicación:
 
 <div style={{textAlign: 'center'}}>
    
-   ![Screenshot](./img/manual-integraboard/6.1.png 'Tablero de comunicacion')
+   ![Screenshot](./img/manual-integraboard/5.1.png 'Tablero de comunicacion')
 
 </div>
 
