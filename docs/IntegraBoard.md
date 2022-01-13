@@ -583,7 +583,7 @@ comunicación o de enseñanza.
    
    <div style={{textAlign: 'center'}}>
    
-   ![Screenshot](./img/manual-integraboard/4.3.1.PNG 'Crear Tablero 1')
+   ![Screenshot](./img/manual-integraboard/4.3.1.png 'Crear Tablero 1')
    
    </div>
 
@@ -591,7 +591,7 @@ comunicación o de enseñanza.
 
    <div style={{textAlign: 'center'}}>
 
-   ![Screenshot](./img/manual-integraboard/4.3.2.PNG 'Crear Tablero 2')
+   ![Screenshot](./img/manual-integraboard/4.3.2.png 'Crear Tablero 2')
    
    </div>
    
@@ -601,7 +601,7 @@ comunicación o de enseñanza.
 
    <div style={{textAlign: 'center'}}>
 
-   ![Screenshot](./img/manual-integraboard/4.3.4.PNG 'Crear Tablero 3')
+   ![Screenshot](./img/manual-integraboard/4.3.4.png 'Crear Tablero 3')
 
    </div>
 
@@ -641,12 +641,6 @@ comunicación o de enseñanza.
 
    Paso 5: Seleccionar tablero a utilizar.
 
-   <div style={{textAlign: 'center'}}>
-   
-   ![Screenshoot](./img/manual-integraboard/4.4.3.png 'Tablero a usar')
-   
-   </div>
-
    Paso 6: Utilizar tableros.
 
 ### 4.5. Usar Pictogramas
@@ -675,7 +669,7 @@ Tablero de comunicación:
 
 <div style={{textAlign: 'center'}}>
    
-   ![Screenshot](./img/manual-integraboard/6.1.PNG 'Tablero de comunicacion')
+   ![Screenshot](./img/manual-integraboard/6.1.png 'Tablero de comunicacion')
 
 </div>
 
@@ -685,7 +679,7 @@ Tablero de enseñanza:
 
 <div style={{textAlign: 'center'}}>
 
-![Screenshot](./img/manual-integraboard/6.2.PNG 'Tablero de enseñanza')
+![Screenshot](./img/manual-integraboard/6.2.png 'Tablero de enseñanza')
 
 </div>
 
