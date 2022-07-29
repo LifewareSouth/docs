@@ -41,3 +41,9 @@ Esta carpeta la descomprimiremos(dandole a la opcion extraer en) dentro del escr
 Para la instalacion de las voces ocuparemos el archivo que se llama: AhoSAPI32_Installer - Voz Infantil - NG.msi, donde deberiamos seguir las siguientes indicaciones para la instalación.
 
 ![Screnshoot](./img/manual-voces-aholab/instalador.PNG 'instalador de las voces')
+
+Para iniciar la instalación le hacemos doble click en el instalador y se habrira la siguiente pestaña:
+
+![Screnshoot](./img/manual-voces-aholab/opcionparainstalar.PNG 'opcion para instalar')
+
+![Screnshoot](./img/manual-voces-aholab/ejecutardetodasformas.PNG 'ejecutar de todas formas')
