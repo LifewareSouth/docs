@@ -28,4 +28,16 @@ Dentro del carrito solo nos faltaría finalizar la compra y una vez se seleccion
 
 ![Screnshoot](./img/manual-voces-aholab/opcionesdelpedido.PNG 'datos para el pedido')
 
-Cuando 
+![Screnshoot](./img/manual-voces-aholab/archivodescargado.PNG 'archivo descargado')
+
+abriremos el archivo .rar el cual encontraremos una carpeta llamada: Voz infantil Windows_Fundación Romper Barreras
+
+![Screnshoot](./img/manual-voces-aholab/carpetadentrodelrar.PNG 'Carpeta dentro del rar')
+
+Esta carpeta la descomprimiremos(dandole a la opcion extraer en) dentro del escritorio o en alguna carpeta ubicada en algun lado.
+
+![Screnshoot](./img/manual-voces-aholab/extraeren.PNG 'opcion extraer en')
+
+Para la instalacion de las voces ocuparemos el archivo que se llama: AhoSAPI32_Installer - Voz Infantil - NG.msi, donde deberiamos seguir las siguientes indicaciones para la instalación.
+
+![Screnshoot](./img/manual-voces-aholab/instalador.PNG 'instalador de las voces')
