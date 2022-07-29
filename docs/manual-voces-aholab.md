@@ -57,3 +57,19 @@ Ina vez ya seleccionada la opción ejecutar de todas formas queda realizar la in
 y finalizamos con el cerrar
 
 ![Screnshoot](./img/manual-voces-aholab/cerrarinstalador.PNG 'ejecutar de todas formas')
+
+## 2 - Cambiar voz en IntegraBoard.
+
+Una vez habiendo descargado las voces que se desean, al abrir Integraboard, este reconocerá las nuevas voces agregadas al sistema.
+
+Paso 1: Para cambiar la voz que lee los pictogramas, hay que seleccionar "Configurar Tableros" dentro del menú principal de IntegraBoard.
+
+![Screnshoot](./img/manual-voces/7.png 'Configurar Tableros')
+
+Paso 2: Luego, en la pestaña "Perfil de usuario" se puede encontrar la opción "Voz" donde es posible seleccionar la voz quie se prefiera, ahí se encontrarrán las nuevas voces que se seleccionaron previamente.
+
+![Screnshoot](./img/manual-voces/8.png 'Perfil de usuario')
+
+Paso 3: Una vez seleccionada la voz que se desesa, se debe presionar el botón "Guardar", si todos los pasos se siguieron correcrtamente, se habrá cambiado la voz que lee los pictogramas y se mostrará una ventana como la siguiente:
+
+![Screnshoot](./img/manual-voces/9.png 'Cambios realizados')
