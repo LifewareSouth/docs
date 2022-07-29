@@ -523,7 +523,7 @@ comunicación o de enseñanza.
    
    Paso 6: Agregar categoría (esta opción da la posibilidad de encasillar el pictograma en un grupo para buscarlo de manera reducida a futuro).
    
-   Paso 7: Guardar (aparecerá un mensaje: "el picograma fue creado con éxito").
+   Paso 7: Guardar (aparecerá un mensaje: "el pictograma fue creado con éxito").
 
 <div style={{textAlign: 'center'}}>
 
