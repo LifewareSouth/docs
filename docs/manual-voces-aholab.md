@@ -47,3 +47,13 @@ Para iniciar la instalación le hacemos doble click en el instalador y se habrir
 ![Screnshoot](./img/manual-voces-aholab/opcionparainstalar.PNG 'opcion para instalar')
 
 ![Screnshoot](./img/manual-voces-aholab/ejecutardetodasformas.PNG 'ejecutar de todas formas')
+
+Ina vez ya seleccionada la opción ejecutar de todas formas queda realizar la instalación de AhoSapi32, seleccionaremos siguiente en el instalador:
+
+![Screnshoot](./img/manual-voces-aholab/apretarsiguiente.PNG 'ejecutar de todas formas')
+
+![Screnshoot](./img/manual-voces-aholab/siguiente2.PNG 'ejecutar de todas formas')
+
+y finalizamos con el cerrar
+
+![Screnshoot](./img/manual-voces-aholab/cerrarinstalador.PNG 'ejecutar de todas formas')
