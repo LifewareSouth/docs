@@ -60,7 +60,7 @@ y finalizamos con el cerrar
 
 ## 2 - Cambiar voz en IntegraBoard.
 
-Una vez habiendo descargado las voces que se desean, al abrir Integraboard, este reconocerá las nuevas voces agregadas al sistema.
+Una vez habiendo descargado e instalado las voces que se desean, al abrir Integraboard, este reconocerá las nuevas voces agregadas al sistema.
 
 Paso 1: Para cambiar la voz que lee los pictogramas, hay que seleccionar "Configurar Tableros" dentro del menú principal de IntegraBoard.
 
