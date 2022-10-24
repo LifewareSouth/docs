@@ -47,7 +47,7 @@ title: Importar pictogramas a IntegraBoard
 
 <div style={{textAlign: 'center'}}>
 
-![Screenshot](./img/importar-pictogramas/5.png)
+![Screenshot](./img/importar-pictogramas/paso5.png)
 
 </div>
 
