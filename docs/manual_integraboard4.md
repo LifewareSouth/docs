@@ -358,6 +358,88 @@ El tablero se representa de la siguiente manera:
 El player de este tablero es un poco más simple que el de los otros casos, ya que en este se nos presenta solamente el tablero creado anteriormente, 
 por lo que para que estos puedan realizar el sonido que tiene integrado el pictograma se debe solamente tocar el pictograma.
 
+## 4. Casos de uso cotidiano
+
+### 4.1. Preparación
+
+
+Para poder trabajar con el tablero sin problemas primero debemos preparar los datos.
+Necesitaremos crear en el siguiente orden los siguientes datos:
+- Pictogramas: Estos son necesarios para poder crear un tablero y trabajar con
+el sistema.
+- Tableros: Estos contienen pictogramas y son categorizados como tableros de
+comunicación o de enseñanza.
+
+### 4.2. Crear Pictogramas
+
+- En caso de querer importar varios pictogramas:
+
+   Paso 1: Ir a la sección Pictogramas.
+
+   Paso 2: Importar Carpeta (en caso de querer agregar pictogramas masivamente):
+   
+   Paso 3: Seleccionar carpeta con pictogramas.
+   
+   Paso 4: Presionar Aceptar.
+
+- En caso de querer agregar pictograma individualmente:
+   
+   Paso 1: Crear nuevo pictograma.
+   
+   Paso 2: Agregar nueva imagen o seleccionar la imagen a utilizar de las que ya están cargadas en el programa.
+   
+   Paso 3: Agregar título (esto nos permitirá buscar el pictograma en otra oportunidad).
+   
+   Paso 4: Agregar texto (este será el texto que aparecerá bajo la imagen).
+   
+   Paso 5: Agregar sonido (este ítem es opcional, los sonidos nuevos deben ser descargados por cada beneficiario).
+   
+   Paso 6: Agregar categoría (esta opción da la posibilidad de encasillar el pictograma en un grupo para buscarlo de manera reducida a futuro).
+
+   paso 7: Agregar etiquetas (Esta opcion tiene un límite de 5 etiquetas y deben ser puestas tentre comas, por ejemplo: casa, hogar, etc)
+   
+   Paso 8: Guardar (aparecerá un mensaje: "el pictograma fue creado con éxito").
+
+- Para guardar un sonido:
+
+   Paso 1: Seleccionar sobre la opción sonido.
+
+   Paso 2: Hacer click en agregar nuevo sonido (mp3) ó se puede grabar uno.
+
+   Paso 3: Seleccionar sonido desde nuestro dispositivo.
+
+   Paso 4: Hacer click en abrir.
+
+   Paso 5: Presionar sobre audio seleccionado.
+
+   Paso 6: Sobre audio seleccionado presionar guardar.
+
+- Editar Pictograma:
+   
+   Paso 1: Ir a la sección Pictogramas.
+   
+   Paso 2: Hacer doble clic en un pictograma.
+   
+   Paso 3: Realizar cambios y Guardar
+   
+   Paso 4: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+
+- Editar Pictograma de tablero:
+   
+   Paso 1: Ir a la Sección Tablero.
+   
+   Paso 2: Seleccionar Tablero.
+   
+   Paso 3: Seleccionar Pictograma y presionar Modificar Pictograma.
+   
+   Paso 4: Realizar Cambios y Guardar.
+   
+   Paso 5: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+
+### 4.3. Crear Tablero
+
+
+
 ## 5. Glosario
 
 - Perfil:
