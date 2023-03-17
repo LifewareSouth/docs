@@ -438,7 +438,91 @@ comunicación o de enseñanza.
 
 ### 4.3. Crear Tablero
 
+    Paso 1: Ir a la sección Tableros.
 
+    Paso 2: Presionar Crear nuevo tablero y seleccionar en el listado que tipo de tablero requiere.
+
+    Paso 3: En la sección derecha configurar el tamaño, el nombre a asignar, asignar etiquetas e ingresar una imagen al tablero.
+
+    Paso 4: Presionar en los íconos que dicen Asignar y seleccionar los pictogramas a agregar.
+
+    Paso 5: Guardar cambios.
+
+    Paso 6: Guardar Tablero con la opción de la derecha "Guardar".
+
+
+### 4.4. Seleccionar tableros disponibles
+
+    Paso 1: Para poder seleccionar el tablero y poder utilizarlo se debe ir a la sección de "Tableros".
+
+    Paso 2: Luego en el panel apareceran los tableros ya creados, para asignarlos debe presionar sobre el tablero.
+
+    Paso 3: Una vez seleccionado debe ir al apartado del costado derecho y presionar el boton que dice "Asignar"
+
+    Paso 4: presionaremos el boton al costado superior izquierdo que dice "Menú"
+
+    Paso 5: Seleccionar el tablero a ustilizar
+
+    Paso 6: Utilizar tableros.
+
+### 4.5. Usar Pictogramas
+
+- Presionar Pictograma (Estos ejecutan su función asignada previamente en
+las configuraciones de pictogramas).
+
+### 4.6. Usar Tablero de comunicación
+
+ - Con el tablero de tipo "Comunicación" es el unico que puede sintetizar las palabras de los pictogramas.
+
+   Paso 1: Seleccionar tablero a utilizar, que estan desplegados en el menú.
+
+   Paso 2: Seleccionar los pictogramas que se quieren reproducir, estos irán apareciendo en la barra blanca al centro de la pantalla
+   ó se puede ocupar la opción "sintetizar pictogramas" en la cual al tocar el pictograma este lo reproduce inmediatamente.
+
+   Paso 3: Presionar el pictograma de "escuchar" ubicada en la parte derecha.
+
+   Paso 4: Para volver al menú principal presionar sobre el pictograma "Menú".
+
+### 4.7. Usar Tablero de emociones
+
+    Paso 1: Seleccionar el tablero de emociones creado.
+
+    Paso 2: Una vez dentro del tablero se debe presionar el pictograma el cual represente algun estado que tenga el usuario.
+
+    Paso 3: Este pictograma se mostrará en el recuadro del centro de la pantalla en grande.
+
+### 4.6. Usar Tablero de rutina sin tiempo 
+
+    Paso 1: El tablero nos mostrara las distintas acciones que contiene en el centro de la pantalla.
+
+    Paso 2: Una vez realizado una acción/tarea correctamente debemos presionar el botón "Terminar tarea".
+
+    Paso 3: Se mostrara el pictograma anterior con un tick en ese caso, en caso de que se quiera saltar una tarea se debe presionar el botón "Saltar tarea".
+
+    Paso 4: Si se presiona el botón saltar tarea aparecera una flecha en el pictograma.
+
+    paso 5: Una vez terminado/saltado cada uno de las tareas nos saldra una notificación que al cerrarla se nos devolvera al menú donde estan los tableros. 
+
+### 4.6. Usar Tablero de rutina con tiempo
+
+    Paso 1: Al centro de la pantalla se nos mostrará un botón play, al presionarlo se comenzara el conteo hacia atras.
+
+    Paso 2: Si se realiza la tarea antes del tiempo estimado, se puede teminar la tarea Presionando el botón "terminar tarea".
+
+    Paso 3: En el caso de que se termine el tiempo y no se haya terminado de realizar la tarea saldrá una notificación en la cual se nos consultará,
+    si desea agregar más tiempo o se salta la tarea, en caso de añadir más tiempo se sumarán 20 segundos, en el caso de saltar la tarea, aparecera una flecha en la tarea.
+
+    Paso 4: Si se desea agregar más tiempo antes de que se acabé el tiempo se presiona el botón que dice "Agregar más tiempo"
+
+### 4.6. Usar Tablero de Sonido
+
+    Paso 1: entrar al Tablero de sonidos.
+
+    Paso 2: en el centro de la pantalla podremos ver el teblero como se diseño.
+    
+    Paso 3: Para poder escuchar los sonidos debemos presionar cada uno de los pictogramas que están en el tablero.
+
+    Paso 4: Para devolvernos al menu debemos presionar el botón ubicado en el costado superior izquierdo que dice "Menú".
 
 ## 5. Glosario
 
