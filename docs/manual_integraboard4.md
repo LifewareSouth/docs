@@ -107,7 +107,7 @@ que trae el menú entre ellas está el perfil, pictogramas y tableros.
 
 ### 2.2 Perfil
 
-#### 2.2.1 Funcionalidades del perfil|
+#### 2.2.1 Funcionalidades del perfil
 
 ##### 1. Nombre
 
@@ -449,6 +449,20 @@ comunicación o de enseñanza.
     Paso 5: Guardar cambios.
 
     Paso 6: Guardar Tablero con la opción de la derecha "Guardar".
+
+    - como paso alternativo se pueden importar tableros que han creado otro usuario, explicaremos paso a paso como realizar la importación.
+
+    Paso 1: Entramos a la sección de "tableros".
+
+    Paso 2: Seleccionamos la opción de "importar".
+
+    Paso 3: Presionamos la opción "seleccionar carpeta".
+
+    Paso 4: Vemos la ubicación de la carpeta donde estan los tableros y la seleccionamos.
+
+    Paso 5: Dentro de la aplicación estan todas las tablas, se pueden seleccionar uno por uno o presionar el botón que dice "Seleccionar todos".
+
+    Paso 6: Para terminar presionamos el botón "Importar Seleccionados".
 
 
 ### 4.4. Seleccionar tableros disponibles
