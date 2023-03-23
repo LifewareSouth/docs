@@ -466,8 +466,10 @@ por lo que para que estos puedan realizar el sonido que tiene integrado el picto
 
 Para poder trabajar con el tablero sin problemas primero debemos preparar los datos.
 Necesitaremos crear en el siguiente orden los siguientes datos:
+
 - Pictogramas: Estos son necesarios para poder crear un tablero y trabajar con
 el sistema.
+
 - Tableros: Estos contienen pictogramas y son categorizados como tableros de
 comunicación o de enseñanza.
 
@@ -475,15 +477,23 @@ comunicación o de enseñanza.
 
 - En caso de querer importar varios pictogramas:
 
+   [imagen de ir a importar pictogramas]
+ 
+   [imagen de importar pictograma]
+
    Paso 1: Ir a la sección Pictogramas.
 
-   Paso 2: Importar Carpeta (en caso de querer agregar pictogramas masivamente):
+   Paso 2: Importar Carpeta (en caso de querer agregar pictogramas masivamente), seleccionar la carpeta en el buscador:
    
-   Paso 3: Seleccionar carpeta con pictogramas.
+   Paso 3: seleccionar los pictogramas 
    
    Paso 4: Presionar Aceptar.
 
 - En caso de querer agregar pictograma individualmente:
+
+   [Imagen de ir a crear pictogramas]
+
+   [imagen crear pictograma paso a paso]
    
    Paso 1: Crear nuevo pictograma.
    
@@ -502,6 +512,10 @@ comunicación o de enseñanza.
    Paso 8: Guardar (aparecerá un mensaje: "el pictograma fue creado con éxito").
 
 - Para guardar un sonido:
+
+   [imagen de ir a guardar sonido]
+
+   [imagen de ir crear somido]
 
    Paso 1: Seleccionar sobre la opción sonido.
 
