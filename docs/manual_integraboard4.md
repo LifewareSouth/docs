@@ -128,7 +128,7 @@ La opción tamaño sirve para poder ajustar el tamaño de la letra de los pictog
 
 ##### 4. Tomar foto o seleccionar foto
 
-Para tener una foto de perfil se puede hacer a través de dos opciones: el tomar una
+Para agregar una foto de perfil se puede hacer a través de dos opciones: el tomar una
 foto, botón desde el que se despliega otra pantalla del programa en el cual toma la cámara del dispositivo que se está utilizando,
 ó el seleccionar una foto la cual nos abrirá un buscador donde podremos navegar a través del dispositivo (archivos del computador)
 para poder encontrar una imagen que se quiera ocupar como imagen de perfil.
@@ -136,7 +136,7 @@ para poder encontrar una imagen que se quiera ocupar como imagen de perfil.
 ##### 5. Voz
 
 La opción de voz nos permite modificar la voz que queremos que interprete los tableros. Para seleccionar hay que presionar el recuadro que tiene el nombre y
-se desplegará un listado para poder seleccionar entre las voces que tiene instaladas en su dispositivo.
+se desplegará un listado donde se podrá seleccionar entre las voces que tiene instaladas en su dispositivo.
 Se puede probar la voz que se selecciona al presionar el botón escuchar.
 
 ### 2.3 Pictogramas
@@ -148,14 +148,14 @@ Se puede probar la voz que se selecciona al presionar el botón escuchar.
 [imagen de inicio del area de pictogramas]
 
 El menú del pictograma se divide en distintas partes, tiene una barra buscadora donde se pueden aplicar filtros
-para poder encontrar pictogramas de manera más sencilla, estos filtros pueden ser por nombre o por categoría,
-luego están las acciones que en los siguientes puntos se explicarán.
+para poder encontrar pictogramas de manera más sencilla.
+Estos filtros pueden ser por nombre o por categoría, luego están las acciones que en los siguientes puntos se explicarán.
 
 ##### 2. Crear Pictogramas
 
-[imagen con el menu para crear pictograma]
+[imagen con el menú para crear pictograma]
 
-Al presionar la opción de crear pictogramas nos direccionará a una nueva ventana, donde nos darán algunos datos a rellenar dentro de estos datos están:
+Al presionar la opción de crear pictogramas nos direccionará a una nueva ventana, donde se entregarán algunos datos a rellenar dentro de estos datos están:
 nombre del pictograma, un texto que estará dentro del pictograma, etiquetas y categoría, además de esto tenemos que seleccionar o tomar una imagen para el pictograma.
 De manera opcional se puede agregar sonido a un pictograma mediante el botón “agregar sonido”.
 Opción de agregar sonido al pictograma:
@@ -178,7 +178,7 @@ Al presionar el botón se abre una nueva ventana en la cual se puede seleccionar
 al momento de importar, debemos seguir los siguientes pasos:
 
 
-[imagen de el importar ]
+[imagen de él importar ]
 
 
     A)Debemos seleccionar la carpeta, donde aparecerá un buscador para poder seleccionar la carpeta que contiene los pictogramas.
@@ -191,7 +191,7 @@ al momento de importar, debemos seguir los siguientes pasos:
 En el caso de querer exportar pictogramas se necesita realizar los siguientes pasos:
 
 
-[imagen de el exportar]
+[imagen de él exportar]
 
 
     A)En la pestaña se puede ver a cada uno de los pictogramas listados en el lado izquierdo de nuestra pantalla por lo cual podemos
@@ -204,7 +204,7 @@ En el caso de querer exportar pictogramas se necesita realizar los siguientes pa
 
 [imagen editar pictograma]
 
-La opción de poder editar pictogramas hace referencia a que se pueden reemplazar todos los datos de un pictograma creado anteriormente.
+La opción editar pictogramas hace referencia a que se pueden reemplazar todos los datos de un pictograma creado anteriormente.
 Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
 
 
@@ -222,8 +222,8 @@ Al pulsar esta opción se borrará del listado de pictogramas.
 
 #####   1. Menú de tableros
 
-El menú de los tableros contiene filtros para los tableros para buscar por categoría de tableros o por nombre.
-Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, y al costado derecho de esto están las acciones que pueden realizarse.
+El menú de los tableros contiene filtros para buscar por categoría de tableros o por nombre.
+Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, y al costado derecho de esto están las acciones que se pueden realizar.
 
 
 #####  2. Crear Tableros
@@ -231,7 +231,7 @@ Debajo de los filtros se encuentra el listado de tableros existentes en Integrab
 [imagen de las opciones de crear tableros]
 
 Para crear el tablero se debe seleccionar el botón “crear tablero”, el cual despliega una lista de tipos de tableros posibles a crear,
-dentro de las cuales se puede elegir: Comunicación, Emociones, Rutinas, Sonidos.
+dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
 
 
 ##### A) Tablero de comunicación
@@ -261,7 +261,7 @@ Observaciones para el uso de tableros de comunicación:
     -   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales se pueden ocupar pictogramas creados dentro de los casilleros en el recuadro izquierdo.
 
     -   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, es decir, se le puede asignar un nombre,
-        filas y columnas que contendran los pictogramas, etiquetas y asignarle un pictograma como portada de tablero.
+        filas y columnas que contendrán los pictogramas, etiquetas y asignarle un pictograma como portada de tablero.
 
     -   Se finaliza la creación del tablero de la misma forma que el mencionado anteriormente.
 
@@ -277,13 +277,13 @@ Observación para el uso del tablero de rutinas:
 
     - En el recuadro izquierdo se puede observar los casilleros en donde se ubicarán los pictogramas.
 
-    Estos despues de estas dos opciónes se dividen en dos tipos, en tableros de rutina sin tiempo y tableros de rutina con tiempo
+    Estos después de estas dos opciones se dividen en dos tipos, en tableros de rutina sin tiempo y tableros de rutina con tiempo
 
     - En el costado derecho tenemos las distintas opciones, entre estas opciones esta la de darle un nombre,
       darle la cantidad de columnas que se requieren dentro del tablero, poner etiquetas al tablero,
-      y la opción de darle tiempo ó no a las tareas.
+      y la opción de darle tiempo o no a las tareas.
       En caso de querer que el tablero sea con tiempo se debe marcar esta opción en la cual debajo de los pictogramas saldrán dos recuadros.
-    
+   
     Caso A) Al no pinchar la opción "Tablero de rutina con tiempo":
 
     [imagen del tablero de rutina sin tiempo]
@@ -297,7 +297,7 @@ Observación para el uso del tablero de rutinas:
     - En este caso debemos colocar los pictogramas en las columnas que se requieran.
 
     - Luego de eso, se deberá ir pictograma por pictograma colocando el tiempo que se necesita, para realizar este paso,
-      se debe hacer clic en cada pictograma y debajo de este habrán recuadros donde se deben escribir el tiempo, ya sea en minutos o en segundos.
+      se debe hacer clic en cada pictograma y debajo de este habrán recuadros donde se deben escribir el tiempo, ya sea en minutos y/o en segundos.
 
     - Para guardar el tablero simplemente se debe asignar una portada y luego  seleccionar el botón guardar.
 
@@ -342,7 +342,7 @@ Para poder eliminar un tablero debe primero marcar el tablero en el recuadro izq
 [imagen del editar los tableros]
 
 Para poder editar los tableros ya realizados anteriormente, solo debemos pulsar dentro del menú de tableros la opción editar tableros,
-una vez seleccionado el tablero que deseamos editar, y ahí dependerá del tipo de 
+una vez seleccionado el tablero que deseamos editar, y ahí dependerá del tipo de
 tablero las distintas opciones que nos saldrán a editar dentro de los tableros.
 
 #####  7. Importar/Exportar Tableros
@@ -354,13 +354,13 @@ Para realizar la importación se deben seguir las siguientes instrucciones:
 [imagen de importar tableros]
 
 - Una vez dentro de la opción de importar, se deberá seleccionar la opción seleccionar carpeta,
-se abrirá un buscador donde se deberá ubicar la carpeta en donde se encuentran alojados los tableros que se desean importar.
+que abrirá un buscador donde se deberá ubicar la carpeta en donde se encuentran alojados los tableros que se desean importar.
 
-- Una vez seleccionada la carpeta  se mostrarán los tableros de dentro de la carpeta, para poder seleccionarlos.
+- Una vez seleccionada la carpeta  se mostrarán los tableros de dentro de la carpeta para poder seleccionarlos.
 Se pueden seleccionar individualmente u ocupando la opción de seleccionar todo.
 
 - Para completar la importación debemos seleccionar la opción de importar seleccionados,
-en el cual comenzará el proceso de carga de tableros dentro de la aplicación.
+donde comenzará el proceso de carga de tableros dentro de la aplicación.
 
 
 Para realizar la exportación se debe seguir los siguientes pasos:
@@ -377,10 +377,7 @@ se comenzará a realizar el proceso de exportación.
 
 ### 2.5 Manual
 
-
-
-Con respecto al botón que dice manual, este es simplemente para poder redireccionar a la persona a el manual de usuario.
-Para que se aprenda a ocupar y poder comprender todas las acciones que pueden realizar con el programa.
+El botón "Manual" redireccionará al manual de usuario de IntegraBoard, donde podrá aprender a ocupar y entender todas las acciones disponibles a realizar dentro del programa.
 
 ### 2.6 Descarga de contenido
 
@@ -395,7 +392,7 @@ Para poder ocupar cada uno de los tableros y poder escucharlos o realizar las ac
 ahí estará cada uno de los tableros asignados desde el menú de tableros. Estarán representados con el pictograma que fue seleccionado como portada,
 y al presionar el tablero se abre el player y ahí va a depender de qué tipo de tablero es al cual se ingresó la forma en que se utilice.
 
-Los Players de separan entre los distintos tipos de tableros, ahora ahondaremos un poco en cómo funcionan cada uno de estos players y mostraremos cómo utilizarlos a diario.
+Los Players se separan entre los distintos tipos de tableros, ahora ahondaremos un poco en cómo funcionan cada uno de estos players y mostraremos cómo utilizarlos a diario.
 
 #### A) Player del tablero de comunicación:
 El player del tablero de comunicaciones se puede mostrar de la siguiente manera:
@@ -485,7 +482,7 @@ comunicación o de enseñanza.
 
    Paso 2: Importar Carpeta (en caso de querer agregar pictogramas masivamente), seleccionar la carpeta en el buscador:
    
-   Paso 3: seleccionar los pictogramas 
+   Paso 3: seleccionar los pictogramas
    
    Paso 4: Presionar Aceptar.
 
@@ -515,7 +512,7 @@ comunicación o de enseñanza.
 
    [imagen de ir a guardar sonido]
 
-   [imagen de ir crear somido]
+   [imagen de ir crear sonido]
 
    Paso 1: Seleccionar sobre la opción sonido.
 
@@ -531,16 +528,32 @@ comunicación o de enseñanza.
 
 - Editar Pictograma:
    
+    [imagen de ir a la seccion de pictogramas]
+
+    [imagen de hacer doble clic en el pictograma]
+
+    [imagen de cambios en el pictograma]
+
+
    Paso 1: Ir a la sección Pictogramas.
    
-   Paso 2: Hacer doble clic en un pictograma.
+   Paso 2: seleccionar un pictograma.
+
+   paso 3: Seleccionar en el panel la opcion de editar.
    
-   Paso 3: Realizar cambios y Guardar
+   Paso 4: Realizar cambios y Guardar
    
-   Paso 4: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+   Paso 5: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
 
 - Editar Pictograma de tablero:
-   
+
+   [imagen de ir a tablero]
+
+   [imagen de seleccionar tablero]
+
+   [imagen realizar cambios y guardar]
+
+
    Paso 1: Ir a la sección Tablero.
    
    Paso 2: Seleccionar Tablero.
@@ -552,6 +565,21 @@ comunicación o de enseñanza.
    Paso 5: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
 
 ### 4.3. Crear Tablero
+
+    [imagen de ir a la seccion de tableros]
+
+    [imagen de crear tablero]
+
+    [imagen de tablero de comunicacion]
+
+    [imagen de tablero de Emociones ]
+
+    [imagen de tablero de Rutina con tiempo]
+
+    [imagen de tablero de rutina sin tiempo]
+
+    [imagen de tablero de sonido]
+
 
     Paso 1: Ir a la sección Tableros.
 
@@ -566,6 +594,14 @@ comunicación o de enseñanza.
     Paso 6: Guardar Tablero con la opción de la derecha "Guardar".
 
     - como paso alternativo se pueden importar tableros que han creado otro usuario, explicaremos paso a paso como realizar la importación.
+   
+    [imagen de ir a la seccion de tableros]
+
+    [imagen ir a la seccion de importar]
+
+    [imagen de seccion de imporacion]
+
+    [imagen de seleccion de carpetas]
 
     Paso 1: Entramos a la sección de "tableros".
 
@@ -581,6 +617,12 @@ comunicación o de enseñanza.
 
 
 ### 4.4. Seleccionar tableros disponibles
+
+    [imagen de ir a la seccion de tableros]
+
+    [imagen de la seccion de los tableros con un tablero seleccionado]
+
+    [imagen de los menús del tablero a utilizar]
 
     Paso 1: Para poder seleccionar el tablero y poder utilizarlo se debe ir a la sección de "Tableros".
 
@@ -630,7 +672,7 @@ las configuraciones de pictogramas).
 
     Paso 4: Si se presiona el botón saltar tarea aparecerá una flecha en el pictograma.
 
-    paso 5: Una vez terminado/saltado cada uno de las tareas nos saldrá una notificación que al cerrarla se nos devolverá al menú donde están los tableros.
+    paso 5: Una vez terminado/saltado cada una de las tareas nos saldrá una notificación que al cerrarla se nos devolverá al menú donde están los tableros.
 
 ### 4.6. Usar Tablero de rutina con tiempo
 
@@ -715,5 +757,8 @@ El software puede funcionar en computadores que cuenten con Windows 10 (Professi
 
 Se prohíbe la copia total o parcial de forma digital, fotocopia, offset o cualquier otro medio mecánico o digital de este documento así como de cualquier componente de software, material audiovisual, página web y cualquier otro material del que la empresa Lifeware SpA posea derechos, sin la autorización por escrito de Lifeware SpA.
 :::
+
+
+
 
 
