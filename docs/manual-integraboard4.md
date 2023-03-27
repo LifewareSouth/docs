@@ -100,7 +100,13 @@ Las próximas veces no será necesaria la conexión a internet, y de ser así es
 
 #### 2.1.1 Cómo desplegar el menú y utilizar sus opciones
 
-[imagen menu navegacion]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboardv4/menu_navegacion.png 'menu de navegación')
+
+</div>
+
+
 
 Luego de realizar el registro y crear el perfil llegaremos a una pantalla en la cual está en blanco,
 para poder desplegar el menú solo deberemos presionar en el botón celeste del lado izquierdo de la pantalla el cual nos entregará las distintas opciones
