@@ -168,7 +168,11 @@ Estos filtros pueden ser por nombre o por categoría, luego están las acciones 
 
 ##### 2. Crear Pictogramas
 
-[imagen con el menú para crear pictograma]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/menu_para_crear_nuevos_pictos.png 'Menu de crear nuevos pictogramas')
+
+</div>
 
 Al presionar la opción de crear pictogramas nos direccionará a una nueva ventana, donde se entregarán algunos datos a rellenar dentro de estos datos están:
 nombre del pictograma, un texto que estará dentro del pictograma, etiquetas y categoría, además de esto tenemos que seleccionar o tomar una imagen para el pictograma.
@@ -180,7 +184,12 @@ y otro en el cual podemos grabar sonido dentro de nuestro programa.
 
 ##### 3. Previsualizar
 
-[imagen de una previsualización]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/previsualizacion_de_pictogramas.png 'previsualizacion de pictogramas')
+
+</div>
+
 
 Para realizar la previsualización debemos seleccionar un pictograma.
 Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre una nueva ventana donde se muestra el pictograma en un tamaño más grande.
@@ -192,9 +201,11 @@ Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre
 Al presionar el botón se abre una nueva ventana en la cual se puede seleccionar entre dos pestañas ya sea de importar o exportar,
 al momento de importar, debemos seguir los siguientes pasos:
 
+<div style={{textAlign: 'center'}}>
 
-[imagen de él importar ]
+![Screnshoot](./img/manual-integraboradv4/Importar_pictograma.png 'importar pictograma')
 
+</div>
 
     A)Debemos seleccionar la carpeta, donde aparecerá un buscador para poder seleccionar la carpeta que contiene los pictogramas.
 
@@ -205,9 +216,11 @@ al momento de importar, debemos seguir los siguientes pasos:
 
 En el caso de querer exportar pictogramas se necesita realizar los siguientes pasos:
 
+<div style={{textAlign: 'center'}}>
 
-[imagen de él exportar]
+![Screnshoot](./img/manual-integraboradv4/exportar_pictograma.png 'exportar pictograma')
 
+</div>
 
     A)En la pestaña se puede ver a cada uno de los pictogramas listados en el lado izquierdo de nuestra pantalla por lo cual podemos
       utilizar el botón que dice seleccionar todos donde se seleccionarán todos los pictogramas listados, o bien seleccionar los que se requieran simplemente marcando los pictogramas.
