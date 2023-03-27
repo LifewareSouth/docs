@@ -230,7 +230,13 @@ En el caso de querer exportar pictogramas se necesita realizar los siguientes pa
 
 ##### 5. Editar Pictogramas
 
-[imagen editar pictograma]
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/editar_pictogramas.png 'editar pictograma')
+
+</div>
+
 
 La opción editar pictogramas hace referencia a que se pueden reemplazar todos los datos de un pictograma creado anteriormente.
 Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
@@ -238,7 +244,12 @@ Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada 
 
 ##### 6. Eliminar pictogramas
 
-[eliminar pictograma]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/eliminar_pictograma.png 'eliminar pictograma')
+
+</div>
+
 
 Al pulsar esta opción se borrará del listado de pictogramas.
 
@@ -250,13 +261,24 @@ Al pulsar esta opción se borrará del listado de pictogramas.
 
 #####   1. Menú de tableros
 
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/menu_tablero.png 'menu tablero')
+
+</div>
+
 El menú de los tableros contiene filtros para buscar por categoría de tableros o por nombre.
 Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, y al costado derecho de esto están las acciones que se pueden realizar.
 
 
 #####  2. Crear Tableros
 
-[imagen de las opciones de crear tableros]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/opciones_de_crear_tableros.png 'opciones de crear tableros')
+
+</div>
+
 
 Para crear el tablero se debe seleccionar el botón “crear tablero”, el cual despliega una lista de tipos de tableros posibles a crear,
 dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
@@ -264,7 +286,12 @@ dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
 
 ##### A) Tablero de comunicación
 
-[imagen de la creación de los tableros de comunicacion]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/creacion_tablero_comunicacion.png 'crear tablero de comunicación')
+
+</div>
+
 
 Este tablero tiene como uso exclusivo poder formar oraciones para que el usuario pueda comunicarse con las demás personas.
 
@@ -281,7 +308,12 @@ Observación: Es obligación asignar una portada al tablero para que pueda ser g
 
 #####  B) Tablero de Emociones
 
-[imagen de la creación de los tableros de emociones]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_de_emociones 'crear tablero de emociones')
+
+</div>
+
 
 El propósito de este tablero es poder representar las emociones del usuario a través de los distintos pictogramas que existen.
 Observaciones para el uso de tableros de comunicación:
@@ -314,13 +346,22 @@ Observación para el uso del tablero de rutinas:
    
     Caso A) Al no pinchar la opción "Tablero de rutina con tiempo":
 
-    [imagen del tablero de rutina sin tiempo]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_sin_tiempo 'crear tablero de emociones')
+
+</div>
 
     - En este caso se veran solo la cantidad de pictogramas en columnas.
 
     Caso B) Al si pinchar la opción "Tablero de rutina con tiempo":
 
-    [Imagen del tablero de rutina con tiempo]
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_con_tiempo 'crear tablero de emociones')
+
+</div>
 
     - En este caso debemos colocar los pictogramas en las columnas que se requieran.
 
