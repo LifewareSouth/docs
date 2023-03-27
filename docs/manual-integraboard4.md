@@ -100,9 +100,10 @@ Las próximas veces no será necesaria la conexión a internet, y de ser así es
 
 #### 2.1.1 Cómo desplegar el menú y utilizar sus opciones
 
+
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboardv4/menu_navegacion.png 'menu de navegación')
+![Screnshoot](./img/manual-integraboradv4/menu_navegacion.png 'menu de navegación')
 
 </div>
 
