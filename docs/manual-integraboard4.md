@@ -1,7 +1,6 @@
 ---
 id: manual-integraboardv4
 title: Manual de Usuario INTEGRABOARD Version 4.0®
-slug: /
 ---
 
 ## Contenido
