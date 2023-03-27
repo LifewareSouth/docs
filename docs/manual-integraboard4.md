@@ -1,4 +1,3 @@
-Manual de usuario Integraboard 4 ®
 ---
 id: manual-integraboard4
 title: Manual de Usuario INTEGRABOARD Version 4.0®
