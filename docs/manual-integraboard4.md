@@ -108,7 +108,6 @@ Las próximas veces no será necesaria la conexión a internet, y de ser así es
 </div>
 
 
-
 Luego de realizar el registro y crear el perfil llegaremos a una pantalla en la cual está en blanco,
 para poder desplegar el menú solo deberemos presionar en el botón celeste del lado izquierdo de la pantalla el cual nos entregará las distintas opciones
 que trae el menú entre ellas está el perfil, pictogramas y tableros.    
@@ -117,7 +116,13 @@ que trae el menú entre ellas está el perfil, pictogramas y tableros.
 
 #### 2.2.1 Funcionalidades del perfil
 
-[imagen de Perfil]
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/imagen_de_perfil.png 'Perfil')
+
+</div>
+
 
 ##### 1. Nombre
 
@@ -150,7 +155,12 @@ Se puede probar la voz que se selecciona al presionar el botón escuchar.
 
 ##### 1. Menú de pictogramas
 
-[imagen de inicio del area de pictogramas]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/menu_de_pictogramas.png 'Menu de pictogramas')
+
+</div>
+
 
 El menú del pictograma se divide en distintas partes, tiene una barra buscadora donde se pueden aplicar filtros
 para poder encontrar pictogramas de manera más sencilla.
