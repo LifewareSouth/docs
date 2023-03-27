@@ -22,7 +22,7 @@ slug: /
             - [Edad](#2-edad)
             - [Tamaño de letra](#3-tamaño-de-letra)
             - [Tomar Foto o asignar foto](#4-tomar-foto-o-asignar-foto)
-            - [Voz]($5-voz)
+            - [Voz](#5-voz)
     - [2.3 Pictogramas](#23-pictogramas)
         - [2.3.1 Funcionalidades de los pictogramas](#231--funcionalidades-de-los-pictogramas)
             - [Menú de pictogramas](#1-menu-de-pictogramas)
