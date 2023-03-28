@@ -348,7 +348,7 @@ Observación para el uso del tablero de rutinas:
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_sin_tiempo 'crear tablero de emociones')
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_sin_tiempo 'crear tablero de rutina sin tiempo')
 
 </div>
 
@@ -359,7 +359,7 @@ Observación para el uso del tablero de rutinas:
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_con_tiempo 'crear tablero de emociones')
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_con_tiempo 'crear tablero de rutina con tiempo')
 
 </div>
 
@@ -372,7 +372,12 @@ Observación para el uso del tablero de rutinas:
 
 ##### D) Tablero de sonido
 
-    [imagen del tablero de sonido]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_sonido.png 'crear tablero de sonido')
+
+</div>
+
 
 Este tablero tiene observaciones especiales, ya que solo se pueden ocupar pictogramas que tienen un sonido asignado.
 El principal uso de este tipo de tablero es poder reproducir todos los sonidos asociados a los pictogramas seleccionados.
@@ -390,25 +395,45 @@ Observación para el uso del tablero de sonido:
 
 #####  3. Previsualizar Tableros
 
-[Imagen del previsualizar Tableros]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/previsualizar_tablero.png 'previsualizar tableros')
+
+</div>
+
 
 La opción de previsualización muestra cómo se vería el tablero dentro del player dentro de una nueva vista de la aplicación.
 
 #####  4. Asignar Tableros
 
-[imagen de asignar tableros]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/asignar_tableros.png 'asignar tablero')
+
+</div>
+
 
 Para poder ver el tablero dentro del player debemos realizar esta acción primero, ya que al asignar el tablero se agrega a la ventana de menú principal y queda habilitado para utilizarse.
 
 #####  5. Eliminar Tableros
 
-[Imagen de eliminar tableros]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/eliminar_tableros.png 'eliminar tablero')
+
+</div>
+
 
 Para poder eliminar un tablero debe primero marcar el tablero en el recuadro izquierdo donde se encuentra el listado, una vez marcado se debe pulsar el botón “eliminar”.
 
 #####  6. Editar Tableros
 
-[imagen del editar los tableros]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/editar_tableros.png 'editar tablero')
+
+</div>
+
 
 Para poder editar los tableros ya realizados anteriormente, solo debemos pulsar dentro del menú de tableros la opción editar tableros,
 una vez seleccionado el tablero que deseamos editar, y ahí dependerá del tipo de
@@ -420,7 +445,12 @@ La opción de importar y exportar hace que se abra una nueva ventana, en la cual
 
 Para realizar la importación se deben seguir las siguientes instrucciones:
 
-[imagen de importar tableros]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/importar_tablero.png 'importar tablero')
+
+</div>
+
 
 - Una vez dentro de la opción de importar, se deberá seleccionar la opción seleccionar carpeta,
 que abrirá un buscador donde se deberá ubicar la carpeta en donde se encuentran alojados los tableros que se desean importar.
@@ -434,7 +464,12 @@ donde comenzará el proceso de carga de tableros dentro de la aplicación.
 
 Para realizar la exportación se debe seguir los siguientes pasos:
 
-[imagen de exportar tableros]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/exportar_tablero.png 'exportar tablero')
+
+</div>
+
 
 - Para iniciar el proceso de exportación debemos seleccionar la pestaña de exportar que está al lado de la opción de importar.
 
@@ -446,9 +481,21 @@ se comenzará a realizar el proceso de exportación.
 
 ### 2.5 Manual
 
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/manual_de_usuario.png 'manual de usuario')
+
+</div>
+
 El botón "Manual" redireccionará al manual de usuario de IntegraBoard, donde podrá aprender a ocupar y entender todas las acciones disponibles a realizar dentro del programa.
 
 ### 2.6 Descarga de contenido
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/descarga_de_contenido.png 'descarga de contenido')
+
+</div>
 
 Este botón dentro del menú corresponde a que puede haber cambios dentro de los pictogramas que tienen por defecto en el propio Integraboard,
 por lo que si presiona este botón en el momento en el que haya nuevo contenido dentro de esta aplicación este se descargará dentro de la aplicación.
