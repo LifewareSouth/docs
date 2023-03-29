@@ -590,9 +590,16 @@ comunicación o de enseñanza.
 
 - En caso de querer importar varios pictogramas:
 
-   [imagen de ir a importar pictogramas]
- 
-   [imagen de importar pictograma]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_pictograma.png 'ir a la seccion de pictogramas')
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_importar_pictogramas.png 'ir a importar pictograma')
+
+![Screnshoot](./img/manual-integraboradv4/paso_a_paso_importarpictograma.png 'paso a paso como importar pictogramas')
+
+</div>
+
 
    Paso 1: Ir a la sección Pictogramas.
 
@@ -603,6 +610,16 @@ comunicación o de enseñanza.
    Paso 4: Presionar Aceptar.
 
 - En caso de querer agregar pictograma individualmente:
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_pictograma.png 'ir a la seccion de pictogramas')
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_crear_pictogramas.png 'ir a crear pictogramas')
+
+![Screnshoot](./img/manual-integraboradv4/Crear_pictograma_paso_a_paso.png 'crear paso a paso el pictograma')
+
+</div>
 
    [Imagen de ir a crear pictogramas]
 
@@ -626,9 +643,15 @@ comunicación o de enseñanza.
 
 - Para guardar un sonido:
 
-   [imagen de ir a guardar sonido]
+<div style={{textAlign: 'center'}}>
 
-   [imagen de ir crear sonido]
+![Screnshoot](./img/manual-integraboradv4/ir_a_crear_sonido.png 'ir a la seccion de crear sonido')
+
+![Screnshoot](./img/manual-integraboradv4/Crear_sonido.png 'crear sonido')
+
+![Screnshoot](./img/manual-integraboradv4/seleccion_de_carpeta_de_sonidos.png 'seleccion de la carpeta de los sonidos')
+
+</div>
 
    Paso 1: Seleccionar sobre la opción sonido.
 
@@ -643,13 +666,17 @@ comunicación o de enseñanza.
    Paso 6: Sobre audio seleccionado presionar guardar.
 
 - Editar Pictograma:
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_pictograma.png 'ir a la seccion de pictogramas')
+
+![Screnshoot](./img/manual-integraboradv4/seleccionar_pictograma.png 'Seleccionar pictograma')
+
+![Screnshoot](./img/manual-integraboradv4/Editar_pictograma_y_guardar.png 'editar pictogramas')
+
+</div>
    
-    [imagen de ir a la seccion de pictogramas]
-
-    [imagen de hacer doble clic en el pictograma]
-
-    [imagen de cambios en el pictograma]
-
 
    Paso 1: Ir a la sección Pictogramas.
    
@@ -663,11 +690,15 @@ comunicación o de enseñanza.
 
 - Editar Pictograma de tablero:
 
-   [imagen de ir a tablero]
+<div style={{textAlign: 'center'}}>
 
-   [imagen de seleccionar tablero]
+![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_pictograma.png 'ir a la seccion de pictogramas')
 
-   [imagen realizar cambios y guardar]
+![Screnshoot](./img/manual-integraboradv4/seleccionar_pictograma.png 'Seleccionar pictograma')
+
+![Screnshoot](./img/manual-integraboradv4/Editar_pictograma_y_guardar.png 'editar pictogramas')
+
+</div>
 
 
    Paso 1: Ir a la sección Tablero.
@@ -682,19 +713,24 @@ comunicación o de enseñanza.
 
 ### 4.3. Crear Tablero
 
-    [imagen de ir a la seccion de tableros]
+<div style={{textAlign: 'center'}}>
 
-    [imagen de crear tablero]
+![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de pictogramas')
 
-    [imagen de tablero de comunicacion]
+![Screnshoot](./img/manual-integraboradv4/seleccionar_crear_tablero_y_seleccionar_el_tipo.png 'seleccion de crear tipo de tableros')
 
-    [imagen de tablero de Emociones ]
+![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_comunicaciones.png 'rellenar tablero de comunicaciones')
 
-    [imagen de tablero de Rutina con tiempo]
+![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_emociones.png 'rellenar tablero de emociones')
 
-    [imagen de tablero de rutina sin tiempo]
+![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_rutina_con_tiempo.png 'rellenar tablero de rutina con tiempo')
 
-    [imagen de tablero de sonido]
+![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_rutina_sin_tiempo.png 'rellenar tablero de rutina sin tiempo')
+
+![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_sonido.png 'rellenar tablero de sonido')
+
+</div>
+
 
 
     Paso 1: Ir a la sección Tableros.
@@ -710,14 +746,19 @@ comunicación o de enseñanza.
     Paso 6: Guardar Tablero con la opción de la derecha "Guardar".
 
     - como paso alternativo se pueden importar tableros que han creado otro usuario, explicaremos paso a paso como realizar la importación.
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de pictogramas')
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_importar_tableros.png 'seleccion de crear tipo de tableros')
+
+![Screnshoot](./img/manual-integraboradv4/seleccionar_carpeta_de_tableros_guardados.png 'rellenar tablero de comunicaciones')
+
+![Screnshoot](./img/manual-integraboradv4/importar_tableros_seleccioandos.png 'rellenar tablero de emociones')
+
+</div>
    
-    [imagen de ir a la seccion de tableros]
-
-    [imagen ir a la seccion de importar]
-
-    [imagen de seccion de imporacion]
-
-    [imagen de seleccion de carpetas]
 
     Paso 1: Entramos a la sección de "tableros".
 
@@ -733,6 +774,16 @@ comunicación o de enseñanza.
 
 
 ### 4.4. Seleccionar tableros disponibles
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de pictogramas')
+
+![Screnshoot](./img/manual-integraboradv4/marcar_el_tablero_y_asignarlo.png'seleccion de crear tipo de tableros')
+
+![Screnshoot](./img/manual-integraboradv4/menu_de_los_players.png 'rellenar tablero de comunicaciones')
+
+</div>
 
     [imagen de ir a la seccion de tableros]
 
