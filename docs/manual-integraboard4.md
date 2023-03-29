@@ -749,13 +749,13 @@ comunicación o de enseñanza.
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de pictogramas')
+![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de tableros')
 
-![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_importar_tableros.png 'seleccion de crear tipo de tableros')
+![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_importar_tableros.png 'ir a la seccion de importar tableros')
 
-![Screnshoot](./img/manual-integraboradv4/seleccionar_carpeta_de_tableros_guardados.png 'rellenar tablero de comunicaciones')
+![Screnshoot](./img/manual-integraboradv4/seleccionar_carpeta_de_tableros_guardados.png 'seleccionar carpeta de tableros guardados')
 
-![Screnshoot](./img/manual-integraboradv4/importar_tableros_seleccioandos.png 'rellenar tablero de emociones')
+![Screnshoot](./img/manual-integraboradv4/importar_tableros_seleccioandos.png 'importar tableros seleccionados')
 
 </div>
    
@@ -777,19 +777,14 @@ comunicación o de enseñanza.
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de pictogramas')
+![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de tableros')
 
-![Screnshoot](./img/manual-integraboradv4/marcar_el_tablero_y_asignarlo.png'seleccion de crear tipo de tableros')
+![Screnshoot](./img/manual-integraboradv4/marcar_el_tablero_y_asignarlo.png'marcar el tablero y asignarlo')
 
-![Screnshoot](./img/manual-integraboradv4/menu_de_los_players.png 'rellenar tablero de comunicaciones')
+![Screnshoot](./img/manual-integraboradv4/menu_de_los_players.png 'menu de los players')
 
 </div>
 
-    [imagen de ir a la seccion de tableros]
-
-    [imagen de la seccion de los tableros con un tablero seleccionado]
-
-    [imagen de los menús del tablero a utilizar]
 
     Paso 1: Para poder seleccionar el tablero y poder utilizarlo se debe ir a la sección de "Tableros".
 
