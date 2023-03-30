@@ -310,7 +310,7 @@ Observación: Es obligación asignar una portada al tablero para que pueda ser g
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/crear_tablero_de_emociones 'crear tablero de emociones')
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_de_emociones.png 'crear tablero de emociones')
 
 </div>
 
