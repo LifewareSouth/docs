@@ -777,7 +777,7 @@ comunicación o de enseñanza.
 
 ![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de tableros')
 
-![Screnshoot](./img/manual-integraboradv4/marcar_el_tablero_y_asignarlo.png'marcar el tablero y asignarlo')
+![Screnshoot](./img/manual-integraboradv4/marcar_el_tablero_y_asignarlo.png 'marcar el tablero y asignarlo')
 
 ![Screnshoot](./img/manual-integraboradv4/menu_de_los_players.png 'menu de los players')
 
