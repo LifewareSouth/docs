@@ -348,7 +348,7 @@ Observación para el uso del tablero de rutinas:
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_sin_tiempo 'crear tablero de rutina sin tiempo')
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_sin_tiempo.png 'crear tablero de rutina sin tiempo')
 
 </div>
 
@@ -359,7 +359,7 @@ Observación para el uso del tablero de rutinas:
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_con_tiempo 'crear tablero de rutina con tiempo')
+![Screnshoot](./img/manual-integraboradv4/crear_tablero_rutina_con_tiempo.png 'crear tablero de rutina con tiempo')
 
 </div>
 
