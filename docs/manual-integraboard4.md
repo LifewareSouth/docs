@@ -713,7 +713,6 @@ comunicación o de enseñanza.
 
 ### 4.3. Crear Tablero
 
-<div style={{textAlign: 'center'}}>
 
 ![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de pictogramas')
 
@@ -729,7 +728,6 @@ comunicación o de enseñanza.
 
 ![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_sonido.png 'rellenar tablero de sonido')
 
-</div>
 
 
 
