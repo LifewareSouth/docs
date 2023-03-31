@@ -328,7 +328,6 @@ Observaciones para el uso de tableros de comunicación:
 ##### C) Tablero de rutinas
 
 
-
 El tablero de rutinas hace referencia a una serie de tareas representadas por pictogramas que debe lograr el usuario.
 
 Observación para el uso del tablero de rutinas:
@@ -621,9 +620,6 @@ comunicación o de enseñanza.
 
 </div>
 
-   [Imagen de ir a crear pictogramas]
-
-   [imagen crear pictograma paso a paso]
    
    Paso 1: Crear nuevo pictograma.
    
@@ -727,7 +723,6 @@ comunicación o de enseñanza.
 ![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_rutina_sin_tiempo.png 'rellenar tablero de rutina sin tiempo')
 
 ![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_sonido.png 'rellenar tablero de sonido')
-
 
 
 
