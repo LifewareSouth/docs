@@ -512,7 +512,11 @@ Los Players se separan entre los distintos tipos de tableros, ahora ahondaremos 
 #### A) Player del tablero de comunicación:
 El player del tablero de comunicaciones se puede mostrar de la siguiente manera:
 
-[Imagen]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/player_tablero_comunicacion.png 'player de comunicaciones')
+
+</div>
 
 Se puede ver el tablero creado en el sector inferior,
 arriba de este habrá una franja en la cual se ubicaran los pictogramas una vez que esté sea seleccionado presionando del tablero.
@@ -524,7 +528,11 @@ el programa comenzará a realizar la lectura de estos a través de la voz selecc
 #### B) Player del tablero de emociones:
 El Player de emociones se representa de la siguiente manera:
 
-[imagen]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/player_tablero_emociones.png 'player de emociones')
+
+</div>
 
 Este player nos muestra cada uno de los pictogramas que conforma nuestro tablero en el centro inferior de la pantalla,
 la idea de este tablero es que la persona que lo ocupe pueda presionar y
@@ -536,7 +544,11 @@ El tablero de rutina se divide en dos partes, ya que este tiene la opción de te
 
 #####   - Player sin tiempo:
 
-    [imagen tablero sin tiempo]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/player_tablero_rutina_sin_tiempo.png 'player de rutina sin tiempo')
+
+</div>
 
     Se puede ver en el player que está en fila cada uno de los pictogramas que forman este tablero de rutina,
     la idea de este tablero sin tiempo es para que la persona que ocupe esta aplicación pueda realizar cada una de las actividades de manera tranquila,
@@ -547,7 +559,11 @@ El tablero de rutina se divide en dos partes, ya que este tiene la opción de te
 
 #####   - Player con tiempo:
 
-    [imagen player con tiempo]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/Player_tablero_de_rutina_con_tiempo.png 'player de rutina con tiempo')
+
+</div>
 
     En este player podemos ver que el tablero de rutina presenta un logo de play en el centro de la pantalla,
     debajo de este están los pictogramas y en la zona inferior están 3 botones que tienen una acción en particular.
@@ -566,7 +582,11 @@ El tablero de rutina se divide en dos partes, ya que este tiene la opción de te
 #### D) Player del tablero de Sonido:
 El tablero se representa de la siguiente manera:
 
-[imagen del tablero]
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/player_tablero_de_sonido.png 'player de sonido')
+
+</div>
 
 El player de este tablero es un poco más simple que el de los otros casos, ya que en este se nos presenta solamente el tablero creado anteriormente,
 por lo que para que estos puedan realizar el sonido que tiene integrado el pictograma se debe solamente tocar el pictograma.
@@ -623,19 +643,26 @@ comunicación o de enseñanza.
    
    Paso 1: Crear nuevo pictograma.
    
-   Paso 2: Agregar nueva imagen o seleccionar la imagen a utilizar de las que ya están cargadas en el programa.
+   Paso 2: Agregar nueva imagen o seleccionar la imagen a 
+   utilizar de las que ya están cargadas en el programa.
    
-   Paso 3: Agregar título (esto nos permitirá buscar el pictograma en otra oportunidad).
+   Paso 3: Agregar título (esto nos permitirá buscar 
+   el pictograma en otra oportunidad).
    
-   Paso 4: Agregar texto (este será el texto que aparecerá bajo la imagen).
+   Paso 4: Agregar texto (este será el texto que 
+   aparecerá bajo la imagen).
    
-   Paso 5: Agregar sonido (este ítem es opcional, los sonidos nuevos deben ser descargados por cada beneficiario).
+   Paso 5: Agregar sonido (este ítem es opcional, los sonidos nuevos 
+   deben ser descargados por cada beneficiario).
    
-   Paso 6: Agregar categoría (esta opción da la posibilidad de encasillar el pictograma en un grupo para buscarlo de manera reducida a futuro).
+   Paso 6: Agregar categoría (esta opción da la posibilidad de encasillar 
+   el pictograma en un grupo para buscarlo de manera reducida a futuro).
 
-   paso 7: Agregar etiquetas (Esta opción tiene un límite de 5 etiquetas y deben ser puestas entre comas, por ejemplo: casa, hogar, etc)
+   paso 7: Agregar etiquetas (Esta opción tiene un límite de 5 etiquetas 
+   y deben ser puestas entre comas, por ejemplo: casa, hogar, etc)
    
-   Paso 8: Guardar (aparecerá un mensaje: "el pictograma fue creado con éxito").
+   Paso 8: Guardar (aparecerá un mensaje: "el pictograma 
+   fue creado con éxito").
 
 - Para guardar un sonido:
 
@@ -651,7 +678,8 @@ comunicación o de enseñanza.
 
    Paso 1: Seleccionar sobre la opción sonido.
 
-   Paso 2: Hacer click en agregar nuevo sonido (mp3) ó se puede grabar uno.
+   Paso 2: Hacer click en agregar nuevo sonido (mp3) 
+   ó se puede grabar uno.
 
    Paso 3: Seleccionar sonido desde nuestro dispositivo.
 
@@ -682,7 +710,8 @@ comunicación o de enseñanza.
    
    Paso 4: Realizar cambios y Guardar
    
-   Paso 5: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+   Paso 5: Al realizar los cambios, estos se aplicarán a todos los 
+   tableros que contienen este pictograma.
 
 - Editar Pictograma de tablero:
 
@@ -705,7 +734,8 @@ comunicación o de enseñanza.
    
    Paso 4: Realizar Cambios y Guardar.
    
-   Paso 5: Al realizar los cambios, estos se aplicarán a todos los tableros que contienen este pictograma.
+   Paso 5: Al realizar los cambios, estos se aplicarán a 
+   todos los tableros que contienen este pictograma.
 
 ### 4.3. Crear Tablero
 
@@ -728,17 +758,22 @@ comunicación o de enseñanza.
 
     Paso 1: Ir a la sección Tableros.
 
-    Paso 2: Presionar Crear nuevo tablero y seleccionar en el listado que tipo de tablero requiere.
+    Paso 2: Presionar Crear nuevo tablero y seleccionar 
+    en el listado que tipo de tablero requiere.
 
-    Paso 3: En la sección derecha configurar el tamaño, el nombre a asignar, asignar etiquetas e ingresar una imagen al tablero.
+    Paso 3: En la sección derecha configurar el tamaño, 
+    el nombre a asignar, asignar etiquetas e ingresar una imagen al tablero.
 
-    Paso 4: Presionar en los íconos que dicen Asignar y seleccionar los pictogramas a agregar.
+    Paso 4: Presionar en los íconos que dicen Asignar y 
+    seleccionar los pictogramas a agregar.
 
     Paso 5: Guardar cambios.
 
-    Paso 6: Guardar Tablero con la opción de la derecha "Guardar".
+    Paso 6: Guardar Tablero con la opción de la 
+    derecha "Guardar".
 
-    - como paso alternativo se pueden importar tableros que han creado otro usuario, explicaremos paso a paso como realizar la importación.
+    - como paso alternativo se pueden importar tableros 
+    que han creado otro usuario, explicaremos paso a paso como realizar la importación.
 
 <div style={{textAlign: 'center'}}>
 
@@ -759,9 +794,11 @@ comunicación o de enseñanza.
 
     Paso 3: Presionamos la opción "seleccionar carpeta".
 
-    Paso 4: Vemos la ubicación de la carpeta donde estan los tableros y la seleccionamos.
+    Paso 4: Vemos la ubicación de la carpeta donde estan 
+    los tableros y la seleccionamos.
 
-    Paso 5: Dentro de la aplicación estan todas las tablas, se pueden seleccionar uno por uno o presionar el botón que dice "Seleccionar todos".
+    Paso 5: Dentro de la aplicación estan todas las tablas, 
+    se pueden seleccionar uno por uno o presionar el botón que dice "Seleccionar todos".
 
     Paso 6: Para terminar presionamos el botón "Importar Seleccionados".
 
@@ -779,13 +816,17 @@ comunicación o de enseñanza.
 </div>
 
 
-    Paso 1: Para poder seleccionar el tablero y poder utilizarlo se debe ir a la sección de "Tableros".
+    Paso 1: Para poder seleccionar el tablero y poder 
+    utilizarlo se debe ir a la sección de "Tableros".
 
-    Paso 2: Luego en el panel aparecerán los tableros ya creados, para asignarlos debe presionar sobre el tablero.
+    Paso 2: Luego en el panel aparecerán los tableros 
+    ya creados, para asignarlos debe presionar sobre el tablero.
 
-    Paso 3: Una vez seleccionado debe ir al apartado del costado derecho y presionar el botón que dice "Asignar"
+    Paso 3: Una vez seleccionado debe ir al apartado 
+    del costado derecho y presionar el botón que dice "Asignar"
 
-    Paso 4: presionaremos el botón al costado superior izquierdo que dice "Menú"
+    Paso 4: presionaremos el botón al costado superior 
+    izquierdo que dice "Menú"
 
     Paso 5: Seleccionar el tablero a utilizar
 
@@ -798,57 +839,78 @@ las configuraciones de pictogramas).
 
 ### 4.6. Usar Tablero de comunicación
 
- - Con el tablero de tipo "Comunicación" es el único que puede sintetizar las palabras de los pictogramas.
+ - Con el tablero de tipo "Comunicación" es el 
+ único que puede sintetizar las palabras de los pictogramas.
 
-   Paso 1: Seleccionar tablero a utilizar, que están desplegados en el menú.
+   Paso 1: Seleccionar tablero a utilizar, 
+   que están desplegados en el menú.
 
-   Paso 2: Seleccionar los pictogramas que se quieren reproducir, estos irán apareciendo en la barra blanca al centro de la pantalla
-   ó se puede ocupar la opción "sintetizar pictogramas" en la cual al tocar el pictograma este lo reproduce inmediatamente.
+   Paso 2: Seleccionar los pictogramas que se quieren reproducir, 
+   estos irán apareciendo en la barra blanca al centro de la pantalla
+   ó se puede ocupar la opción "sintetizar pictogramas" en la cual 
+   al tocar el pictograma este lo reproduce inmediatamente.
 
-   Paso 3: Presionar el pictograma de "escuchar" ubicado en la parte derecha.
+   Paso 3: Presionar el pictograma de "escuchar" ubicado en 
+   la parte derecha.
 
-   Paso 4: Para volver al menú principal presionar sobre el pictograma "Menú".
+   Paso 4: Para volver al menú principal presionar sobre el 
+   pictograma "Menú".
 
 ### 4.7. Usar Tablero de emociones
 
     Paso 1: Seleccionar el tablero de emociones creado.
 
-    Paso 2: Una vez dentro del tablero se debe presionar el pictograma el cual represente algún estado que tenga el usuario.
+    Paso 2: Una vez dentro del tablero se debe presionar el 
+    pictograma el cual represente algún estado que tenga el usuario.
 
-    Paso 3: Este pictograma se mostrará en el recuadro del centro de la pantalla en grande.
+    Paso 3: Este pictograma se mostrará en el recuadro del 
+    centro de la pantalla en grande.
 
 ### 4.6. Usar Tablero de rutina sin tiempo
 
-    Paso 1: El tablero nos mostrará las distintas acciones que contiene en el centro de la pantalla.
+    Paso 1: El tablero nos mostrará las distintas acciones 
+    que contiene en el centro de la pantalla.
 
-    Paso 2: Una vez realizada una acción/tarea correctamente debemos presionar el botón "Terminar tarea".
+    Paso 2: Una vez realizada una acción/tarea correctamente 
+    debemos presionar el botón "Terminar tarea".
 
-    Paso 3: Se mostrará el pictograma anterior con un tick en ese caso, en caso de que se quiera saltar una tarea se debe presionar el botón "Saltar tarea".
+    Paso 3: Se mostrará el pictograma anterior con un tick en ese caso, 
+    en caso de que se quiera saltar una tarea se debe presionar el botón "Saltar tarea".
 
-    Paso 4: Si se presiona el botón saltar tarea aparecerá una flecha en el pictograma.
+    Paso 4: Si se presiona el botón saltar tarea aparecerá una 
+    flecha en el pictograma.
 
-    paso 5: Una vez terminado/saltado cada una de las tareas nos saldrá una notificación que al cerrarla se nos devolverá al menú donde están los tableros.
+    paso 5: Una vez terminado/saltado cada una de las tareas nos saldrá 
+    una notificación que al cerrarla se nos devolverá al menú donde están los tableros.
 
 ### 4.6. Usar Tablero de rutina con tiempo
 
-    Paso 1: Al centro de la pantalla se nos mostrará un botón play, al presionarlo se comenzará el conteo hacia atrás.
+    Paso 1: Al centro de la pantalla se nos mostrará un botón play, 
+    al presionarlo se comenzará el conteo hacia atrás.
 
-    Paso 2: Si se realiza la tarea antes del tiempo estimado, se puede terminar la tarea presionando el botón "terminar tarea".
+    Paso 2: Si se realiza la tarea antes del tiempo estimado, 
+    se puede terminar la tarea presionando el botón "terminar tarea".
 
-    Paso 3: En el caso de que se termine el tiempo y no se haya terminado de realizar la tarea saldrá una notificación en la cual se nos consultará,
-    si desea agregar más tiempo o se salta la tarea, en caso de añadir más tiempo se sumarán 20 segundos, en el caso de saltar la tarea, aparecerá una flecha en la tarea.
+    Paso 3: En el caso de que se termine el tiempo y no se haya terminado 
+    de realizar la tarea saldrá una notificación en la cual se nos consultará,
+    si desea agregar más tiempo o se salta la tarea, en caso de añadir 
+    más tiempo se sumarán 20 segundos, en el caso de saltar la tarea, aparecerá una flecha en la tarea.
 
-    Paso 4: Si se desea agregar más tiempo antes de que se acabé el tiempo se presiona el botón que dice "Agregar más tiempo"
+    Paso 4: Si se desea agregar más tiempo antes de que se acabé el 
+    tiempo se presiona el botón que dice "Agregar más tiempo"
 
 ### 4.6. Usar Tablero de Sonido
 
     Paso 1: entrar al Tablero de sonidos.
 
-    Paso 2: en el centro de la pantalla podremos ver el tablero como se diseñó.
+    Paso 2: en el centro de la pantalla podremos ver 
+    el tablero como se diseñó.
    
-    Paso 3: Para poder escuchar los sonidos debemos presionar cada uno de los pictogramas que están en el tablero.
+    Paso 3: Para poder escuchar los sonidos debemos presionar 
+    cada uno de los pictogramas que están en el tablero.
 
-    Paso 4: Para devolvernos al menú debemos presionar el botón ubicado en el costado superior izquierdo que dice "Menú".
+    Paso 4: Para devolvernos al menú debemos presionar el 
+    botón ubicado en el costado superior izquierdo que dice "Menú".
 
 ## 5. Glosario
 
