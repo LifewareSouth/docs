@@ -739,6 +739,7 @@ comunicación o de enseñanza.
 
 ### 4.3. Crear Tablero
 
+<div style={{textAlign: 'center'}}>
 
 ![Screnshoot](./img/manual-integraboradv4/ir_a_seccion_de_tableros.png 'ir a la seccion de pictogramas')
 
@@ -754,7 +755,7 @@ comunicación o de enseñanza.
 
 ![Screnshoot](./img/manual-integraboradv4/rellenar_tablero_de_sonido.png 'rellenar tablero de sonido')
 
-
+</div>
 
     Paso 1: Ir a la sección Tableros.
 
@@ -839,6 +840,15 @@ las configuraciones de pictogramas).
 
 ### 4.6. Usar Tablero de comunicación
 
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_comunicacion.png 'seleccionar player de comunicacion')
+
+![Screnshoot](./img/manual-integraboradv4/todo_lo_del_player_de_comunicacion.png 'acciones del player')
+
+
+</div>
+
  - Con el tablero de tipo "Comunicación" es el 
  único que puede sintetizar las palabras de los pictogramas.
 
@@ -858,6 +868,15 @@ las configuraciones de pictogramas).
 
 ### 4.7. Usar Tablero de emociones
 
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/todo_lo_del_player_de_comunicacion.png 'ir a la seccion de tableros')
+
+![Screnshoot](./img/manual-integraboradv4/acciones_para_player_de_emociones.png 'marcar el tablero y asignarlo')
+
+
+</div>
+
     Paso 1: Seleccionar el tablero de emociones creado.
 
     Paso 2: Una vez dentro del tablero se debe presionar el 
@@ -865,41 +884,71 @@ las configuraciones de pictogramas).
 
     Paso 3: Este pictograma se mostrará en el recuadro del 
     centro de la pantalla en grande.
+    
+    Paso 4: Para volver al menú, debemos presionar, el boton "menú".
 
-### 4.6. Usar Tablero de rutina sin tiempo
+### 4.8. Usar Tablero de rutina sin tiempo
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_rutina_sin_tiempo.png 'ir a la seccion de tableros')
+
+![Screnshoot](./img/manual-integraboradv4/acciones_player_rutina_sin_tiempo.png 'marcar el tablero y asignarlo')
+
+![Screnshoot](./img/manual-integraboradv4/termino_player_rutina_sin_timepo.png 'menu de los players')
+
+</div>
 
     Paso 1: El tablero nos mostrará las distintas acciones 
     que contiene en el centro de la pantalla.
 
     Paso 2: Una vez realizada una acción/tarea correctamente 
-    debemos presionar el botón "Terminar tarea".
+    debemos presionar el botón "Terminar tarea" y en el pictograma se mostrara con un tick.
 
-    Paso 3: Se mostrará el pictograma anterior con un tick en ese caso, 
-    en caso de que se quiera saltar una tarea se debe presionar el botón "Saltar tarea".
+    Paso 3: En el caso de que se quiera saltar una tarea se debe presionar el botón "Saltar tarea", por lo que se pondra una flecha en el pictograma.
 
-    Paso 4: Si se presiona el botón saltar tarea aparecerá una 
-    flecha en el pictograma.
-
-    paso 5: Una vez terminado/saltado cada una de las tareas nos saldrá 
+    paso 4: Una vez terminado/saltado cada una de las tareas nos saldrá 
     una notificación que al cerrarla se nos devolverá al menú donde están los tableros.
 
-### 4.6. Usar Tablero de rutina con tiempo
+### 4.9. Usar Tablero de rutina con tiempo
 
-    Paso 1: Al centro de la pantalla se nos mostrará un botón play, 
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_rutina_con_tiempo.png 'ir a la seccion de tableros')
+
+![Screnshoot](./img/manual-integraboradv4/pulsar_boton_play.png 'marcar el tablero y asignarlo')
+
+![Screnshoot](./img/manual-integraboradv4/acciones_de_player_rutina_con_tiempo.png 'menu de los players')
+
+![Screnshoot](./img/manual-integraboradv4/acciones_con_mensaje.png 'menu de los players')
+
+</div>
+
+    Paso 1: seleccionar el player de rutina con tiempo.
+
+    Paso 2: Al centro de la pantalla se nos mostrará un botón play, 
     al presionarlo se comenzará el conteo hacia atrás.
 
-    Paso 2: Si se realiza la tarea antes del tiempo estimado, 
+    Paso 3: Si se realiza la tarea antes del tiempo estimado, 
     se puede terminar la tarea presionando el botón "terminar tarea".
 
-    Paso 3: En el caso de que se termine el tiempo y no se haya terminado 
+    Paso 4: En el caso de que se termine el tiempo y no se haya terminado 
     de realizar la tarea saldrá una notificación en la cual se nos consultará,
     si desea agregar más tiempo o se salta la tarea, en caso de añadir 
     más tiempo se sumarán 20 segundos, en el caso de saltar la tarea, aparecerá una flecha en la tarea.
 
-    Paso 4: Si se desea agregar más tiempo antes de que se acabé el 
+    Paso 5: Si se desea agregar más tiempo antes de que se acabé el 
     tiempo se presiona el botón que dice "Agregar más tiempo"
 
-### 4.6. Usar Tablero de Sonido
+### 4.10. Usar Tablero de Sonido
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_sonido.png 'ir a la seccion de tableros')
+
+![Screnshoot](./img/manual-integraboradv4/acciones_player_de_sonido.png 'marcar el tablero y asignarlo')
+
+</div>
 
     Paso 1: entrar al Tablero de sonidos.
 
