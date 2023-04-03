@@ -59,12 +59,12 @@ title: Manual de Usuario INTEGRABOARD Version 4.0®
 
 ### 1.1. Requerimientos técnicos
 
-#### 1.1.1. ​ Software:
+### 1.1.1. ​ Software:
 
       - Windows 10.
       - .NET Framework 4.5.2.
 
-#### 1.1.2. ​ Hardware:
+### 1.1.2. ​ Hardware:
 
       - Procesador 2.4 GHz o superior.
       - 2 GB de memoria RAM o superior.
@@ -77,7 +77,7 @@ este se puede obtener tanto descargándolo como mediante un dispositivo USB. Par
 se debe abrir el archivo antes mencionado, el instalador lo guiará a través del proceso de instalación,
 comprobará las dependencias y creará accesos directos en el escritorio y el menú de inicio dando el primer uso de manera inmediata.
 
-#### 1.2.1. ​ Registro y primer Uso
+### 1.2.1. ​ Registro y primer Uso
 
 La primera ejecución de IntegraBoard comienza al abrir el acceso directo de
 IntegraBoard en el escritorio ó en el menú de inicio de su computador,
@@ -98,7 +98,7 @@ Las próximas veces no será necesaria la conexión a internet, y de ser así es
 
 ### 2.1 Panel de menú
 
-#### 2.1.1 Cómo desplegar el menú y utilizar sus opciones
+### 2.1.1 Cómo desplegar el menú y utilizar sus opciones
 
 
 <div style={{textAlign: 'center'}}>
@@ -114,7 +114,7 @@ que trae el menú entre ellas está el perfil, pictogramas y tableros.
 
 ### 2.2 Perfil
 
-#### 2.2.1 Funcionalidades del perfil
+### 2.2.1 Funcionalidades del perfil
 
 
 <div style={{textAlign: 'center'}}>
@@ -124,26 +124,26 @@ que trae el menú entre ellas está el perfil, pictogramas y tableros.
 </div>
 
 
-##### 1. Nombre
+#### 1. Nombre
 
 En esta opción podemos ver el nombre del perfil y además se puede editar haciendo click en el recuadro que contiene el nombre.
 
-##### 2. Edad
+#### 2. Edad
 
 Esta opción muestra la edad del usuario y  es modificable al presionar el botón “+” y el botón “-”.
 
-##### 3. Tamaño de letra
+#### 3. Tamaño de letra
 
 La opción tamaño sirve para poder ajustar el tamaño de la letra de los pictogramas, ya sea cuando se está viendo los pictogramas o cuando se está trabajando dentro de los tableros.
 
-##### 4. Tomar foto o seleccionar foto
+#### 4. Tomar foto o seleccionar foto
 
 Para agregar una foto de perfil se puede hacer a través de dos opciones: el tomar una
 foto, botón desde el que se despliega otra pantalla del programa en el cual toma la cámara del dispositivo que se está utilizando,
 ó el seleccionar una foto la cual nos abrirá un buscador donde podremos navegar a través del dispositivo (archivos del computador)
 para poder encontrar una imagen que se quiera ocupar como imagen de perfil.
 
-##### 5. Voz
+#### 5. Voz
 
 La opción de voz nos permite modificar la voz que queremos que interprete los tableros. Para seleccionar hay que presionar el recuadro que tiene el nombre y
 se desplegará un listado donde se podrá seleccionar entre las voces que tiene instaladas en su dispositivo.
@@ -151,9 +151,9 @@ Se puede probar la voz que se selecciona al presionar el botón escuchar.
 
 ### 2.3 Pictogramas
 
-#### 2.3.1 Funcionalidades de los pictogramas
+### 2.3.1 Funcionalidades de los pictogramas
 
-##### 1. Menú de pictogramas
+#### 1. Menú de pictogramas
 
 <div style={{textAlign: 'center'}}>
 
@@ -166,7 +166,7 @@ El menú del pictograma se divide en distintas partes, tiene una barra buscadora
 para poder encontrar pictogramas de manera más sencilla.
 Estos filtros pueden ser por nombre o por categoría, luego están las acciones que en los siguientes puntos se explicarán.
 
-##### 2. Crear Pictogramas
+#### 2. Crear Pictogramas
 
 <div style={{textAlign: 'center'}}>
 
@@ -182,7 +182,7 @@ En esta opción tenemos la posibilidad de integrar un sonido que ya esté cargad
 en caso de no tener ningún sonido cargado en nuestro programa tendremos dos opciones más las cuales uno nos permitirá buscar sonidos dentro de nuestro dispositivo
 y otro en el cual podemos grabar sonido dentro de nuestro programa.
 
-##### 3. Previsualizar
+#### 3. Previsualizar
 
 <div style={{textAlign: 'center'}}>
 
@@ -194,7 +194,7 @@ y otro en el cual podemos grabar sonido dentro de nuestro programa.
 Para realizar la previsualización debemos seleccionar un pictograma.
 Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre una nueva ventana donde se muestra el pictograma en un tamaño más grande.
 
-##### 4. Exportar/Importar
+#### 4. Exportar/Importar
 
 
 
@@ -228,7 +228,7 @@ En el caso de querer exportar pictogramas se necesita realizar los siguientes pa
     B)Luego de seleccionar los pictogramas que se requieran se presiona el botón de “exportar seleccionados”,
       luego de eso comenzará el periodo donde se exportan cada uno de estos pictogramas.
 
-##### 5. Editar Pictogramas
+#### 5. Editar Pictogramas
 
 
 <div style={{textAlign: 'center'}}>
@@ -242,7 +242,7 @@ La opción editar pictogramas hace referencia a que se pueden reemplazar todos l
 Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
 
 
-##### 6. Eliminar pictogramas
+#### 6. Eliminar pictogramas
 
 <div style={{textAlign: 'center'}}>
 
@@ -256,10 +256,10 @@ Al pulsar esta opción se borrará del listado de pictogramas.
 ### 2.4 Tableros
 
 
-#### 2.4.1 Funcionalidades del tablero
+### 2.4.1 Funcionalidades del tablero
 
 
-#####   1. Menú de tableros
+####   1. Menú de tableros
 
 <div style={{textAlign: 'center'}}>
 
@@ -271,7 +271,7 @@ El menú de los tableros contiene filtros para buscar por categoría de tableros
 Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, y al costado derecho de esto están las acciones que se pueden realizar.
 
 
-#####  2. Crear Tableros
+####  2. Crear Tableros
 
 <div style={{textAlign: 'center'}}>
 
@@ -284,7 +284,7 @@ Para crear el tablero se debe seleccionar el botón “crear tablero”, el cual
 dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
 
 
-##### A) Tablero de comunicación
+#### A) Tablero de comunicación
 
 <div style={{textAlign: 'center'}}>
 
@@ -306,7 +306,7 @@ Observaciones para el uso de tableros de comunicación:
 Observación: Es obligación asignar una portada al tablero para que pueda ser guardado. En caso contrario, el programa mostrará una alerta diciendo que debe asignar una portada.
 
 
-#####  B) Tablero de Emociones
+####  B) Tablero de Emociones
 
 <div style={{textAlign: 'center'}}>
 
@@ -325,7 +325,7 @@ Observaciones para el uso de tableros de comunicación:
 
     -   Se finaliza la creación del tablero de la misma forma que el mencionado anteriormente.
 
-##### C) Tablero de rutinas
+#### C) Tablero de rutinas
 
 
 El tablero de rutinas hace referencia a una serie de tareas representadas por pictogramas que debe lograr el usuario.
@@ -369,7 +369,7 @@ Observación para el uso del tablero de rutinas:
 
     - Para guardar el tablero simplemente se debe asignar una portada y luego  seleccionar el botón guardar.
 
-##### D) Tablero de sonido
+#### D) Tablero de sonido
 
 <div style={{textAlign: 'center'}}>
 
@@ -392,7 +392,7 @@ Observación para el uso del tablero de sonido:
 
     - Para guardar el tablero simplemente se debe asignar una portada y luego  seleccionar el botón guardar.
 
-#####  3. Previsualizar Tableros
+####  3. Previsualizar Tableros
 
 <div style={{textAlign: 'center'}}>
 
@@ -403,7 +403,7 @@ Observación para el uso del tablero de sonido:
 
 La opción de previsualización muestra cómo se vería el tablero dentro del player dentro de una nueva vista de la aplicación.
 
-#####  4. Asignar Tableros
+####  4. Asignar Tableros
 
 <div style={{textAlign: 'center'}}>
 
@@ -414,7 +414,7 @@ La opción de previsualización muestra cómo se vería el tablero dentro del pl
 
 Para poder ver el tablero dentro del player debemos realizar esta acción primero, ya que al asignar el tablero se agrega a la ventana de menú principal y queda habilitado para utilizarse.
 
-#####  5. Eliminar Tableros
+####  5. Eliminar Tableros
 
 <div style={{textAlign: 'center'}}>
 
@@ -425,7 +425,7 @@ Para poder ver el tablero dentro del player debemos realizar esta acción primer
 
 Para poder eliminar un tablero debe primero marcar el tablero en el recuadro izquierdo donde se encuentra el listado, una vez marcado se debe pulsar el botón “eliminar”.
 
-#####  6. Editar Tableros
+#### 6. Editar Tableros
 
 <div style={{textAlign: 'center'}}>
 
@@ -438,7 +438,7 @@ Para poder editar los tableros ya realizados anteriormente, solo debemos pulsar 
 una vez seleccionado el tablero que deseamos editar, y ahí dependerá del tipo de
 tablero las distintas opciones que nos saldrán a editar dentro de los tableros.
 
-#####  7. Importar/Exportar Tableros
+####  7. Importar/Exportar Tableros
 
 La opción de importar y exportar hace que se abra una nueva ventana, en la cual hay dos pestañas: la de importar y la de exportar.
 
@@ -542,7 +542,7 @@ en el recuadro grande que está encima del tablero mostrará el pictograma selec
 #### C) Player del tablero de Rutina:
 El tablero de rutina se divide en dos partes, ya que este tiene la opción de tener tiempo o no tenerlo, por lo que vamos a explicar los dos players en la siguiente parte:
 
-#####   - Player sin tiempo:
+####   - Player sin tiempo:
 
 <div style={{textAlign: 'center'}}>
 
@@ -557,7 +557,7 @@ El tablero de rutina se divide en dos partes, ya que este tiene la opción de te
     la persona pueda decidir saltar esa tarea para realizar la siguiente y la idea del botón terminar la tarea hace referencia a
     que se realizó con éxito la acción que se debía realizar en el panel anterior
 
-#####   - Player con tiempo:
+####   - Player con tiempo:
 
 <div style={{textAlign: 'center'}}>
 
@@ -844,7 +844,7 @@ las configuraciones de pictogramas).
 
 ![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_comunicacion.png 'seleccionar player de comunicacion')
 
-![Screnshoot](./img/manual-integraboradv4/todo_lo_del_player_de_comunicacion.png 'acciones del player')
+![Screnshoot](./img/manual-integraboradv4/todo_lo_del_player_de_comunicacion.png 'acciones del player de comunicacion')
 
 
 </div>
@@ -870,9 +870,9 @@ las configuraciones de pictogramas).
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/todo_lo_del_player_de_comunicacion.png 'ir a la seccion de tableros')
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_emociones.png 'ir a la seccion de tableros')
 
-![Screnshoot](./img/manual-integraboradv4/acciones_para_player_de_emociones.png 'marcar el tablero y asignarlo')
+![Screnshoot](./img/manual-integraboradv4/acciones_para_player_de_emociones.png 'acciones del player de emociones')
 
 
 </div>
@@ -891,11 +891,11 @@ las configuraciones de pictogramas).
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_rutina_sin_tiempo.png 'ir a la seccion de tableros')
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_rutina_sin_tiempo.png 'ir al player de rutina sin tiempo')
 
-![Screnshoot](./img/manual-integraboradv4/acciones_player_rutina_sin_tiempo.png 'marcar el tablero y asignarlo')
+![Screnshoot](./img/manual-integraboradv4/acciones_player_rutina_sin_tiempo.png 'acciones del player del tablero de rutina')
 
-![Screnshoot](./img/manual-integraboradv4/termino_player_rutina_sin_timepo.png 'menu de los players')
+![Screnshoot](./img/manual-integraboradv4/termino_player_rutina_sin_timepo.png 'finalizacion del tablero de rutina sin tiempo')
 
 </div>
 
@@ -914,13 +914,13 @@ las configuraciones de pictogramas).
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_rutina_con_tiempo.png 'ir a la seccion de tableros')
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_rutina_con_tiempo.png 'ir al player de rutina con tiempo')
 
-![Screnshoot](./img/manual-integraboradv4/pulsar_boton_play.png 'marcar el tablero y asignarlo')
+![Screnshoot](./img/manual-integraboradv4/pulsar_boton_play.png 'presionar el boton para iniciar el player')
 
-![Screnshoot](./img/manual-integraboradv4/acciones_de_player_rutina_con_tiempo.png 'menu de los players')
+![Screnshoot](./img/manual-integraboradv4/acciones_de_player_rutina_con_tiempo.png 'realizacion de acciones dentro del player')
 
-![Screnshoot](./img/manual-integraboradv4/acciones_con_mensaje.png 'menu de los players')
+![Screnshoot](./img/manual-integraboradv4/acciones_con_mensaje.png 'acciones con el mensaje que finalice el tiempo')
 
 </div>
 
@@ -944,9 +944,9 @@ las configuraciones de pictogramas).
 
 <div style={{textAlign: 'center'}}>
 
-![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_sonido.png 'ir a la seccion de tableros')
+![Screnshoot](./img/manual-integraboradv4/seleccionar_player_de_sonido.png 'ir a la seccion de player del sonido')
 
-![Screnshoot](./img/manual-integraboradv4/acciones_player_de_sonido.png 'marcar el tablero y asignarlo')
+![Screnshoot](./img/manual-integraboradv4/acciones_player_de_sonido.png 'acciones dentro del tablero de sonido')
 
 </div>
 
