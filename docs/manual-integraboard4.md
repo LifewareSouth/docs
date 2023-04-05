@@ -197,9 +197,9 @@ Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre
 #### 4. Exportar e Importar
 
 
- Los pictogramas se pueden descargar desde [AQUÍ](https://s3.sa-east-1.amazonaws.com/updates.lifeware.cl/Recursos/pictogramasParaIntegraboard4.zip) o el siguiente enlace:
+ Los pictogramas se pueden descargar desde [AQUÍ](https://updates.lifeware.cl/Recursos/pictogramasParaIntegraboard4.zip) o el siguiente enlace:
  
-    <https://s3.sa-east-1.amazonaws.com/updates.lifeware.cl/Recursos/pictogramasParaIntegraboard4.zip>
+    <https://updates.lifeware.cl/Recursos/pictogramasParaIntegraboard4.zip>
 
     
 Al presionar el botón se abre una nueva ventana en la cual se puede seleccionar entre dos pestañas ya sea de importar o exportar,
