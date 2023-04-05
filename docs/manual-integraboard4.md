@@ -202,27 +202,20 @@ Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre
     <https://updates.lifeware.cl/Recursos/pictogramasParaIntegraboard4.zip>
 
     
-Al presionar el botón se abre una nueva ventana en la cual se puede seleccionar entre dos pestañas ya sea de importar o exportar,
-al momento de importar, debemos seguir los siguientes pasos:
+Exportar e importar pictogramas es un proceso tanto para extraer nuestros pictogramas creados en 
+la aplicación como para poder integrar pictogramas dentro de la misma aplicación.
+La importancia que tiene este elemento dentro de la aplicación es que tenemos la posibilidad de 
+respaldar cada uno de nuestros pictogramas, así como también la posibilidad de aumentar la cantidad de estos dentro de la aplicación.
 
+- Imagen del menú de importar:
 <div style={{textAlign: 'center'}}>
 
 ![Screnshoot](./img/manual-integraboradv4/Importar_pictograma.png 'importar pictograma')
 
 </div>
 
-    A)Debemos seleccionar la carpeta, donde aparecerá un buscador para poder 
-    seleccionar la carpeta que contiene los pictogramas.
 
-    B)Una vez seleccionada la carpeta se mostrarán los pictogramas dentro de la pestaña de Integraboard, 
-    se puede ocupar el botón de seleccionar todo y
-    marcará a todos los pictogramas para ser importados o se puede seleccionar marcando uno a uno 
-    en específico dentro de los pictogramas a seleccionar.
-
-    C)Para finalizar la importación se debe hacer clic en la opción “Importar seleccionados”, 
-    lo cual comienza el proceso de carga a los pictogramas.
-
-En el caso de querer exportar pictogramas se necesita realizar los siguientes pasos:
+Imagen del menú de exportar:
 
 <div style={{textAlign: 'center'}}>
 
@@ -230,11 +223,6 @@ En el caso de querer exportar pictogramas se necesita realizar los siguientes pa
 
 </div>
 
-    A)En la pestaña se puede ver a cada uno de los pictogramas listados en el lado izquierdo de nuestra pantalla por lo cual podemos
-    utilizar el botón que dice seleccionar todos donde se seleccionarán todos los pictogramas listados, o bien seleccionar los que se requieran simplemente marcando los pictogramas.
-
-    B)Luego de seleccionar los pictogramas que se requieran se presiona el botón de “exportar seleccionados”,
-    luego de eso comenzará el periodo donde se exportan cada uno de estos pictogramas.
 
 #### 5. Editar Pictogramas
 
