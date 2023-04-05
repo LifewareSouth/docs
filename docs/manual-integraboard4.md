@@ -211,12 +211,16 @@ al momento de importar, debemos seguir los siguientes pasos:
 
 </div>
 
-    A)Debemos seleccionar la carpeta, donde aparecerá un buscador para poder seleccionar la carpeta que contiene los pictogramas.
+    A)Debemos seleccionar la carpeta, donde aparecerá un buscador para poder 
+    seleccionar la carpeta que contiene los pictogramas.
 
-    B)Una vez seleccionada la carpeta se mostrarán los pictogramas dentro de la pestaña de Integraboard, se puede ocupar el botón de seleccionar todo y
-    marcará a todos los pictogramas para ser importados o se puede seleccionar marcando uno a uno en específico dentro de los pictogramas a seleccionar.
+    B)Una vez seleccionada la carpeta se mostrarán los pictogramas dentro de la pestaña de Integraboard, 
+    se puede ocupar el botón de seleccionar todo y
+    marcará a todos los pictogramas para ser importados o se puede seleccionar marcando uno a uno 
+    en específico dentro de los pictogramas a seleccionar.
 
-    C)Para finalizar la importación se debe hacer clic en la opción “Importar seleccionados”, lo cual comienza el proceso de carga a los pictogramas.
+    C)Para finalizar la importación se debe hacer clic en la opción “Importar seleccionados”, 
+    lo cual comienza el proceso de carga a los pictogramas.
 
 En el caso de querer exportar pictogramas se necesita realizar los siguientes pasos:
 
