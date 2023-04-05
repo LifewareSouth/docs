@@ -23,24 +23,24 @@ title: Manual de Usuario INTEGRABOARD Version 4.0®
             - [Voz](#5-voz)
     - [2.3 Pictogramas](#23-pictogramas)
         - [2.3.1 Funcionalidades de los pictogramas](#231--funcionalidades-de-los-pictogramas)
-            - [Menú de pictogramas](#1-menu-de-pictogramas)
+            - [Menú de pictogramas](#1-menú-de-pictogramas)
             - [Crear Pictogramas](#2-crear-pictogramas)
             - [Previsualizar](#3-previsualizar)
-            - [Exportar/importar](#4--exportar-/-importar)
+            - [Exportar e importar](#4-exportar-e-importar)
             - [Editar pictogramas](#5-editar-pictogramas)
             - [Eliminar pictogramas](#6-eliminar-pictogramas)
     - [2.4 Tableros](#24-tableros)
         - [2.4.1 Funcionalidades de los tableros](#241--funcionalidades-de-los-tableros)
-            - [Menú de Tableros](#1-menu-de-tableros)
+            - [Menú de Tableros](#1-menú-de-tableros)
             - [Crear Tableros](#2-crear-tableros)
                 - [Tablero de comunicación](#a-tablero-de-comunicacion)
                 - [Tablero de emociones](#b-tablero-de-emociones)
                 - [Tablero de rutinas](#c-tablero-de-rutinas)
                 - [Tablero de sonidos](#d-tablero-de-sonido)
             - [Previsualizar Tableros](#3-previsualizar-tableros)
-            - [Exportar/importar Tableros](#4-exportar-/-importar-tableros)
-            - [Editar Tableros](#5-editar-tableros)
-            - [Eliminar tableros](#6-eliminar-tableros)
+            - [Eliminar Tableros](#5-eliminar-tableros)
+            - [Editar Tableros](#6-editar-tableros)
+            - [Exportar e importar Tableros](#7-exportar-e-importar-tableros)
     - [2.5 Manual](#25-manual)
     - [2.6 Descarga de contenido](#26-descarga-de-contenido)    
 3. [Players](#3-players)
@@ -194,7 +194,7 @@ y otro en el cual podemos grabar sonido dentro de nuestro programa.
 Para realizar la previsualización debemos seleccionar un pictograma.
 Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre una nueva ventana donde se muestra el pictograma en un tamaño más grande.
 
-#### 4. Exportar/Importar
+#### 4. Exportar e Importar
 
 
 
@@ -438,7 +438,7 @@ Para poder editar los tableros ya realizados anteriormente, solo debemos pulsar 
 una vez seleccionado el tablero que deseamos editar, y ahí dependerá del tipo de
 tablero las distintas opciones que nos saldrán a editar dentro de los tableros.
 
-####  7. Importar/Exportar Tableros
+####  7. Exportar e Importar Tableros
 
 La opción de importar y exportar hace que se abra una nueva ventana, en la cual hay dos pestañas: la de importar y la de exportar.
 
