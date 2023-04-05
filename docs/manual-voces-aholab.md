@@ -38,7 +38,9 @@ Esta carpeta la descomprimiremos(dandole a la opcion extraer en) dentro del escr
 
 ![Screnshoot](./img/manual-voces-aholab/extraeren.PNG 'opcion extraer en')
 
-Para la instalacion de las voces ocuparemos el archivo que se llama: AhoSAPI32_Installer - Voz Infantil - NG.msi, donde deberiamos seguir las siguientes indicaciones para la instalación.
+Para la instalacion de las voces en la version de antigua integraboard ocuparemos el archivo que se llama: AhoSAPI32_Installer - Voz Infantil - NG.msi, donde deberiamos seguir las siguientes indicaciones para la instalación.
+
+En el caso de la nueva version de integraboard, se deberra instalar la version llamada: AhoSAPI64_Installer - Voz Infantil - NG.msi, y seguir las mismas indicaciones de instalación.
 
 ![Screnshoot](./img/manual-voces-aholab/instalador.PNG 'instalador de las voces')
 
@@ -48,7 +50,7 @@ Para iniciar la instalación le hacemos doble click en el instalador y se habrir
 
 ![Screnshoot](./img/manual-voces-aholab/ejecutardetodasformas.PNG 'ejecutar de todas formas')
 
-Ina vez ya seleccionada la opción ejecutar de todas formas queda realizar la instalación de AhoSapi32, seleccionaremos siguiente en el instalador:
+Una vez ya seleccionada la opción ejecutar de todas formas queda realizar la instalación de AhoSapi32, seleccionaremos siguiente en el instalador:
 
 ![Screnshoot](./img/manual-voces-aholab/apretarsiguiente.PNG 'ejecutar de todas formas')
 

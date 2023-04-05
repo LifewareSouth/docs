@@ -210,7 +210,7 @@ al momento de importar, debemos seguir los siguientes pasos:
     A)Debemos seleccionar la carpeta, donde aparecerá un buscador para poder seleccionar la carpeta que contiene los pictogramas.
 
     B)Una vez seleccionada la carpeta se mostrarán los pictogramas dentro de la pestaña de Integraboard, se puede ocupar el botón de seleccionar todo y
-      marcará a todos los pictogramas para ser importados o se puede seleccionar marcando uno a uno en específico dentro de los pictogramas a seleccionar.
+    marcará a todos los pictogramas para ser importados o se puede seleccionar marcando uno a uno en específico dentro de los pictogramas a seleccionar.
 
     C)Para finalizar la importación se debe hacer clic en la opción “Importar seleccionados”, lo cual comienza el proceso de carga a los pictogramas.
 
@@ -223,10 +223,10 @@ En el caso de querer exportar pictogramas se necesita realizar los siguientes pa
 </div>
 
     A)En la pestaña se puede ver a cada uno de los pictogramas listados en el lado izquierdo de nuestra pantalla por lo cual podemos
-      utilizar el botón que dice seleccionar todos donde se seleccionarán todos los pictogramas listados, o bien seleccionar los que se requieran simplemente marcando los pictogramas.
+    utilizar el botón que dice seleccionar todos donde se seleccionarán todos los pictogramas listados, o bien seleccionar los que se requieran simplemente marcando los pictogramas.
 
     B)Luego de seleccionar los pictogramas que se requieran se presiona el botón de “exportar seleccionados”,
-      luego de eso comenzará el periodo donde se exportan cada uno de estos pictogramas.
+    luego de eso comenzará el periodo donde se exportan cada uno de estos pictogramas.
 
 #### 5. Editar Pictogramas
 
@@ -299,7 +299,7 @@ Observaciones para el uso de tableros de comunicación:
     - En el recuadro izquierdo se pueden ubicar los pictogramas en cada uno de los casilleros mostrados en pantalla.
 
     - En el costado derecho se pueden ver las distintas opciones que nos sirven para editar el tablero, ya sea la cantidad de filas y columnas de pictogramas,
-      nombre del tablero, además de una imagen de portada, y etiquetas.
+    nombre del tablero, además de una imagen de portada, y etiquetas.
 
     - Para finalizar se debe apretar el botón de guardar para que quede dentro de los tableros creados.
 
@@ -321,7 +321,7 @@ Observaciones para el uso de tableros de comunicación:
     -   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales se pueden ocupar pictogramas creados dentro de los casilleros en el recuadro izquierdo.
 
     -   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, es decir, se le puede asignar un nombre,
-        filas y columnas que contendrán los pictogramas, etiquetas y asignarle un pictograma como portada de tablero.
+    filas y columnas que contendrán los pictogramas, etiquetas y asignarle un pictograma como portada de tablero.
 
     -   Se finaliza la creación del tablero de la misma forma que el mencionado anteriormente.
 
@@ -339,9 +339,9 @@ Observación para el uso del tablero de rutinas:
     Estos después de estas dos opciones se dividen en dos tipos, en tableros de rutina sin tiempo y tableros de rutina con tiempo
 
     - En el costado derecho tenemos las distintas opciones, entre estas opciones esta la de darle un nombre,
-      darle la cantidad de columnas que se requieren dentro del tablero, poner etiquetas al tablero,
-      y la opción de darle tiempo o no a las tareas.
-      En caso de querer que el tablero sea con tiempo se debe marcar esta opción en la cual debajo de los pictogramas saldrán dos recuadros.
+    darle la cantidad de columnas que se requieren dentro del tablero, poner etiquetas al tablero,
+    y la opción de darle tiempo o no a las tareas.
+    En caso de querer que el tablero sea con tiempo se debe marcar esta opción en la cual debajo de los pictogramas saldrán dos recuadros.
    
     Caso A) Al no pinchar la opción "Tablero de rutina con tiempo":
 
@@ -365,7 +365,7 @@ Observación para el uso del tablero de rutinas:
     - En este caso debemos colocar los pictogramas en las columnas que se requieran.
 
     - Luego de eso, se deberá ir pictograma por pictograma colocando el tiempo que se necesita, para realizar este paso,
-      se debe hacer clic en cada pictograma y debajo de este habrán recuadros donde se deben escribir el tiempo, ya sea en minutos y/o en segundos.
+    se debe hacer clic en cada pictograma y debajo de este habrán recuadros donde se deben escribir el tiempo, ya sea en minutos y/o en segundos.
 
     - Para guardar el tablero simplemente se debe asignar una portada y luego  seleccionar el botón guardar.
 
@@ -388,7 +388,7 @@ Observación para el uso del tablero de sonido:
     - En el recuadro izquierdo se tienen los distintos casilleros donde se pueden ubicar los pictogramas.
 
     - En el costado derecho están las opciones y tiene las mismas opciones que los tableros anteriormente mencionados
-      nombre, filas, columnas, etiquetas y la portada para identificar el tablero.
+    nombre, filas, columnas, etiquetas y la portada para identificar el tablero.
 
     - Para guardar el tablero simplemente se debe asignar una portada y luego  seleccionar el botón guardar.
 
