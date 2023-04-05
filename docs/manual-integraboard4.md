@@ -26,7 +26,7 @@ title: Manual de Usuario INTEGRABOARD Version 4.0®
             - [Menú de pictogramas](#1-menu-de-pictogramas)
             - [Crear Pictogramas](#2-crear-pictogramas)
             - [Previsualizar](#3-previsualizar)
-            - [Exportar/importar](#4-exportar-/-importar)
+            - [Exportar/importar](#4--exportar-/-importar)
             - [Editar pictogramas](#5-editar-pictogramas)
             - [Eliminar pictogramas](#6-eliminar-pictogramas)
     - [2.4 Tableros](#24-tableros)
