@@ -733,6 +733,29 @@ comunicación o de enseñanza.
    Paso 5: Al realizar los cambios, estos se aplicarán a 
    todos los tableros que contienen este pictograma.
 
+- Exportar Pictograma:
+
+<div style={{textAlign: 'center'}}>
+
+![Screnshoot](./img/manual-integraboradv4/ir_a_la_seccion_pictograma.png 'ir a la seccion de pictogramas')
+
+![Screnshoot](./img/manual-integraboradv4/seleccionar_importar_exportar.png 'Seleccionar importar')
+
+![Screnshoot](./img/manual-integraboradv4/exportar_seleccionados.png 'Exportar seleccionados')
+
+</div>
+
+   Paso 1: Ir a la sección Pictograma.
+   
+   Paso 2: Seleccionar el boton que dice "Importar/Exportar"
+   
+   Paso 3: debemos hacer clic en el apartado de "Exportar".
+   
+   Paso 4: Seleccionamos uno por uno los pictogramas que queremos exportar o 
+   presionamos seleccionar todos.
+
+   Paso 5: Seleccionamos el boton "Exportar Seleccionados".
+
 ### 4.3. Crear Tablero
 
 <div style={{textAlign: 'center'}}>
