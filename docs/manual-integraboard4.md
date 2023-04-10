@@ -333,15 +333,15 @@ En caso contrario, el programa mostrará una alerta diciendo que debe asignar un
 El propósito de este tablero es poder representar las emociones del usuario a través de los distintos pictogramas que existen.
 Observaciones para el uso de tableros de comunicación:
 
-    -   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales 
+-   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales 
     se pueden ocupar pictogramas creados dentro de los casilleros en el recuadro izquierdo.
 
-    -   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, 
+-   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, 
     es decir, se le puede asignar un nombre,
     filas y columnas que contendrán los pictogramas, etiquetas y 
     asignarle un pictograma como portada de tablero.
 
-    -   Se finaliza la creación del tablero de la misma 
+-   Se finaliza la creación del tablero de la misma 
     forma que el mencionado anteriormente.
 
 #### C) Tablero de rutinas
