@@ -174,12 +174,15 @@ Estos filtros pueden ser por nombre o por categoría, luego están las acciones 
 
 </div>
 
-Al presionar la opción de crear pictogramas nos direccionará a una nueva ventana, donde se entregarán algunos datos a rellenar dentro de estos datos están:
-nombre del pictograma, un texto que estará dentro del pictograma, etiquetas y categoría, además de esto tenemos que seleccionar o tomar una imagen para el pictograma.
+Al presionar la opción de crear pictogramas nos direccionará a una nueva ventana, 
+donde se entregarán algunos datos a rellenar dentro de estos datos están:
+nombre del pictograma, un texto que estará dentro del pictograma, etiquetas y categoría, 
+además de esto tenemos que seleccionar o tomar una imagen para el pictograma.
 De manera opcional se puede agregar sonido a un pictograma mediante el botón “agregar sonido”.
 Opción de agregar sonido al pictograma:
 En esta opción tenemos la posibilidad de integrar un sonido que ya esté cargado en nuestro Integraboard,
-en caso de no tener ningún sonido cargado en nuestro programa tendremos dos opciones más las cuales uno nos permitirá buscar sonidos dentro de nuestro dispositivo
+en caso de no tener ningún sonido cargado en nuestro programa tendremos dos 
+opciones más las cuales uno nos permitirá buscar sonidos dentro de nuestro dispositivo
 y otro en el cual podemos grabar sonido dentro de nuestro programa.
 
 #### 3. Previsualizar
@@ -192,7 +195,8 @@ y otro en el cual podemos grabar sonido dentro de nuestro programa.
 
 
 Para realizar la previsualización debemos seleccionar un pictograma.
-Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre una nueva ventana donde se muestra el pictograma en un tamaño más grande.
+Una vez seleccionado uno de estos, presionamos el botón previsualizar y 
+se abre una nueva ventana donde se muestra el pictograma en un tamaño más grande.
 
 #### 4. Exportar e Importar
 
@@ -205,7 +209,8 @@ Una vez seleccionado uno de estos, presionamos el botón previsualizar y se abre
 Exportar e importar pictogramas es un proceso tanto para extraer nuestros pictogramas creados en 
 la aplicación como para poder integrar pictogramas dentro de la misma aplicación.
 La importancia que tiene este elemento dentro de la aplicación es que tenemos la posibilidad de 
-respaldar cada uno de nuestros pictogramas, así como también la posibilidad de aumentar la cantidad de estos dentro de la aplicación.
+respaldar cada uno de nuestros pictogramas, así como también la posibilidad 
+de aumentar la cantidad de estos dentro de la aplicación.
 
 - Imagen del menú de importar:
 <div style={{textAlign: 'center'}}>
@@ -235,7 +240,8 @@ Imagen del menú de exportar:
 
 
 La opción editar pictogramas hace referencia a que se pueden reemplazar todos los datos de un pictograma creado anteriormente.
-Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
+Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada 
+uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
 
 
 #### 6. Eliminar pictogramas
@@ -264,7 +270,8 @@ Al pulsar esta opción se borrará del listado de pictogramas.
 </div>
 
 El menú de los tableros contiene filtros para buscar por categoría de tableros o por nombre.
-Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, y al costado derecho de esto están las acciones que se pueden realizar.
+Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, 
+y al costado derecho de esto están las acciones que se pueden realizar.
 
 
 ####  2. Crear Tableros
@@ -276,7 +283,8 @@ Debajo de los filtros se encuentra el listado de tableros existentes en Integrab
 </div>
 
 
-Para crear el tablero se debe seleccionar el botón “crear tablero”, el cual despliega una lista de tipos de tableros posibles a crear,
+Para crear el tablero se debe seleccionar el botón “crear tablero”, 
+el cual despliega una lista de tipos de tableros posibles a crear,
 dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
 
 
@@ -292,14 +300,19 @@ dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
 Este tablero tiene como uso exclusivo poder formar oraciones para que el usuario pueda comunicarse con las demás personas.
 
 Observaciones para el uso de tableros de comunicación:
-    - En el recuadro izquierdo se pueden ubicar los pictogramas en cada uno de los casilleros mostrados en pantalla.
 
-    - En el costado derecho se pueden ver las distintas opciones que nos sirven para editar el tablero, ya sea la cantidad de filas y columnas de pictogramas,
+    - En el recuadro izquierdo se pueden ubicar los pictogramas en cada 
+    uno de los casilleros mostrados en pantalla.
+
+    - En el costado derecho se pueden ver las distintas opciones que nos sirven para editar el tablero, 
+    ya sea la cantidad de filas y columnas de pictogramas,
     nombre del tablero, además de una imagen de portada, y etiquetas.
 
-    - Para finalizar se debe apretar el botón de guardar para que quede dentro de los tableros creados.
+    - Para finalizar se debe apretar el botón de guardar para 
+    que quede dentro de los tableros creados.
 
-Observación: Es obligación asignar una portada al tablero para que pueda ser guardado. En caso contrario, el programa mostrará una alerta diciendo que debe asignar una portada.
+Observación: Es obligación asignar una portada al tablero para que pueda ser guardado. 
+En caso contrario, el programa mostrará una alerta diciendo que debe asignar una portada.
 
 
 ####  B) Tablero de Emociones
@@ -314,12 +327,16 @@ Observación: Es obligación asignar una portada al tablero para que pueda ser g
 El propósito de este tablero es poder representar las emociones del usuario a través de los distintos pictogramas que existen.
 Observaciones para el uso de tableros de comunicación:
 
-    -   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales se pueden ocupar pictogramas creados dentro de los casilleros en el recuadro izquierdo.
+    -   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales 
+    se pueden ocupar pictogramas creados dentro de los casilleros en el recuadro izquierdo.
 
-    -   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, es decir, se le puede asignar un nombre,
-    filas y columnas que contendrán los pictogramas, etiquetas y asignarle un pictograma como portada de tablero.
+    -   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, 
+    es decir, se le puede asignar un nombre,
+    filas y columnas que contendrán los pictogramas, etiquetas y 
+    asignarle un pictograma como portada de tablero.
 
-    -   Se finaliza la creación del tablero de la misma forma que el mencionado anteriormente.
+    -   Se finaliza la creación del tablero de la misma 
+    forma que el mencionado anteriormente.
 
 #### C) Tablero de rutinas
 
@@ -328,16 +345,20 @@ El tablero de rutinas hace referencia a una serie de tareas representadas por pi
 
 Observación para el uso del tablero de rutinas:
 
-    - Este tablero consta con un máximo de 7 columnas, también denominadas como “7 tareas” por rutina.
+    - Este tablero consta con un máximo de 7 columnas, 
+    también denominadas como “7 tareas” por rutina.
 
     - En el recuadro izquierdo se puede observar los casilleros en donde se ubicarán los pictogramas.
 
-    Estos después de estas dos opciones se dividen en dos tipos, en tableros de rutina sin tiempo y tableros de rutina con tiempo
+    Estos después de estas dos opciones se dividen en dos tipos, 
+    en tableros de rutina sin tiempo y tableros de rutina con tiempo
 
     - En el costado derecho tenemos las distintas opciones, entre estas opciones esta la de darle un nombre,
     darle la cantidad de columnas que se requieren dentro del tablero, poner etiquetas al tablero,
     y la opción de darle tiempo o no a las tareas.
-    En caso de querer que el tablero sea con tiempo se debe marcar esta opción en la cual debajo de los pictogramas saldrán dos recuadros.
+
+    En caso de querer que el tablero sea con tiempo se debe 
+    marcar esta opción en la cual debajo de los pictogramas saldrán dos recuadros.
    
     Caso A) Al no pinchar la opción "Tablero de rutina con tiempo":
 
@@ -361,7 +382,8 @@ Observación para el uso del tablero de rutinas:
     - En este caso debemos colocar los pictogramas en las columnas que se requieran.
 
     - Luego de eso, se deberá ir pictograma por pictograma colocando el tiempo que se necesita, para realizar este paso,
-    se debe hacer clic en cada pictograma y debajo de este habrán recuadros donde se deben escribir el tiempo, ya sea en minutos y/o en segundos.
+    se debe hacer clic en cada pictograma y debajo de este habrán recuadros donde se deben 
+    escribir el tiempo, ya sea en minutos y/o en segundos.
 
     - Para guardar el tablero simplemente se debe asignar una portada y luego  seleccionar el botón guardar.
 
@@ -381,12 +403,15 @@ Observación para el uso del tablero de sonido:
 
     - Este tablero tiene un máximo de 7 columnas y 7 filas.
 
-    - En el recuadro izquierdo se tienen los distintos casilleros donde se pueden ubicar los pictogramas.
+    - En el recuadro izquierdo se tienen los distintos casilleros 
+    donde se pueden ubicar los pictogramas.
 
-    - En el costado derecho están las opciones y tiene las mismas opciones que los tableros anteriormente mencionados
+    - En el costado derecho están las opciones y tiene las mismas opciones 
+    que los tableros anteriormente mencionados
     nombre, filas, columnas, etiquetas y la portada para identificar el tablero.
 
-    - Para guardar el tablero simplemente se debe asignar una portada y luego  seleccionar el botón guardar.
+    - Para guardar el tablero simplemente se debe asignar una portada y 
+    luego  seleccionar el botón guardar.
 
 ####  3. Previsualizar Tableros
 
@@ -408,7 +433,8 @@ La opción de previsualización muestra cómo se vería el tablero dentro del pl
 </div>
 
 
-Para poder ver el tablero dentro del player debemos realizar esta acción primero, ya que al asignar el tablero se agrega a la ventana de menú principal y queda habilitado para utilizarse.
+Para poder ver el tablero dentro del player debemos realizar esta acción primero, 
+ya que al asignar el tablero se agrega a la ventana de menú principal y queda habilitado para utilizarse.
 
 ####  5. Eliminar Tableros
 
@@ -419,7 +445,8 @@ Para poder ver el tablero dentro del player debemos realizar esta acción primer
 </div>
 
 
-Para poder eliminar un tablero debe primero marcar el tablero en el recuadro izquierdo donde se encuentra el listado, una vez marcado se debe pulsar el botón “eliminar”.
+Para poder eliminar un tablero debe primero marcar el tablero en el recuadro 
+izquierdo donde se encuentra el listado, una vez marcado se debe pulsar el botón “eliminar”.
 
 #### 6. Editar Tableros
 
@@ -430,7 +457,8 @@ Para poder eliminar un tablero debe primero marcar el tablero en el recuadro izq
 </div>
 
 
-Para poder editar los tableros ya realizados anteriormente, solo debemos pulsar dentro del menú de tableros la opción editar tableros,
+Para poder editar los tableros ya realizados anteriormente, solo debemos 
+pulsar dentro del menú de tableros la opción editar tableros,
 una vez seleccionado el tablero que deseamos editar, y ahí dependerá del tipo de
 tablero las distintas opciones que nos saldrán a editar dentro de los tableros.
 
@@ -448,9 +476,11 @@ Para realizar la importación se deben seguir las siguientes instrucciones:
 
 
 - Una vez dentro de la opción de importar, se deberá seleccionar la opción seleccionar carpeta,
-que abrirá un buscador donde se deberá ubicar la carpeta en donde se encuentran alojados los tableros que se desean importar.
+que abrirá un buscador donde se deberá ubicar la carpeta en 
+donde se encuentran alojados los tableros que se desean importar.
 
-- Una vez seleccionada la carpeta  se mostrarán los tableros de dentro de la carpeta para poder seleccionarlos.
+- Una vez seleccionada la carpeta  se mostrarán los tableros de 
+dentro de la carpeta para poder seleccionarlos.
 Se pueden seleccionar individualmente u ocupando la opción de seleccionar todo.
 
 - Para completar la importación debemos seleccionar la opción de importar seleccionados,
@@ -466,12 +496,16 @@ Para realizar la exportación se debe seguir los siguientes pasos:
 </div>
 
 
-- Para iniciar el proceso de exportación debemos seleccionar la pestaña de exportar que está al lado de la opción de importar.
+- Para iniciar el proceso de exportación debemos seleccionar 
+la pestaña de exportar que está al lado de la opción de importar.
 
-- Una vez dentro de la opción de exportación, podremos ver en el recuadro izquierdo el listado de los tableros creados en nuestra aplicación,
-y se puede seleccionar los tableros uno a uno o se puede elegir la opción marcar todos los tableros.
+- Una vez dentro de la opción de exportación, podremos ver en el 
+recuadro izquierdo el listado de los tableros creados en nuestra aplicación,
+y se puede seleccionar los tableros uno a uno o se puede elegir 
+la opción marcar todos los tableros.
 
-- Para finalizar el proceso de exportación de tableros debemos presionar la opción exportar seleccionados y
+- Para finalizar el proceso de exportación de tableros debemos 
+presionar la opción exportar seleccionados y
 se comenzará a realizar el proceso de exportación.
 
 ### 2.5 Manual
@@ -482,7 +516,8 @@ se comenzará a realizar el proceso de exportación.
 
 </div>
 
-El botón "Manual" redireccionará al manual de usuario de IntegraBoard, donde podrá aprender a ocupar y entender todas las acciones disponibles a realizar dentro del programa.
+El botón "Manual" redireccionará al manual de usuario de IntegraBoard, 
+donde podrá aprender a ocupar y entender todas las acciones disponibles a realizar dentro del programa.
 
 ### 2.6 Descarga de contenido
 
@@ -492,18 +527,24 @@ El botón "Manual" redireccionará al manual de usuario de IntegraBoard, donde p
 
 </div>
 
-Este botón dentro del menú corresponde a que puede haber cambios dentro de los pictogramas que tienen por defecto en el propio Integraboard,
-por lo que si presiona este botón en el momento en el que haya nuevo contenido dentro de esta aplicación este se descargará dentro de la aplicación.
+Este botón dentro del menú corresponde a que puede haber cambios dentro de los 
+pictogramas que tienen por defecto en el propio Integraboard,
+por lo que si presiona este botón en el momento en el que haya nuevo contenido 
+dentro de esta aplicación este se descargará dentro de la aplicación.
 
 ## 3 Players
 
 ### 3.1.1 Funcionamiento de los players
 
-Para poder ocupar cada uno de los tableros y poder escucharlos o realizar las actividades que tienen dentro de estos es necesario volver a la pantalla principal de la aplicación,
-ahí estará cada uno de los tableros asignados desde el menú de tableros. Estarán representados con el pictograma que fue seleccionado como portada,
-y al presionar el tablero se abre el player y ahí va a depender de qué tipo de tablero es al cual se ingresó la forma en que se utilice.
+Para poder ocupar cada uno de los tableros y poder escucharlos o realizar las 
+actividades que tienen dentro de estos es necesario volver a la pantalla principal de la aplicación,
+ahí estará cada uno de los tableros asignados desde el menú de tableros.
+ Estarán representados con el pictograma que fue seleccionado como portada,
+y al presionar el tablero se abre el player y ahí va a depender de qué 
+tipo de tablero es al cual se ingresó la forma en que se utilice.
 
-Los Players se separan entre los distintos tipos de tableros, ahora ahondaremos un poco en cómo funcionan cada uno de estos players y mostraremos cómo utilizarlos a diario.
+Los Players se separan entre los distintos tipos de tableros, ahora 
+ahondaremos un poco en cómo funcionan cada uno de estos players y mostraremos cómo utilizarlos a diario.
 
 #### A) Player del tablero de comunicación:
 El player del tablero de comunicaciones se puede mostrar de la siguiente manera:
@@ -515,10 +556,13 @@ El player del tablero de comunicaciones se puede mostrar de la siguiente manera:
 </div>
 
 Se puede ver el tablero creado en el sector inferior,
-arriba de este habrá una franja en la cual se ubicaran los pictogramas una vez que esté sea seleccionado presionando del tablero.
-Una vez que este esté lleno de pictogramas se puede ocupar la opción de escuchar para escuchar cada uno de los pictogramas que formaran una oración,
+arriba de este habrá una franja en la cual se ubicaran los pictogramas una vez 
+que esté sea seleccionado presionando del tablero.
+Una vez que este esté lleno de pictogramas se puede ocupar la opción de escuchar 
+para escuchar cada uno de los pictogramas que formaran una oración,
 ó una vez escuchada la lista de pictogramas se puede limpiar con la opción siguiente.
-También hay un botón llamado sintetizar pictogramas que muestra el tablero un poco más grande en el cual la persona puede presionar los pictogramas y
+También hay un botón llamado sintetizar pictogramas que muestra el tablero un poco 
+más grande en el cual la persona puede presionar los pictogramas y
 el programa comenzará a realizar la lectura de estos a través de la voz seleccionada en el perfil.
 
 #### B) Player del tablero de emociones:
@@ -530,13 +574,16 @@ El Player de emociones se representa de la siguiente manera:
 
 </div>
 
-Este player nos muestra cada uno de los pictogramas que conforma nuestro tablero en el centro inferior de la pantalla,
+Este player nos muestra cada uno de los pictogramas que conforma nuestro 
+tablero en el centro inferior de la pantalla,
 la idea de este tablero es que la persona que lo ocupe pueda presionar y
-en el recuadro grande que está encima del tablero mostrará el pictograma seleccionado en un formato más grande.
+en el recuadro grande que está encima del tablero mostrará el pictograma 
+seleccionado en un formato más grande.
 
 
 #### C) Player del tablero de Rutina:
-El tablero de rutina se divide en dos partes, ya que este tiene la opción de tener tiempo o no tenerlo, por lo que vamos a explicar los dos players en la siguiente parte:
+El tablero de rutina se divide en dos partes, ya que este tiene la opción de 
+tener tiempo o no tenerlo, por lo que vamos a explicar los dos players en la siguiente parte:
 
 ####   - Player sin tiempo:
 
@@ -546,11 +593,16 @@ El tablero de rutina se divide en dos partes, ya que este tiene la opción de te
 
 </div>
 
-    Se puede ver en el player que está en fila cada uno de los pictogramas que forman este tablero de rutina,
-    la idea de este tablero sin tiempo es para que la persona que ocupe esta aplicación pueda realizar cada una de las actividades de manera tranquila,
-    también en la parte inferior de la pantalla hay dos botones, uno que es de saltar la tarea y otro que es de terminar la tarea,
-    el caso del botón para saltar la tarea es que sea una acción que no sea completamente necesaria dentro del tablero y
-    la persona pueda decidir saltar esa tarea para realizar la siguiente y la idea del botón terminar la tarea hace referencia a
+    Se puede ver en el player que está en fila cada uno de los pictogramas 
+    que forman este tablero de rutina,
+    la idea de este tablero sin tiempo es para que la persona que 
+    ocupe esta aplicación pueda realizar cada una de las actividades de manera tranquila,
+    también en la parte inferior de la pantalla hay dos botones, 
+    uno que es de saltar la tarea y otro que es de terminar la tarea,
+    el caso del botón para saltar la tarea es que sea una acción 
+    que no sea completamente necesaria dentro del tablero y
+    la persona pueda decidir saltar esa tarea para realizar la 
+    siguiente y la idea del botón terminar la tarea hace referencia a
     que se realizó con éxito la acción que se debía realizar en el panel anterior
 
 ####   - Player con tiempo:
@@ -561,18 +613,31 @@ El tablero de rutina se divide en dos partes, ya que este tiene la opción de te
 
 </div>
 
-    En este player podemos ver que el tablero de rutina presenta un logo de play en el centro de la pantalla,
-    debajo de este están los pictogramas y en la zona inferior están 3 botones que tienen una acción en particular.
+    En este player podemos ver que el tablero de rutina presenta un 
+    logo de play en el centro de la pantalla,
+    debajo de este están los pictogramas y en la zona inferior están 
+    3 botones que tienen una acción en particular.
 
-    Para comenzar a utilizar este player lo que debemos hacer es presionar el botón play que está en el centro de la pantalla,
-    ahí comenzará el tiempo atras para realizar las actividades, una vez que se acaba el tiempo sale un mensaje de advertencia de que se acabó
-    el tiempo en este caso se le dan dos opciones a la persona, puede agregarle más tiempo o puede saltar a la siguiente tarea,
-    en caso de agregar más tiempo se agregaran 20 segundos más, en caso de no necesitar más tiempo se puede saltar a la siguiente tarea.
+    Para comenzar a utilizar este player lo que debemos hacer es presionar 
+    el botón play que está en el centro de la pantalla,
+    ahí comenzará el tiempo atras para realizar las actividades, una vez que
+     se acaba el tiempo sale un mensaje de advertencia de que se acabó
+    el tiempo en este caso se le dan dos opciones a la persona, puede 
+    agregarle más tiempo o puede saltar a la siguiente tarea,
+    en caso de agregar más tiempo se agregaran 20 segundos más, en caso 
+    de no necesitar más tiempo se puede saltar a la siguiente tarea.
 
     Los tres botones que están presente en la zona inferior de la pantalla sirven para:
-    - Saltar la tarea, es decir que si se ven que una tarea no es necesaria del todo se puede pasar a la siguiente acción para que el alumno la realice.
-    - Terminar la tarea, sirve para poder marcar la tarea como realizada con éxito y pasa a la siguiente tarea
-    - El botón agregar tiempo aumenta 20 segundos en el marcador de tiempo ya existente.
+
+    - Saltar la tarea, es decir que si se ven que una tarea no es 
+    necesaria del todo se puede pasar a la siguiente acción para que 
+    el alumno la realice.
+
+    - Terminar la tarea, sirve para poder marcar la tarea como 
+    realizada con éxito y pasa a la siguiente tarea
+
+    - El botón agregar tiempo aumenta 20 segundos en 
+    el marcador de tiempo ya existente.
 
 
 #### D) Player del tablero de Sonido:
@@ -584,8 +649,10 @@ El tablero se representa de la siguiente manera:
 
 </div>
 
-El player de este tablero es un poco más simple que el de los otros casos, ya que en este se nos presenta solamente el tablero creado anteriormente,
-por lo que para que estos puedan realizar el sonido que tiene integrado el pictograma se debe solamente tocar el pictograma.
+El player de este tablero es un poco más simple que el de los otros casos, 
+ya que en este se nos presenta solamente el tablero creado anteriormente,
+por lo que para que estos puedan realizar el sonido que tiene integrado 
+el pictograma se debe solamente tocar el pictograma.
 
 ## 4. Casos de uso cotidiano
 
@@ -618,7 +685,8 @@ comunicación o de enseñanza.
 
    Paso 1: Ir a la sección Pictogramas.
 
-   Paso 2: Importar Carpeta (en caso de querer agregar pictogramas masivamente), seleccionar la carpeta en el buscador:
+   Paso 2: Importar Carpeta (en caso de querer agregar pictogramas masivamente),
+    seleccionar la carpeta en el buscador:
    
    Paso 3: seleccionar los pictogramas
    
