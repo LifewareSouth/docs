@@ -627,8 +627,8 @@ debajo de este están los pictogramas y en la zona inferior están
 
 Para comenzar a utilizar este player lo que debemos hacer es presionar 
 el botón play que está en el centro de la pantalla,
-ahí comenzará el tiempo atras para realizar las actividades, una vez que
- se acaba el tiempo sale un mensaje de advertencia de que se acabó
+ahí comenzará el tiempo atras para realizar las actividades, una vez que 
+se acaba el tiempo sale un mensaje de advertencia de que se acabó
 el tiempo en este caso se le dan dos opciones a la persona, puede 
 agregarle más tiempo o puede saltar a la siguiente tarea,
 en caso de agregar más tiempo se agregaran 20 segundos más, en caso 
