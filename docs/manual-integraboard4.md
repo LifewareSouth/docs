@@ -61,14 +61,14 @@ title: Manual de Usuario INTEGRABOARD Version 4.0®
 
 ### 1.1.1. ​ Software:
 
-      - Windows 10.
-      - .NET Framework 4.5.2.
+    - Windows 10.
+    - .NET Framework 4.5.2.
 
 ### 1.1.2. ​ Hardware:
 
-      - Procesador 2.4 GHz o superior.
-      - 2 GB de memoria RAM o superior.
-      - 50 MB de espacio disponible en disco duro.
+    - Procesador 2.4 GHz o superior.
+    - 2 GB de memoria RAM o superior.
+    - 50 MB de espacio disponible en disco duro.
 
 ### 1.2. Instalación del software
 
