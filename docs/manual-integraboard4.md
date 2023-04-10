@@ -239,7 +239,8 @@ Imagen del menú de exportar:
 </div>
 
 
-La opción editar pictogramas hace referencia a que se pueden reemplazar todos los datos de un pictograma creado anteriormente.
+La opción editar pictogramas hace referencia a que se pueden reemplazar todos 
+los datos de un pictograma creado anteriormente.
 Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada 
 uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
 
@@ -297,18 +298,23 @@ dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
 </div>
 
 
-Este tablero tiene como uso exclusivo poder formar oraciones para que el usuario pueda comunicarse con las demás personas.
+Este tablero tiene como uso exclusivo poder formar oraciones para que el 
+usuario pueda comunicarse con las demás personas.
 
 Observaciones para el uso de tableros de comunicación:
 
-    - En el recuadro izquierdo se pueden ubicar los pictogramas en cada 
+    - En el recuadro izquierdo se pueden ubicar 
+    los pictogramas en cada 
     uno de los casilleros mostrados en pantalla.
 
-    - En el costado derecho se pueden ver las distintas opciones que nos sirven para editar el tablero, 
+    - En el costado derecho se pueden ver las 
+    distintas opciones que nos
+     sirven para editar el tablero, 
     ya sea la cantidad de filas y columnas de pictogramas,
     nombre del tablero, además de una imagen de portada, y etiquetas.
 
-    - Para finalizar se debe apretar el botón de guardar para 
+    - Para finalizar se debe apretar el
+     botón de guardar para 
     que quede dentro de los tableros creados.
 
 Observación: Es obligación asignar una portada al tablero para que pueda ser guardado. 
