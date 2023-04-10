@@ -636,14 +636,14 @@ de no necesitar más tiempo se puede saltar a la siguiente tarea.
 
 Los tres botones que están presente en la zona inferior de la pantalla sirven para:
 
-- Saltar la tarea, es decir que si se ven que una tarea no es 
+* Saltar la tarea, es decir que si se ven que una tarea no es 
 necesaria del todo se puede pasar a la siguiente acción para que 
 el alumno la realice.
 
-- Terminar la tarea, sirve para poder marcar la tarea como 
+* Terminar la tarea, sirve para poder marcar la tarea como 
 realizada con éxito y pasa a la siguiente tarea
 
-- El botón agregar tiempo aumenta 20 segundos en 
+* El botón agregar tiempo aumenta 20 segundos en 
 el marcador de tiempo ya existente.
 
 
