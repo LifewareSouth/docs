@@ -61,14 +61,14 @@ title: Manual de Usuario INTEGRABOARD Version 4.0®
 
 ### 1.1.1. ​ Software:
 
-    - Windows 10.
-    - .NET Framework 4.5.2.
+- Windows 10.
+- .NET Framework 4.5.2.
 
 ### 1.1.2. ​ Hardware:
 
-    - Procesador 2.4 GHz o superior.
-    - 2 GB de memoria RAM o superior.
-    - 50 MB de espacio disponible en disco duro.
+- Procesador 2.4 GHz o superior.
+- 2 GB de memoria RAM o superior.
+- 50 MB de espacio disponible en disco duro.
 
 ### 1.2. Instalación del software
 
@@ -303,17 +303,17 @@ usuario pueda comunicarse con las demás personas.
 
 Observaciones para el uso de tableros de comunicación:
 
-    - En el recuadro izquierdo se pueden ubicar 
+- En el recuadro izquierdo se pueden ubicar 
     los pictogramas en cada 
     uno de los casilleros mostrados en pantalla.
 
-    - En el costado derecho se pueden ver las 
+- En el costado derecho se pueden ver las 
     distintas opciones que nos
      sirven para editar el tablero, 
     ya sea la cantidad de filas y columnas de pictogramas,
     nombre del tablero, además de una imagen de portada, y etiquetas.
 
-    - Para finalizar se debe apretar el
+- Para finalizar se debe apretar el
      botón de guardar para 
     que quede dentro de los tableros creados.
 
