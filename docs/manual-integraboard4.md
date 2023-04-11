@@ -59,7 +59,6 @@ Dentro del nuevo sistema de integraboard V.4, existe un sistema aparte creado es
 :::
 
 
-
 ## 1. Aspectos generales del sistema a considerar
 
 ### 1.1. Requerimientos técnicos
@@ -84,15 +83,10 @@ comprobará las dependencias y creará accesos directos en el escritorio y el me
 
 ### 1.2.1. ​ Registro y primer Uso
 
-La primera ejecución de IntegraBoard comienza al abrir el acceso directo de
-IntegraBoard en el escritorio ó en el menú de inicio de su computador,
-realizando la siguiente búsqueda: Programas -> Lifeware -> IntegraBoard.
+La primera ejecución de IntegraBoard comienza al abrir el acceso directo de IntegraBoard en el escritorio ó en el menú de inicio de su computador,realizando la siguiente búsqueda: Programas -> Lifeware -> IntegraBoard.
 
-La primera vez que se ejecuta IntegraBoard, el programa se conectará con el servidor de actualizaciones de  
-Lifeware para registrar la copia del software. Este proceso es automático y tarda alrededor de un minuto.
-Para esto es necesario tener habilitada una conexión a internet. Si el proceso es exitoso, buscará las actualizaciones
-y las instalará  automáticamente en caso de ser necesario. El registro dentro de la aplicación es OBLIGATORIO
-para el funcionamiento del software.
+La primera vez que se ejecuta IntegraBoard, el programa se conectará con el servidor de actualizaciones de Lifeware para registrar la copia del software. Este proceso es automático y tarda alrededor de un minuto.
+Para esto es necesario tener habilitada una conexión a internet. Si el proceso es exitoso, buscará las actualizaciones y las instalará  automáticamente en caso de ser necesario. El registro dentro de la aplicación es OBLIGATORIO para el funcionamiento del software.
 
 :::note
 La primera vez que se ejecute el programa, será obligatorio estar conectado a internet para realizar el registro de la copia.
