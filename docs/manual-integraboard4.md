@@ -107,10 +107,8 @@ Las próximas veces no será necesaria la conexión a internet, y de ser así es
 </div>
 
 
-Luego de realizar el registro y crear el perfil llegaremos a una pantalla en la cual está en blanco,
-para poder desplegar el menú solo deberemos presionar en el botón celeste 
-del lado izquierdo de la pantalla el cual nos entregará las distintas opciones
-que trae el menú entre ellas está el perfil, pictogramas y tableros.    
+Luego de realizar el registro y crear el perfil llegaremos a una pantalla en la cual está en blanco, para poder desplegar el menú solo deberemos presionar en el botón celeste 
+del lado izquierdo de la pantalla el cual nos entregará las distintas opciones que trae el menú entre ellas está el perfil, pictogramas y tableros.    
 
 ### 2.2 Perfil
 
@@ -138,15 +136,12 @@ La opción tamaño sirve para poder ajustar el tamaño de la letra de los pictog
 
 #### 4. Tomar foto o seleccionar foto
 
-Para agregar una foto de perfil se puede hacer a través de dos opciones: el tomar una
-foto, botón desde el que se despliega otra pantalla del programa en el cual toma la cámara del dispositivo que se está utilizando,
-ó el seleccionar una foto la cual nos abrirá un buscador donde podremos navegar a través del dispositivo (archivos del computador)
+Para agregar una foto de perfil se puede hacer a través de dos opciones: el tomar una foto, botón desde el que se despliega otra pantalla del programa en el cual toma la cámara del dispositivo que se está utilizando, ó el seleccionar una foto la cual nos abrirá un buscador donde podremos navegar a través del dispositivo (archivos del computador)
 para poder encontrar una imagen que se quiera ocupar como imagen de perfil.
 
 #### 5. Voz
 
-La opción de voz nos permite modificar la voz que queremos que interprete los tableros. Para seleccionar hay que presionar el recuadro que tiene el nombre y
-se desplegará un listado donde se podrá seleccionar entre las voces que tiene instaladas en su dispositivo.
+La opción de voz nos permite modificar la voz que queremos que interprete los tableros. Para seleccionar hay que presionar el recuadro que tiene el nombre y se desplegará un listado donde se podrá seleccionar entre las voces que tiene instaladas en su dispositivo. 
 Se puede probar la voz que se selecciona al presionar el botón escuchar.
 
 ### 2.3 Pictogramas
@@ -162,8 +157,7 @@ Se puede probar la voz que se selecciona al presionar el botón escuchar.
 </div>
 
 
-El menú del pictograma se divide en distintas partes, tiene una barra buscadora donde se pueden aplicar filtros
-para poder encontrar pictogramas de manera más sencilla.
+El menú del pictograma se divide en distintas partes, tiene una barra buscadora donde se pueden aplicar filtros para poder encontrar pictogramas de manera más sencilla.
 Estos filtros pueden ser por nombre o por categoría, luego están las acciones que en los siguientes puntos se explicarán.
 
 #### 2. Crear Pictogramas
@@ -174,16 +168,11 @@ Estos filtros pueden ser por nombre o por categoría, luego están las acciones 
 
 </div>
 
-Al presionar la opción de crear pictogramas nos direccionará a una nueva ventana, 
-donde se entregarán algunos datos a rellenar dentro de estos datos están:
-nombre del pictograma, un texto que estará dentro del pictograma, etiquetas y categoría, 
-además de esto tenemos que seleccionar o tomar una imagen para el pictograma.
+Al presionar la opción de crear pictogramas nos direccionará a una nueva ventana, donde se entregarán algunos datos a rellenar dentro de estos datos están:
+nombre del pictograma, un texto que estará dentro del pictograma, etiquetas y categoría, además de esto tenemos que seleccionar o tomar una imagen para el pictograma.
 De manera opcional se puede agregar sonido a un pictograma mediante el botón “agregar sonido”.
 Opción de agregar sonido al pictograma:
-En esta opción tenemos la posibilidad de integrar un sonido que ya esté cargado en nuestro Integraboard,
-en caso de no tener ningún sonido cargado en nuestro programa tendremos dos 
-opciones más las cuales uno nos permitirá buscar sonidos dentro de nuestro dispositivo
-y otro en el cual podemos grabar sonido dentro de nuestro programa.
+En esta opción tenemos la posibilidad de integrar un sonido que ya esté cargado en nuestro Integraboard, en caso de no tener ningún sonido cargado en nuestro programa tendremos dos opciones más las cuales uno nos permitirá buscar sonidos dentro de nuestro dispositivo y otro en el cual podemos grabar sonido dentro de nuestro programa.
 
 #### 3. Previsualizar
 
@@ -194,9 +183,7 @@ y otro en el cual podemos grabar sonido dentro de nuestro programa.
 </div>
 
 
-Para realizar la previsualización debemos seleccionar un pictograma.
-Una vez seleccionado uno de estos, presionamos el botón previsualizar y 
-se abre una nueva ventana donde se muestra el pictograma en un tamaño más grande.
+Para realizar la previsualización debemos seleccionar un pictograma. Una vez seleccionado uno de estos, presionamos el botón previsualizar y  se abre una nueva ventana donde se muestra el pictograma en un tamaño más grande.
 
 #### 4. Exportar e Importar
 
@@ -206,11 +193,8 @@ se abre una nueva ventana donde se muestra el pictograma en un tamaño más gran
     <https://updates.lifeware.cl/Recursos/pictogramasParaIntegraboard4.zip>
 
     
-Exportar e importar pictogramas es un proceso tanto para extraer nuestros pictogramas creados en 
-la aplicación como para poder integrar pictogramas dentro de la misma aplicación.
-La importancia que tiene este elemento dentro de la aplicación es que tenemos la posibilidad de 
-respaldar cada uno de nuestros pictogramas, así como también la posibilidad 
-de aumentar la cantidad de estos dentro de la aplicación.
+Exportar e importar pictogramas es un proceso tanto para extraer nuestros pictogramas creados en la aplicación como para poder integrar pictogramas dentro de la misma aplicación.
+La importancia que tiene este elemento dentro de la aplicación es que tenemos la posibilidad de respaldar cada uno de nuestros pictogramas, así como también la posibilidad de aumentar la cantidad de estos dentro de la aplicación.
 
 - Imagen del menú de importar:
 <div style={{textAlign: 'center'}}>
@@ -239,10 +223,8 @@ Imagen del menú de exportar:
 </div>
 
 
-La opción editar pictogramas hace referencia a que se pueden reemplazar todos 
-los datos de un pictograma creado anteriormente.
-Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada 
-uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
+La opción editar pictogramas hace referencia a que se pueden reemplazar todos los datos de un pictograma creado anteriormente.
+Al hacer click en “editar” se abrirá una nueva pestaña que mostrará cada uno de los datos que contiene el pictograma además de mostrar si tiene algún sonido vinculado.
 
 
 #### 6. Eliminar pictogramas
@@ -271,8 +253,7 @@ Al pulsar esta opción se borrará del listado de pictogramas.
 </div>
 
 El menú de los tableros contiene filtros para buscar por categoría de tableros o por nombre.
-Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, 
-y al costado derecho de esto están las acciones que se pueden realizar.
+Debajo de los filtros se encuentra el listado de tableros existentes en Integraboard, y al costado derecho de esto están las acciones que se pueden realizar.
 
 
 ####  2. Crear Tableros
@@ -284,9 +265,7 @@ y al costado derecho de esto están las acciones que se pueden realizar.
 </div>
 
 
-Para crear el tablero se debe seleccionar el botón “crear tablero”, 
-el cual despliega una lista de tipos de tableros posibles a crear,
-dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
+Para crear el tablero se debe seleccionar el botón “crear tablero”, el cual despliega una lista de tipos de tableros posibles a crear, dentro de las que se puede elegir: Comunicación, Emociones, Rutina, Sonidos.
 
 
 #### A) Tablero de comunicación
@@ -303,22 +282,13 @@ usuario pueda comunicarse con las demás personas.
 
 Observaciones para el uso de tableros de comunicación:
 
-- En el recuadro izquierdo se pueden ubicar 
-    los pictogramas en cada 
-    uno de los casilleros mostrados en pantalla.
+ - En el recuadro izquierdo se pueden ubicar los pictogramas en cada uno de los casilleros mostrados en pantalla.
 
-- En el costado derecho se pueden ver las 
-    distintas opciones que nos
-     sirven para editar el tablero, 
-    ya sea la cantidad de filas y columnas de pictogramas,
-    nombre del tablero, además de una imagen de portada, y etiquetas.
+ - En el costado derecho se pueden ver las distintas opciones que nos sirven para editar el tablero, ya sea la cantidad de filas y columnas de pictogramas, nombre del tablero, además de una imagen de portada, y etiquetas.
 
-- Para finalizar se debe apretar el
-     botón de guardar para 
-    que quede dentro de los tableros creados.
+ - Para finalizar se debe apretar el botón de guardar para que quede dentro de los tableros creados.
 
-Observación: Es obligación asignar una portada al tablero para que pueda ser guardado. 
-En caso contrario, el programa mostrará una alerta diciendo que debe asignar una portada.
+ Observación: Es obligación asignar una portada al tablero para que pueda ser guardado. En caso contrario, el programa mostrará una alerta diciendo que debe asignar una portada.
 
 
 ####  B) Tablero de Emociones
@@ -333,16 +303,11 @@ En caso contrario, el programa mostrará una alerta diciendo que debe asignar un
 El propósito de este tablero es poder representar las emociones del usuario a través de los distintos pictogramas que existen.
 Observaciones para el uso de tableros de comunicación:
 
--   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales 
-    se pueden ocupar pictogramas creados dentro de los casilleros en el recuadro izquierdo.
+ -   Este tablero tiene un máximo de 3 filas y 7 columnas, en los cuales se pueden ocupar pictogramas creados dentro de los casilleros en el recuadro izquierdo.
 
--   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, 
-    es decir, se le puede asignar un nombre,
-    filas y columnas que contendrán los pictogramas, etiquetas y 
-    asignarle un pictograma como portada de tablero.
+ -   En este caso las opciones son las mismas que contiene el tablero de comunicaciones, es decir, se le puede asignar un nombre, filas y columnas que contendrán los pictogramas, etiquetas y asignarle un pictograma como portada de tablero.
 
--   Se finaliza la creación del tablero de la misma 
-    forma que el mencionado anteriormente.
+ -   Se finaliza la creación del tablero de la misma forma que el mencionado anteriormente.
 
 #### C) Tablero de rutinas
 
@@ -351,20 +316,15 @@ El tablero de rutinas hace referencia a una serie de tareas representadas por pi
 
 Observación para el uso del tablero de rutinas:
 
-- Este tablero consta con un máximo de 7 columnas, 
-    también denominadas como “7 tareas” por rutina.
+ - Este tablero consta con un máximo de 7 columnas,también denominadas como “7 tareas” por rutina.
 
-- En el recuadro izquierdo se puede observar los casilleros en donde se ubicarán los pictogramas.
+ - En el recuadro izquierdo se puede observar los casilleros en donde se ubicarán los pictogramas.
 
-    Estos después de estas dos opciones se dividen en dos tipos, 
-    en tableros de rutina sin tiempo y tableros de rutina con tiempo
+    Estos después de estas dos opciones se dividen en dos tipos, en tableros de rutina sin tiempo y tableros de rutina con tiempo
 
-- En el costado derecho tenemos las distintas opciones, entre estas opciones esta la de darle un nombre,
-    darle la cantidad de columnas que se requieren dentro del tablero, poner etiquetas al tablero,
-    y la opción de darle tiempo o no a las tareas.
+ - En el costado derecho tenemos las distintas opciones, entre estas opciones esta la de darle un nombre, darle la cantidad de columnas que se requieren dentro del tablero, poner etiquetas al tablero, y la opción de darle tiempo o no a las tareas.
 
-En caso de querer que el tablero sea con tiempo se debe 
-marcar esta opción en la cual debajo de los pictogramas saldrán dos recuadros.
+En caso de querer que el tablero sea con tiempo se debe marcar esta opción en la cual debajo de los pictogramas saldrán dos recuadros.
    
 Caso A) Al no pinchar la opción "Tablero de rutina con tiempo":
 
