@@ -65,21 +65,18 @@ Dentro del nuevo sistema de integraboard V.4, existe un sistema aparte creado es
 
 ### 1.1.1. ​ Software:
 
-- Windows 10.
-- .NET Framework 4.5.2.
+ - Windows 10.
+ - .NET Framework 4.5.2.
 
 ### 1.1.2. ​ Hardware:
 
-- Procesador 2.4 GHz o superior.
-- 2 GB de memoria RAM o superior.
-- 50 MB de espacio disponible en disco duro.
+ - Procesador 2.4 GHz o superior.
+ - 2 GB de memoria RAM o superior.
+ - 50 MB de espacio disponible en disco duro.
 
 ### 1.2. Instalación del software
 
-El proceso de instalación comienza una vez teniendo el archivo ejecutable llamado “IntegraBoardInstaller.exe”,
-este se puede obtener tanto descargándolo como mediante un dispositivo USB. Para realizar la instalación solo
-se debe abrir el archivo antes mencionado, el instalador lo guiará a través del proceso de instalación,
-comprobará las dependencias y creará accesos directos en el escritorio y el menú de inicio dando el primer uso de manera inmediata.
+El proceso de instalación comienza una vez teniendo el archivo ejecutable llamado “IntegraBoardInstaller.exe”, este se puede obtener tanto descargándolo como mediante un dispositivo USB. Para realizar la instalación solo se debe abrir el archivo antes mencionado, el instalador lo guiará a través del proceso de instalación, comprobará las dependencias y creará accesos directos en el escritorio y el menú de inicio dando el primer uso de manera inmediata.
 
 ### 1.2.1. ​ Registro y primer Uso
 
@@ -535,11 +532,11 @@ Para comenzar a utilizar este player lo que debemos hacer es presionar el botón
 
 Los tres botones que están presente en la zona inferior de la pantalla sirven para:
 
-* Saltar la tarea, es decir que si se ven que una tarea no es necesaria del todo se puede pasar a la siguiente acción para que el alumno la realice.
+ - Saltar la tarea, es decir que si se ven que una tarea no es necesaria del todo se puede pasar a la siguiente acción para que el alumno la realice.
 
-* Terminar la tarea, sirve para poder marcar la tarea como realizada con éxito y pasa a la siguiente tarea.
+ - Terminar la tarea, sirve para poder marcar la tarea como realizada con éxito y pasa a la siguiente tarea.
 
-* El botón agregar tiempo aumenta 20 segundos en el marcador de tiempo ya existente.
+ - El botón agregar tiempo aumenta 20 segundos en el marcador de tiempo ya existente.
 
 
 #### D) Player del tablero de Sonido:
