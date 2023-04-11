@@ -54,6 +54,11 @@ title: Manual de Usuario INTEGRABOARD Version 4.0®
 4. [Casos de uso cotidiano](#4-casos-de-uso-cotidiano)
 5. [Glosario](#5-glosario)
 
+:::important
+Dentro del nuevo sistema de integraboard V.4, existe un sistema aparte creado especificamente para tutores, profesores, profesionales dedicados a ayudar a las personas que utilizan nuestro sistema, se marcara con un "*" todos aquellos puntos que se pueden realizar en el software dedicado al profesional
+:::
+
+
 
 ## 1. Aspectos generales del sistema a considerar
 
@@ -999,7 +1004,8 @@ que contiene en el centro de la pantalla.
 Paso 2: Una vez realizada una acción/tarea correctamente 
 debemos presionar el botón "Terminar tarea" y en el pictograma se mostrara con un tick.
 
-Paso 3: En el caso de que se quiera saltar una tarea se debe presionar el botón "Saltar tarea", por lo que se pondra una flecha en el pictograma.
+Paso 3: En el caso de que se quiera saltar una tarea se debe presionar el botón "Saltar tarea", 
+por lo que se pondra una flecha en el pictograma.
 
 Paso 4: Una vez terminado/saltado cada una de las tareas nos saldrá 
 una notificación que al cerrarla se nos devolverá al menú donde están los tableros.
