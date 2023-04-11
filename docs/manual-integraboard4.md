@@ -491,6 +491,7 @@ Una vez que este esté lleno de pictogramas se puede ocupar la opción de escuch
 También hay un botón llamado sintetizar pictogramas que muestra el tablero un poco más grande en el cual la persona puede presionar los pictogramas y el programa comenzará a realizar la lectura de estos a través de la voz seleccionada en el perfil.
 
 #### B) Player del tablero de emociones:
+
 El Player de emociones se representa de la siguiente manera:
 
 <div style={{textAlign: 'center'}}>
